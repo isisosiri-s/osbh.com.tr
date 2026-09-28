@@ -1,0 +1,41 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import CertBadges from '../components/CertBadges.astro';
+
+// NOT (Claude Code): Bu sayfa canlı sitede (osbh.com.tr) tamamen BOŞTU — sadece
+// başlık vardı, gövde metni yoktu. Taşınacak gerçek bir içerik bulunamadığı için
+// burada politika metni UYDURULMADI. ISO 27001/9001/13485 sertifikalarınıza
+// karşılık gelen gerçek "Bilgi-Kalite Güvenliği Yönetim Politikası" metnini
+// temin edip bu sayfaya eklemeniz gerekiyor.
+---
+
+<BaseLayout
+  title="Bilgi-Kalite Güvenliği Yönetim Politikası - Online Sağlık Bilişim Hizmetleri A.Ş."
+  description="Online Sağlık Bilişim Hizmetleri A.Ş. bilgi güvenliği ve kalite yönetim politikası."
+  canonical="https://osbh.com.tr/bilgi-kalite-guvenligi-yonetim-politikasi/"
+>
+  <div class="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8 py-14">
+    <h1 class="text-3xl sm:text-4xl font-extrabold text-slate-900 mb-6">Bilgi-Kalite Güvenliği Yönetim Politikası</h1>
+
+    <div class="rounded-2xl border border-amber-200 bg-amber-50 p-6 mb-10">
+      <p class="text-sm text-amber-800">
+        <strong>İçerik hazırlanıyor.</strong> Bu sayfanın metni eski sitede de boştu; ISO 27001, ISO 9001
+        ve ISO 13485 sertifikalarınıza karşılık gelen resmi politika metnini bize iletirseniz
+        buraya ekleyebiliriz.
+      </p>
+    </div>
+
+    <p class="text-slate-600 leading-relaxed mb-10">
+      Online Sağlık Bilişim Hizmetleri A.Ş. olarak bilgi güvenliği ve kalite yönetimi
+      alanlarında uluslararası standartlara uygun sertifikalara sahibiz:
+    </p>
+
+    <div class="rounded-2xl bg-slate-50 p-8 mb-10">
+      <CertBadges />
+    </div>
+
+    <p class="text-sm text-slate-500">
+      Bu politika hakkında detaylı bilgi almak için <a href="/iletisim/" class="text-teal-700 underline">bizimle iletişime geçebilirsiniz</a>.
+    </p>
+  </div>
+</BaseLayout>

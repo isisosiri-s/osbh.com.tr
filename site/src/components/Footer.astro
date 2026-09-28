@@ -1,0 +1,60 @@
+---
+import { SITE, FOOTER_LINKS } from '../lib/site';
+const year = new Date().getFullYear();
+---
+
+<footer class="bg-slate-900 text-slate-300">
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-14 grid grid-cols-1 md:grid-cols-4 gap-10">
+    <div>
+      <img src="/images/logosd-8b84d523ea.webp" alt={SITE.name} class="h-9 w-auto mb-4 brightness-0 invert opacity-90" width="140" height="36" />
+      <p class="text-sm leading-relaxed text-slate-400">
+        Sağlık Bakanlığı ruhsatlı Uzaktan Sağlık Bilgi Sistemi (USBS) altyapısı ile
+        kendi web sitenizde online muayene hizmeti verin.
+      </p>
+    </div>
+
+    <div>
+      <h3 class="text-sm font-semibold text-white mb-4">Kurumsal</h3>
+      <ul class="space-y-2 text-sm">
+        {FOOTER_LINKS.company.map((l) => (
+          <li>
+            <a href={l.href} target={l.external ? '_blank' : undefined} rel={l.external ? 'noopener noreferrer' : undefined} class="hover:text-teal-400 transition-colors">
+              {l.label}
+            </a>
+          </li>
+        ))}
+      </ul>
+    </div>
+
+    <div>
+      <h3 class="text-sm font-semibold text-white mb-4">Sözleşmeler</h3>
+      <ul class="space-y-2 text-sm">
+        {FOOTER_LINKS.legal.map((l) => (
+          <li>
+            <a href={l.href} class="hover:text-teal-400 transition-colors">{l.label}</a>
+          </li>
+        ))}
+      </ul>
+    </div>
+
+    <div>
+      <h3 class="text-sm font-semibold text-white mb-4">İletişim</h3>
+      <ul class="space-y-2 text-sm text-slate-400">
+        <li><a href={SITE.phoneHref} class="hover:text-teal-400">{SITE.phone}</a></li>
+        <li><a href={`mailto:${SITE.email}`} class="hover:text-teal-400">{SITE.email}</a></li>
+        {SITE.offices.map((o) => (
+          <li class="pt-1">
+            <span class="block font-medium text-slate-300">{o.name}</span>
+            {o.address}
+          </li>
+        ))}
+      </ul>
+    </div>
+  </div>
+
+  <div class="border-t border-slate-800">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-5 text-xs text-slate-500 flex flex-col sm:flex-row justify-between gap-2">
+      <span>© {year} {SITE.name}. Tüm hakları saklıdır.</span>
+    </div>
+  </div>
+</footer>

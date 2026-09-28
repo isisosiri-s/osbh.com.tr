@@ -1,0 +1,46 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ProductCard from '../components/ProductCard.astro';
+import ComparisonTable from '../components/ComparisonTable.astro';
+
+const allProducts = await getCollection('products');
+const products = allProducts
+  .filter((p) => p.data.group === 'kurumsal')
+  .sort((a, b) => parseFloat(a.data.price.replace(/\./g, '').replace(',', '.')) - parseFloat(b.data.price.replace(/\./g, '').replace(',', '.')));
+---
+
+<BaseLayout
+  title="Kurumsal USBS Paketleri - Online Sağlık Bilişim Hizmetleri A.Ş."
+  description="Hastane, poliklinik gibi sağlık kuruluşlarına özel uzaktan sağlık paketleri."
+  canonical="https://osbh.com.tr/kurumsal-usbs-paketleri/"
+>
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-14">
+    <div class="text-center mb-12">
+      <span class="text-sm font-semibold uppercase tracking-wide text-teal-600">Kurumsal USBS Paketleri</span>
+      <h1 class="text-3xl sm:text-4xl font-extrabold text-slate-900 mt-2">Sağlık Kurumunuz İçin USBS Paketleri</h1>
+      <p class="text-slate-500 mt-3 max-w-2xl mx-auto">
+        Hastane, poliklinik gibi sağlık kuruluşlarına özel uzaktan sağlık paketleri — birden fazla
+        doktor profili ile kurumunuzu dijital platforma taşıyın.
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-6 mb-16">
+      {products.map((p) => (
+        <ProductCard
+          slug={p.slug}
+          title={p.data.title}
+          image={p.data.image}
+          price={p.data.price}
+          originalPrice={p.data.originalPrice}
+          discountPercent={p.data.discountPercent}
+          activation={p.data.activation}
+          categoryLabel={p.data.categoryLabel}
+        />
+      ))}
+    </div>
+
+    <h2 class="text-2xl font-bold text-slate-900 mb-6 text-center">Paket Karşılaştırma</h2>
+    <ComparisonTable products={products} />
+  </div>
+</BaseLayout>

@@ -1,0 +1,214 @@
+# Üyelik Sözleşmesi - Online Sağlık Bilişim Hizmetleri A.Ş.
+
+- **URL**: https://osbh.com.tr/uyelik-sozlesmesi/
+- **Grup**: legal
+- **Canonical**: https://osbh.com.tr/uyelik-sozlesmesi/
+- **Meta description**: SİTE KULLANIM ŞARTLARI Lütfen sitemizi kullanmadan evvel bu ‘site kullanım şartları’nı dikkatlice okuyunuz. Bu alışveriş sitesini kullanan ve alışveriş yapan
+- **OG title**: Üyelik Sözleşmesi - Online Sağlık Bilişim Hizmetleri A.Ş.
+- **OG description**: SİTE KULLANIM ŞARTLARI Lütfen sitemizi kullanmadan evvel bu ‘site kullanım şartları’nı dikkatlice okuyunuz. Bu alışveriş sitesini kullanan ve alışveriş yapan
+- **OG image**: -
+
+## H1
+- Üyelik Sözleşmesi
+
+## H2
+- SİTE KULLANIM ŞARTLARI
+- 1. SORUMLULUKLAR
+- 2.  Fikri Mülkiyet Hakları
+- 3. Gizli Bilgi
+- 5. Kayıt ve Güvenlik
+- 6. Mücbir Sebep
+- 7. Sözleşmenin Bütünlüğü ve Uygulanabilirlik
+- 8. Sözleşmede Yapılacak Değişiklikler
+- 9. Tebligat
+- 10. Delil Sözleşmesi
+- 11. Uyuşmazlıkların Çözümü
+
+## H3
+(yok)
+
+## Gövde Metni
+Sign in
+close
+Username or email
+*
+Password
+Log in
+Lost your password?
+Remember me
+No account yet?
+Create an Account
+Search for:
+Search
+Anasayfa
+USBS Özellikleri
+USBS Çözümleri
+Bireysel USBS Paketleri
+Kurumsal USBS Paketleri
+OSGB USBS Paketleri
+Blog
+Kurumsal
+İletişim
+Login / Register
+Shopping cart
+No products in the cart.
+o
+0
+0.00
+₺
+Üyelik Sözleşmesi
+SİTE KULLANIM ŞARTLARI
+Lütfen sitemizi kullanmadan evvel bu ‘site kullanım şartları’nı dikkatlice okuyunuz.
+Bu alışveriş sitesini kullanan ve alışveriş yapan müşterilerimiz aşağıdaki şartları kabul etmiş varsayılmaktadır:
+Sitemizdeki web sayfaları ve ona bağlı tüm sayfalar (‘OSBH’) osbh.com.tr adresindeki Online Sağlık Bilişim Hizmetleri firmasının (Firma) malıdır ve onun tarafından işletilir. Sizler (‘Kullanıcı’) sitede sunulan tüm hizmetleri kullanırken aşağıdaki şartlara tabi olduğunuzu, sitedeki hizmetten yararlanmakla ve kullanmaya devam etmekle; Bağlı olduğunuz yasalara göre sözleşme imzalama hakkına, yetkisine ve hukuki ehliyetine sahip ve 18 yaşın üzerinde olduğunuzu, bu sözleşmeyi okuduğunuzu, anladığınızı ve sözleşmede yazan şartlarla bağlı olduğunuzu kabul etmiş sayılırsınız.
+İşbu sözleşme taraflara sözleşme konusu site ile ilgili hak ve yükümlülükler yükler ve taraflar işbu sözleşmeyi kabul ettiklerinde bahsi geçen hak ve yükümlülükleri eksiksiz, doğru, zamanında, işbu sözleşmede talep edilen şartlar dâhilinde yerine getireceklerini beyan ederler.
+1. SORUMLULUKLAR
+a.Firma, fiyatlar ve sunulan ürün ve hizmetler üzerinde değişiklik yapma hakkını her zaman saklı tutar.
+b.Firma, üyenin sözleşme konusu hizmetlerden, teknik arızalar dışında yararlandırılacağını kabul ve taahhüt eder.
+c.Kullanıcı, sitenin kullanımında tersine mühendislik yapmayacağını ya da bunların kaynak kodunu bulmak veya elde etmek amacına yönelik herhangi bir başka işlemde bulunmayacağını aksi halde ve 3. Kişiler nezdinde doğacak zararlardan sorumlu olacağını, hakkında hukuki ve cezai işlem yapılacağını peşinen kabul eder.
+d.Kullanıcı, site içindeki faaliyetlerinde, sitenin herhangi bir bölümünde veya iletişimlerinde genel ahlaka ve adaba aykırı, kanuna aykırı, 3. Kişilerin haklarını zedeleyen, yanıltıcı, saldırgan, müstehcen, pornografik, kişilik haklarını zedeleyen, telif haklarına aykırı, yasa dışı faaliyetleri teşvik eden içerikler üretmeyeceğini, paylaşmayacağını kabul eder. Aksi halde oluşacak zarardan tamamen kendisi sorumludur ve bu durumda ‘Site’ yetkilileri, bu tür hesapları askıya alabilir, sona erdirebilir, yasal süreç başlatma hakkını saklı tutar. Bu sebeple yargı mercilerinden etkinlik veya kullanıcı hesapları ile ilgili bilgi talepleri gelirse paylaşma hakkını saklı tutar.
+e.Sitenin üyelerinin birbirleri veya üçüncü şahıslarla olan ilişkileri kendi sorumluluğundadır.
+2. Fikri Mülkiyet Hakları
+2.1. İşbu Site’de yer alan ünvan, işletme adı, marka, patent, logo, tasarım, bilgi ve yöntem gibi tescilli veya tescilsiz tüm fikri mülkiyet hakları site işleteni ve sahibi firmaya veya belirtilen ilgilisine ait olup, ulusal ve uluslararası hukukun koruması altındadır. İşbu Site’nin ziyaret edilmesi veya bu Site’deki hizmetlerden yararlanılması söz konusu fikri mülkiyet hakları konusunda hiçbir hak vermez.
+2.2. Site’de yer alan bilgiler hiçbir şekilde çoğaltılamaz, yayınlanamaz, kopyalanamaz, sunulamaz ve/veya aktarılamaz. Site’nin bütünü veya bir kısmı diğer bir internet sitesinde izinsiz olarak kullanılamaz.
+3. Gizli Bilgi
+3.1. Firma, site üzerinden kullanıcıların ilettiği kişisel bilgileri 3. Kişilere açıklamayacaktır. Bu kişisel bilgiler; kişi adı-soyadı, adresi, telefon numarası, cep telefonu, e-posta adresi gibi Kullanıcı’yı tanımlamaya yönelik her türlü diğer bilgiyi içermekte olup, kısaca ‘Gizli Bilgiler’ olarak anılacaktır.
+3.2. Kullanıcı, sadece tanıtım, reklam, kampanya, promosyon, duyuru vb. pazarlama faaliyetleri kapsamında kullanılması ile sınırlı olmak üzere, Site’nin sahibi olan firmanın kendisine ait iletişim, portföy durumu ve demografik bilgilerini iştirakleri ya da bağlı bulunduğu grup şirketleri ile paylaşmasına muvafakat ettiğini kabul ve beyan eder. Bu kişisel bilgiler firma bünyesinde müşteri profili belirlemek, müşteri profiline uygun promosyon ve kampanyalar sunmak ve istatistiksel çalışmalar yapmak amacıyla kullanılabilecektir.
+3.3. Gizli Bilgiler, ancak resmi makamlarca usulü dairesinde bu bilgilerin talep edilmesi halinde ve yürürlükteki emredici mevzuat hükümleri gereğince resmi makamlara açıklama yapılmasının zorunlu olduğu durumlarda resmi makamlara açıklanabilecektir.
+4. Garanti Vermeme: İŞBU SÖZLEŞME MADDESİ UYGULANABİLİR KANUNUN İZİN VERDİĞİ AZAMİ ÖLÇÜDE GEÇERLİ OLACAKTIR. FİRMA TARAFINDAN SUNULAN HİZMETLER “OLDUĞU GİBİ” VE “MÜMKÜN OLDUĞU” TEMELDE SUNULMAKTA VE PAZARLANABİLİRLİK, BELİRLİ BİR AMACA UYGUNLUK VEYA İHLAL ETMEME KONUSUNDA TÜM ZIMNİ GARANTİLER DE DÂHİL OLMAK ÜZERE HİZMETLER VEYA UYGULAMA İLE İLGİLİ OLARAK (BUNLARDA YER ALAN TÜM BİLGİLER DÂHİL) SARİH VEYA ZIMNİ, KANUNİ VEYA BAŞKA BİR NİTELİKTE HİÇBİR GARANTİDE BULUNMAMAKTADIR.
+5. Kayıt ve Güvenlik
+Kullanıcı, doğru, eksiksiz ve güncel kayıt bilgilerini vermek zorundadır. Aksi halde bu Sözleşme ihlal edilmiş sayılacak ve Kullanıcı bilgilendirilmeksizin hesap kapatılabilecektir.
+Kullanıcı, site ve üçüncü taraf sitelerdeki şifre ve hesap güvenliğinden kendisi sorumludur. Aksi halde oluşacak veri kayıplarından ve güvenlik ihlallerinden veya donanım ve cihazların zarar görmesinden Firma sorumlu tutulamaz.
+6. Mücbir Sebep
+Tarafların kontrolünde olmayan; tabii afetler, yangın, patlamalar, iç savaşlar, savaşlar, ayaklanmalar, halk hareketleri, seferberlik ilanı, grev, lokavt ve salgın hastalıklar, altyapı ve internet arızaları, elektrik kesintisi gibi sebeplerden (aşağıda birlikte “Mücbir Sebep” olarak anılacaktır.) dolayı sözleşmeden doğan yükümlülükler taraflarca ifa edilemez hale gelirse, taraflar bundan sorumlu değildir. Bu sürede Taraflar’ın işbu Sözleşme’den doğan hak ve yükümlülükleri askıya alınır.
+7. Sözleşmenin Bütünlüğü ve Uygulanabilirlik
+İşbu sözleşme şartlarından biri, kısmen veya tamamen geçersiz hale gelirse, sözleşmenin geri kalanı geçerliliğini korumaya devam eder.
+8. Sözleşmede Yapılacak Değişiklikler
+Firma, dilediği zaman sitede sunulan hizmetleri ve işbu sözleşme şartlarını kısmen veya tamamen değiştirebilir. Değişiklikler sitede yayınlandığı tarihten itibaren geçerli olacaktır. Değişiklikleri takip etmek Kullanıcı’nın sorumluluğundadır. Kullanıcı, sunulan hizmetlerden yararlanmaya devam etmekle bu değişiklikleri de kabul etmiş sayılır.
+9. Tebligat
+İşbu Sözleşme ile ilgili taraflara gönderilecek olan tüm bildirimler, Firma’nın bilinen e.posta adresi ve kullanıcının üyelik formunda belirttiği e.posta adresi vasıtasıyla yapılacaktır. Kullanıcı, üye olurken belirttiği adresin geçerli tebligat adresi olduğunu, değişmesi durumunda 5 gün içinde yazılı olarak diğer tarafa bildireceğini, aksi halde bu adrese yapılacak tebligatların geçerli sayılacağını kabul eder.
+10. Delil Sözleşmesi
+Taraflar arasında işbu sözleşme ile ilgili işlemler için çıkabilecek her türlü uyuşmazlıklarda Taraflar’ın defter, kayıt ve belgeleri ile ve bilgisayar kayıtları ve faks kayıtları 6100 sayılı Hukuk Muhakemeleri Kanunu uyarınca delil olarak kabul edilecek olup, kullanıcı bu kayıtlara itiraz etmeyeceğini kabul eder.
+11. Uyuşmazlıkların Çözümü
+İşbu Sözleşme’nin uygulanmasından veya yorumlanmasından doğacak her türlü uyuşmazlığın çözümünde İstanbul (Merkez) Adliyesi Mahkemeleri ve İcra Daireleri yetkilidir.
+Close
+Son Makaleler
+Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik 2022
+USBS Kayıtlı Firma
+Uzaktan Sağlık Hizmeti Vermek için Dikkat Edilmesi Gereken Noktalar 2023
+Uzaktan Online Sağlık Hizmeti Vermeye Başlayın 2023
+İşyeri Hekimliği E-Reçete
+Online Sağlık Bilişim
+Hizmetlerimiz
+Aktif USBS Listesi
+Cepte Sağlık
+Müşteri Paneli
+Hesabım
+Sepetim
+E-Reçete, E-Rapor
+Sözleşmeler
+Gizlilik Politikası
+Kişisel Verilerin Korunması Kanunu
+İptal ve İade
+Mesafeli Satış Sözleşmesi
+Bilgi-Kalite Güvenliği Yönetim Politikası
+© 2026
+Online Sağlık Bilişim Hizmetleri A.Ş.
+. All rights reserved
+Sidebar
+
+## Görseller (7)
+- gorseller/logosd-8b84d523ea.png — alt: "Online Sağlık Bilişim Hizmetleri A.Ş." — kaynak: https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png
+- gorseller/logosd-8b84d523ea.png — alt: "Online Sağlık Bilişim Hizmetleri A.Ş." — kaynak: https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png
+- gorseller/Adsiz-tasarim-15-70x70-346c4aae0a.jpg — alt: "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik" — kaynak: https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15-70x70.jpg
+- gorseller/Adsiz-tasarim-16-70x70-fe8a7d49a6.jpg — alt: "USBS Kayıtlı Firma" — kaynak: https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16-70x70.jpg
+- gorseller/ceptesaglik-blog-uzaktan-online-saglik-hizmeti-verebilmek-ic-a1b967d847.jpg — alt: "Uzaktan Sağlık Hizmeti Vermek için Dikkat Edilmesi Gereken Noktalar" — kaynak: https://osbh.com.tr/wp-content/uploads/2023/02/ceptesaglik-blog-uzaktan-online-saglik-hizmeti-verebilmek-icin-gereklilikler-nelerdir-75638dbd83ca7c1-70x70.jpg
+- gorseller/Adsiz-tasarim-17-70x70-1ea6a801b1.jpg — alt: "Uzaktan Online Sağlık Hizmeti Vermeye Başlayın" — kaynak: https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-17-70x70.jpg
+- gorseller/Adsiz-tasarim-18-70x70-deca077167.jpg — alt: "İşyeri Hekimliği E-Reçete Programı" — kaynak: https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18-70x70.jpg
+
+## Arka Plan Görselleri (1)
+- gorseller/default-skin-1ea43e3d25.png — kaynak: https://osbh.com.tr/wp-content/themes/basel/images/default-skin.png
+
+## İç Bağlantılar
+- /hesabim/sifremi-unuttum/
+- /hesabim/
+- /
+- /usbs-ozellikleri/
+- /uzaktan-saglik-hizmet-paketleri/
+- /bireysel-usbs-paketleri/
+- /kurumsal-usbs-paketleri/
+- /osgb-usbs-paketleri/
+- /blog/
+- /kurumsal/
+- /iletisim/
+- /sepet/
+- /uzaktan-saglik-hizmetlerinin-sunumu/
+- /usbs-kayitli-firma/
+- /uzaktan-saglik-hizmeti-vermek-icin-dikkat-edilecekler/
+- /uzaktan-online-saglik-hizmeti-vermeye-baslayin-2023/
+- /isyeri-hekimligi-e-recete-programi/
+- /blog
+- /iletisim
+- /hizmetlerimiz
+- /hesabim
+- /sepet
+- /uzaktan-online-saglik-hizmeti-vermeye-baslayin/
+- /uyelik-sozlesmesi
+- /gizlilik-politikasi/
+- /kisisel-verilerin-korunmasi-kanunu
+- /iptal-ve-iade
+- /mesafeli-satis-sozlesmesi
+- /bilgi-kalite-guvenligi-yonetim-politikasi
+
+## Formlar
+[
+  {
+    "action": "https://osbh.com.tr/hesabim/",
+    "method": "post",
+    "id": null,
+    "fields": [
+      "username",
+      "password",
+      "woocommerce-login-nonce",
+      "_wp_http_referer",
+      "rememberme"
+    ]
+  },
+  {
+    "action": "https://osbh.com.tr/",
+    "method": "get",
+    "id": "searchform",
+    "fields": [
+      "s",
+      "post_type"
+    ]
+  },
+  {
+    "action": "https://osbh.com.tr/",
+    "method": "get",
+    "id": "searchform",
+    "fields": [
+      "s",
+      "post_type"
+    ]
+  }
+]
+
+## Google Maps
+(yok)
+
+## İzleme Kodları (tespit)
+{
+  "gtagOrAnalytics": [
+    "https://www.googletagmanager.com/gtag/js?id=G-5WG2NSEQ06&cx=c&gtm=4e69n1",
+    "https://www.google-analytics.com/analytics.js",
+    "https://www.googletagmanager.com/gtag/js?id=G-5B1VZ7JWZD&cx=c&gtm=4e69n1",
+    "https://www.googletagmanager.com/gtag/js?id=UA-242296204-2"
+  ],
+  "gtmId": [],
+  "gaId": [
+    "G-5WG2NSEQ06"
+  ],
+  "fbPixel": false,
+  "searchConsoleVerification": null
+}

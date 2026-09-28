@@ -1,0 +1,132 @@
+
+=== [marketing] https://osbh.com.tr/ ===
+  ✓ kaydedildi: home (38 img, 3 bg-img)
+
+=== [marketing] https://osbh.com.tr/usbs-ozellikleri/ ===
+  ✓ kaydedildi: usbs-ozellikleri (7 img, 12 bg-img)
+
+=== [marketing] https://osbh.com.tr/uzaktan-saglik-hizmet-paketleri/ ===
+  ✓ kaydedildi: uzaktan-saglik-hizmet-paketleri (5 img, 1 bg-img)
+
+=== [marketing] https://osbh.com.tr/bireysel-usbs-paketleri/ ===
+  ✓ kaydedildi: bireysel-usbs-paketleri (5 img, 1 bg-img)
+
+=== [marketing] https://osbh.com.tr/kurumsal-usbs-paketleri/ ===
+  ✓ kaydedildi: kurumsal-usbs-paketleri (5 img, 1 bg-img)
+
+=== [marketing] https://osbh.com.tr/osgb-usbs-paketleri/ ===
+  ✓ kaydedildi: osgb-usbs-paketleri (5 img, 1 bg-img)
+
+=== [marketing] https://osbh.com.tr/hizmetlerimiz/ ===
+  ✓ kaydedildi: hizmetlerimiz (2 img, 2 bg-img)
+
+=== [marketing] https://osbh.com.tr/kurumsal/ ===
+  ✓ kaydedildi: kurumsal (4 img, 1 bg-img)
+
+=== [marketing] https://osbh.com.tr/iletisim/ ===
+  ✓ kaydedildi: iletisim (64 img, 2 bg-img)
+
+=== [marketing] https://osbh.com.tr/bilgi-kalite-guvenligi-yonetim-politikasi/ ===
+  ! görsel hata: https://demo.osbh.com.tr/wp-content/uploads/2023/01/Screenshot_1.jpg -> apiRequestContext.get: getaddrinfo ENOTFOUND demo.osbh.com.tr
+Call log:
+[2m  - → GET https://demo.osbh.com.tr/wp-content/uploads/2023/01/Screenshot_1.jpg[22m
+[2m    - user-agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36[22m
+[2m    - accept: */*[22m
+[2m    - accept-encoding: gzip,deflate,br[22m
+[2m    - cookie: _gid=GA1.3.579657844.1790587638; _gat_gtag_UA_242296204_2=1; _ga_5B1VZ7JWZD=GS2.1.s1790587637$o1$g1$t1790587638$j59$l0$h0; _ga=GA1.1.568288211.1790587638; _ga_5WG2NSEQ06=GS2.1.s1790587638$o1$g1$t1790587638$j60$l0$h0[22m
+
+  ✓ kaydedildi: bilgi-kalite-guvenligi-yonetim-politikasi (8 img, 1 bg-img)
+
+=== [marketing] https://osbh.com.tr/blog/ ===
+  ✓ kaydedildi: blog (7 img, 1 bg-img)
+
+=== [product] https://osbh.com.tr/urun/workplace-flex-usbs/ ===
+  ✓ kaydedildi: urun__workplace-flex-usbs (7 img, 2 bg-img)
+
+=== [product] https://osbh.com.tr/urun/workplace-smart-usbs/ ===
+  ✓ kaydedildi: urun__workplace-smart-usbs (7 img, 2 bg-img)
+
+=== [product] https://osbh.com.tr/urun/workplace-base-usbs/ ===
+  ✓ kaydedildi: urun__workplace-base-usbs (7 img, 2 bg-img)
+
+=== [product] https://osbh.com.tr/urun/business-flex-usbs/ ===
+  ✓ kaydedildi: urun__business-flex-usbs (7 img, 2 bg-img)
+
+=== [product] https://osbh.com.tr/urun/business-smart-usbs/ ===
+  ✓ kaydedildi: urun__business-smart-usbs (7 img, 2 bg-img)
+
+=== [product] https://osbh.com.tr/urun/business-base-usbs/ ===
+  ✓ kaydedildi: urun__business-base-usbs (7 img, 2 bg-img)
+
+=== [product] https://osbh.com.tr/urun/bireysel-performance-usbs/ ===
+  ✓ kaydedildi: urun__bireysel-performance-usbs (7 img, 2 bg-img)
+
+=== [product] https://osbh.com.tr/urun/bireysel-advantage-usbs/ ===
+  ✓ kaydedildi: urun__bireysel-advantage-usbs (7 img, 2 bg-img)
+
+=== [product] https://osbh.com.tr/urun/bireysel-economy-usbs/ ===
+  ✓ kaydedildi: urun__bireysel-economy-usbs (7 img, 2 bg-img)
+
+=== [blog] https://osbh.com.tr/isyeri-hekimligi-e-recete-programi/ ===
+  ✓ kaydedildi: isyeri-hekimligi-e-recete-programi (8 img, 1 bg-img)
+
+=== [blog] https://osbh.com.tr/uzaktan-online-saglik-hizmeti-vermeye-baslayin-2023/ ===
+  ✓ kaydedildi: uzaktan-online-saglik-hizmeti-vermeye-baslayin-2023 (8 img, 1 bg-img)
+
+=== [blog] https://osbh.com.tr/uzaktan-saglik-hizmeti-vermek-icin-dikkat-edilecekler/ ===
+  ✓ kaydedildi: uzaktan-saglik-hizmeti-vermek-icin-dikkat-edilecekler (8 img, 1 bg-img)
+
+=== [blog] https://osbh.com.tr/usbs-kayitli-firma/ ===
+  ✓ kaydedildi: usbs-kayitli-firma (8 img, 1 bg-img)
+
+=== [blog] https://osbh.com.tr/uzaktan-saglik-hizmetlerinin-sunumu/ ===
+  ✓ kaydedildi: uzaktan-saglik-hizmetlerinin-sunumu (8 img, 1 bg-img)
+
+=== [category] https://osbh.com.tr/category/uzaktan-saglik/ ===
+  ✓ kaydedildi: category__uzaktan-saglik (7 img, 1 bg-img)
+
+=== [legal] https://osbh.com.tr/mesafeli-satis-sozlesmesi/ ===
+  ✓ kaydedildi: mesafeli-satis-sozlesmesi (7 img, 1 bg-img)
+
+=== [legal] https://osbh.com.tr/iptal-ve-iade/ ===
+  ✓ kaydedildi: iptal-ve-iade (7 img, 1 bg-img)
+
+=== [legal] https://osbh.com.tr/cerez-politikasi/ ===
+  ✓ kaydedildi: cerez-politikasi (7 img, 1 bg-img)
+
+=== [legal] https://osbh.com.tr/uyelik-sozlesmesi/ ===
+  ✓ kaydedildi: uyelik-sozlesmesi (7 img, 1 bg-img)
+
+=== [legal] https://osbh.com.tr/gizlilik-politikasi/ ===
+  ✓ kaydedildi: gizlilik-politikasi (7 img, 1 bg-img)
+
+=== [legal] https://osbh.com.tr/kisisel-verilerin-korunmasi-kanunu/ ===
+  ✓ kaydedildi: kisisel-verilerin-korunmasi-kanunu (7 img, 1 bg-img)
+
+=== [woo-functional] https://osbh.com.tr/magaza/ ===
+  ✓ kaydedildi: magaza (11 img, 2 bg-img)
+
+=== [woo-functional] https://osbh.com.tr/sepet/ ===
+  ✓ kaydedildi: sepet (2 img, 1 bg-img)
+
+=== [woo-functional] https://osbh.com.tr/odeme/ ===
+  ✓ kaydedildi: odeme (2 img, 1 bg-img)
+
+=== [woo-functional] https://osbh.com.tr/hesabim/ ===
+  ✓ kaydedildi: hesabim (2 img, 1 bg-img)
+
+=== [woo-functional] https://osbh.com.tr/wishlist/ ===
+  ✓ kaydedildi: wishlist (2 img, 1 bg-img)
+
+=== [woo-functional] https://osbh.com.tr/compare/ ===
+  ✓ kaydedildi: compare (2 img, 1 bg-img)
+
+=== [woo-functional] https://osbh.com.tr/bilgi/ ===
+  ✓ kaydedildi: bilgi (2 img, 2 bg-img)
+
+
+=== ÖZET ===
+Toplam sayfa: 39
+Başarılı: 39
+Hatalı: 0
+İndirilen benzersiz görsel: 93

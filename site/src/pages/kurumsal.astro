@@ -1,0 +1,63 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const stats = [
+  { value: '11', label: 'YIL SAĞLIK TECRÜBESİ' },
+  { value: '6', label: 'YIL YAZILIM TECRÜBESİ' },
+  { value: '8', label: 'KİŞİLİK KADRO' },
+  { value: '396', label: 'UZMAN' },
+];
+const strengths = ['Güvenlik', 'Hız', 'Kullanıcı Dostu', 'Modüler Sistem'];
+---
+
+<BaseLayout
+  title="Kurumsal - Online Sağlık Bilişim Hizmetleri A.Ş."
+  description="OSBH, dünyanın önde gelen işletmelerinin, KOBİ’lerin ve teknolojiye meydan okuyanların çoğu için tercih edilen iş ortağıdır. Özel yazılım geliştirme, inovasyon ve danışmanlık hizmetleri."
+  canonical="https://osbh.com.tr/kurumsal/"
+>
+  <div class="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-14">
+    <div class="text-center mb-14 max-w-3xl mx-auto">
+      <h1 class="text-3xl sm:text-4xl font-extrabold text-slate-900">Optimum Çözümler İçin Özel Yazılım Sistemleri</h1>
+      <p class="text-slate-600 mt-4 leading-relaxed">
+        OSBH, dünyanın önde gelen işletmelerinin, KOBİ'lerin ve teknolojiye meydan okuyanların çoğu için
+        tercih edilen iş ortağıdır. Özel yazılım geliştirme, inovasyon ve danışmanlık hizmetleri
+        aracılığıyla işletmelerin değerlerini yükseltmelerine yardımcı oluyoruz.
+      </p>
+      <p class="text-slate-600 mt-3 leading-relaxed">
+        BT altyapınızı korumanıza ve modernize etmenize ve bir işletmenin karşılaşabileceği altyapılar
+        ve çeşitli sorunları çözmenize yardımcı olabiliriz.
+      </p>
+    </div>
+
+    <div class="grid grid-cols-2 sm:grid-cols-4 gap-6 mb-16">
+      {stats.map((s) => (
+        <div class="text-center rounded-2xl bg-slate-50 py-8">
+          <div class="text-4xl font-extrabold text-teal-600">{s.value}</div>
+          <div class="text-xs font-semibold uppercase tracking-wide text-slate-500 mt-2">{s.label}</div>
+        </div>
+      ))}
+    </div>
+
+    <div class="text-center mb-10">
+      <h2 class="text-2xl font-bold text-slate-900 mb-2">Deneyim, Uygulama, Mükemmellik</h2>
+      <p class="text-slate-500 max-w-2xl mx-auto">
+        Sağlık sektöründe var olan bilgi ve tecrübemizi, günümüzün interaktif ihtiyaçlarınıza çözüm
+        getirmek için kullanıyoruz. Online terapi sistemi ve evde sağlık hizmetleriyle güncel
+        teknolojinin sınırlarını zorlamaktayız.
+      </p>
+    </div>
+
+    <div class="text-center mb-6">
+      <span class="text-sm font-semibold uppercase tracking-wide text-teal-600">#trendteknolojiler</span>
+      <p class="text-slate-500 mt-2 max-w-xl mx-auto">
+        Trend teknolojiler ile tanışmaya hazır olun! Özel ihtiyaçlarınıza göre uyarlanmış online
+        hizmetleri sizlere sunuyoruz. Yetkinliklerimiz ise şöyle;
+      </p>
+    </div>
+    <div class="flex flex-wrap justify-center gap-4">
+      {strengths.map((s) => (
+        <span class="rounded-full bg-teal-50 text-teal-700 font-semibold text-sm px-5 py-2.5">{s}</span>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,9 @@
+---
+import { CERTIFICATES } from '../lib/site';
+---
+
+<div class="flex flex-wrap items-center justify-center gap-6 sm:gap-10">
+  {CERTIFICATES.map((c) => (
+    <img src={c.image} alt={c.alt} title={c.alt} loading="lazy" class="h-12 w-auto object-contain grayscale hover:grayscale-0 transition-all" />
+  ))}
+</div>

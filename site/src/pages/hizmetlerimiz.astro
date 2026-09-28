@@ -1,0 +1,36 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+const services = [
+  { title: 'Online Sağlık Sistemi', desc: 'Sağlık Bakanlığının çıkarmış olduğu uzaktan sağlık yönetmeliğine uygun yazılım altyapıları.' },
+  { title: 'E-Reçete, E-Rapor', desc: 'Yapmış olduğumuz entegrasyon ile birlikte doktorlarımızın reçete ve raporlarını online platform üzerinden yazmasını sağlıyoruz.' },
+  { title: 'Sağlık C2C Platformu', desc: 'Uzaktan sağlık hizmeti ile birlikte hiçbir yatırım maliyeti olmadan pazaryeri platformunda tüm özellikleri kullanmanızı sağlıyoruz.' },
+  { title: 'Web Geliştirme', desc: 'İyi kodlama becerilerinden daha fazlasını taşıyoruz. Tecrübemiz bizi diğer web geliştirmelerinden farklı kılıyor.' },
+  { title: 'Mobil Geliştirme', desc: 'Karmaşık kurumsal yazılımlar oluşturun, güvenilir yazılım entegrasyonu sağlayın, eski sisteminizi modernize etmeye başlayın.' },
+  { title: 'UI/UX Tasarım', desc: 'Açık ve etkili bir tasarım süreci kullanan deneyimli bir ekiple ihtiyacınız olan ürünü zamanında oluşturmaya ne dersiniz?' },
+];
+---
+
+<BaseLayout
+  title="Hizmetler - Online Sağlık Bilişim Hizmetleri A.Ş."
+  description="Sağlık Bakanlığının çıkarmış olduğu uzaktan sağlık yönetmeliğine uygun yazılım altyapıları."
+  canonical="https://osbh.com.tr/hizmetlerimiz/"
+>
+  <div class="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-14">
+    <div class="text-center mb-12">
+      <h1 class="text-3xl sm:text-4xl font-extrabold text-slate-900">HİZMETLERİMİZ</h1>
+      <p class="text-slate-500 mt-3 max-w-2xl mx-auto">
+        Online Sağlık Bilişim Hizmetleri A.Ş. olarak sizlere oldukça geniş dijital çözümler sunuyoruz…
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+      {services.map((s) => (
+        <div class="rounded-2xl border border-slate-200 p-6 hover:border-teal-200 hover:shadow-md transition-all">
+          <h2 class="font-bold text-slate-900 mb-2">{s.title}</h2>
+          <p class="text-sm text-slate-500 leading-relaxed">{s.desc}</p>
+        </div>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

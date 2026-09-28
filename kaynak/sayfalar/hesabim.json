@@ -1,0 +1,263 @@
+{
+  "url": "https://osbh.com.tr/hesabim/",
+  "path": "/hesabim/",
+  "group": "woo-functional",
+  "fetchedAt": "2026-09-28T09:29:15.520Z",
+  "title": "Hesabım - Online Sağlık Bilişim Hizmetleri A.Ş.",
+  "metaDescription": null,
+  "canonical": null,
+  "og": {
+    "og:locale": "tr_TR",
+    "og:type": "article",
+    "og:title": "Hesabım - Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "og:url": "https://osbh.com.tr/hesabim/",
+    "og:site_name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "og:updated_time": "2023-01-24T18:13:57+00:00"
+  },
+  "twitter": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Hesabım - Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "twitter:label1": "Time to read",
+    "twitter:data1": "Less than a minute"
+  },
+  "jsonLd": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://osbh.com.tr/#organization",
+          "name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "url": "https://osbh.com.tr"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://osbh.com.tr/#website",
+          "url": "https://osbh.com.tr",
+          "name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "alternateName": "Uzaktan Sağlık Bilgi Sistemleri",
+          "publisher": {
+            "@id": "https://osbh.com.tr/#organization"
+          },
+          "inLanguage": "tr"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://osbh.com.tr/hesabim/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://osbh.com.tr",
+                "name": "Ana Sayfa"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://osbh.com.tr/hesabim/",
+                "name": "Hesabım"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://osbh.com.tr/hesabim/#webpage",
+          "url": "https://osbh.com.tr/hesabim/",
+          "name": "Hesabım - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "datePublished": "2023-01-24T17:05:52+00:00",
+          "dateModified": "2023-01-24T18:13:57+00:00",
+          "isPartOf": {
+            "@id": "https://osbh.com.tr/#website"
+          },
+          "inLanguage": "tr",
+          "breadcrumb": {
+            "@id": "https://osbh.com.tr/hesabim/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://osbh.com.tr/author/admin/",
+          "name": "admin",
+          "url": "https://osbh.com.tr/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/6d7ffb23547abcc9b45e5d5101958015?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/6d7ffb23547abcc9b45e5d5101958015?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "tr"
+          },
+          "sameAs": [
+            "https://demo.osbh.com.tr"
+          ],
+          "worksFor": {
+            "@id": "https://osbh.com.tr/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Hesabım - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "datePublished": "2023-01-24T17:05:52+00:00",
+          "dateModified": "2023-01-24T18:13:57+00:00",
+          "author": {
+            "@id": "https://osbh.com.tr/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "https://osbh.com.tr/#organization"
+          },
+          "description": "</p>\n",
+          "name": "Hesabım - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "@id": "https://osbh.com.tr/hesabim/#richSnippet",
+          "isPartOf": {
+            "@id": "https://osbh.com.tr/hesabim/#webpage"
+          },
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://osbh.com.tr/hesabim/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "h1": [
+    "Hesabım"
+  ],
+  "h2": [
+    "Login",
+    "Register",
+    "Kayıt"
+  ],
+  "h3": [],
+  "bodyText": "Sign in\nclose\nUsername or email\n*\nPassword\nLog in\nLost your password?\nRemember me\nNo account yet?\nCreate an Account\nSearch for:\nSearch\nAnasayfa\nUSBS Özellikleri\nUSBS Çözümleri\nBireysel USBS Paketleri\nKurumsal USBS Paketleri\nOSGB USBS Paketleri\nBlog\nKurumsal\nİletişim\nLogin / Register\nShopping cart\nNo products in the cart.\no\n0\n0.00\n₺\nHesabım\nLogin\nRegister\nEmail address\nKişisel verileriniz, bu web sitesindeki deneyiminizi desteklemek, hesabınıza erişimi yönetmek ve [gizlilik_politikasi] açıklanan diğer amaçlar için kullanılacaktır.\nKayıt\nBu siteye kaydolmak, sipariş durumunuza ve geçmişinize erişmenizi sağlar. Aşağıdaki alanları doldurmanız yeterlidir, kısa sürede sizin için yeni bir hesap oluşturacağız. Sizden yalnızca satın alma sürecini daha hızlı ve daha kolay hale getirmek için gerekli bilgileri isteyeceğiz.\nOnline Sağlık Bilişim\nHizmetlerimiz\nAktif USBS Listesi\nCepte Sağlık\nMüşteri Paneli\nSepetim\nE-Reçete, E-Rapor\nSözleşmeler\nÜyelik Sözleşmesi\nGizlilik Politikası\nKişisel Verilerin Korunması Kanunu\nİptal ve İade\nMesafeli Satış Sözleşmesi\nBilgi-Kalite Güvenliği Yönetim Politikası\n© 2026\nOnline Sağlık Bilişim Hizmetleri A.Ş.\n. All rights reserved",
+  "images": [
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "alt": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+      "localPath": "gorseller/logosd-8b84d523ea.png"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "alt": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+      "localPath": "gorseller/logosd-8b84d523ea.png"
+    }
+  ],
+  "backgroundImages": [
+    {
+      "src": "https://osbh.com.tr/wp-content/themes/basel/images/default-skin.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/themes/basel/images/default-skin.png",
+      "localPath": "gorseller/default-skin-1ea43e3d25.png"
+    }
+  ],
+  "favicon": {
+    "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/Basliksiz-3.png",
+    "localPath": "gorseller/Basliksiz-3-f94f8be53b.png"
+  },
+  "links": {
+    "internal": [
+      "/hesabim/sifremi-unuttum/",
+      "/hesabim/",
+      "/",
+      "/usbs-ozellikleri/",
+      "/uzaktan-saglik-hizmet-paketleri/",
+      "/bireysel-usbs-paketleri/",
+      "/kurumsal-usbs-paketleri/",
+      "/osgb-usbs-paketleri/",
+      "/blog/",
+      "/kurumsal/",
+      "/iletisim/",
+      "/sepet/",
+      "/blog",
+      "/iletisim",
+      "/hizmetlerimiz",
+      "/hesabim",
+      "/sepet",
+      "/uzaktan-online-saglik-hizmeti-vermeye-baslayin/",
+      "/uyelik-sozlesmesi",
+      "/gizlilik-politikasi/",
+      "/kisisel-verilerin-korunmasi-kanunu",
+      "/iptal-ve-iade",
+      "/mesafeli-satis-sozlesmesi",
+      "/bilgi-kalite-guvenligi-yonetim-politikasi"
+    ],
+    "external": [
+      "https://kayittescil.saglik.gov.tr/TR-90715/aktif-usbs-listesi.html?Sayfa=2",
+      "https://ceptesaglik.com/"
+    ]
+  },
+  "forms": [
+    {
+      "action": "https://osbh.com.tr/hesabim/",
+      "method": "post",
+      "id": null,
+      "fields": [
+        "username",
+        "password",
+        "woocommerce-login-nonce",
+        "_wp_http_referer",
+        "rememberme"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/",
+      "method": "get",
+      "id": "searchform",
+      "fields": [
+        "s",
+        "post_type"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/",
+      "method": "get",
+      "id": "searchform",
+      "fields": [
+        "s",
+        "post_type"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/hesabim/?action=login",
+      "method": "post",
+      "id": null,
+      "fields": [
+        "username",
+        "password",
+        "woocommerce-login-nonce",
+        "_wp_http_referer",
+        "rememberme"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/hesabim/?action=register",
+      "method": "post",
+      "id": null,
+      "fields": [
+        "email",
+        "password",
+        "_wpnonce",
+        "_wp_http_referer"
+      ]
+    }
+  ],
+  "mapIframes": [],
+  "trackingHints": {
+    "gtagOrAnalytics": [
+      "https://www.googletagmanager.com/gtag/js?id=G-5WG2NSEQ06&cx=c&gtm=4e69n1",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-5B1VZ7JWZD&cx=c&gtm=4e69n1",
+      "https://www.googletagmanager.com/gtag/js?id=UA-242296204-2"
+    ],
+    "gtmId": [],
+    "gaId": [
+      "G-5WG2NSEQ06"
+    ],
+    "fbPixel": false,
+    "searchConsoleVerification": null
+  }
+}

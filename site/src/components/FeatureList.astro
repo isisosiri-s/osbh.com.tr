@@ -1,0 +1,56 @@
+---
+interface Item {
+  name: string;
+  value: string | boolean;
+}
+interface Section {
+  title: string;
+  items: Item[];
+}
+interface Props {
+  sections: Section[];
+}
+const { sections } = Astro.props;
+
+function icon(value: string | boolean) {
+  if (value === true || value === 'Var') return 'check';
+  if (value === 'Yok') return 'x';
+  return 'text';
+}
+---
+
+<div class="space-y-8">
+  {sections.map((section) => (
+    <div>
+      <h3 class="text-sm font-bold uppercase tracking-wide text-teal-700 mb-3">{section.title}</h3>
+      <ul class="grid grid-cols-1 sm:grid-cols-2 gap-x-6 gap-y-2">
+        {section.items.map((item) => {
+          const kind = icon(item.value);
+          return (
+            <li class="flex items-center gap-2.5 text-sm text-slate-700 py-1">
+              {kind === 'check' && (
+                <svg class="h-5 w-5 text-teal-600 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+                </svg>
+              )}
+              {kind === 'x' && (
+                <svg class="h-5 w-5 text-slate-300 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+                </svg>
+              )}
+              {kind === 'text' && (
+                <svg class="h-5 w-5 text-teal-600 shrink-0" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+                </svg>
+              )}
+              <span class={kind === 'x' ? 'text-slate-400' : ''}>
+                {item.name}
+                {kind === 'text' && <span class="font-semibold text-slate-900"> — {item.value}</span>}
+              </span>
+            </li>
+          );
+        })}
+      </ul>
+    </div>
+  ))}
+</div>

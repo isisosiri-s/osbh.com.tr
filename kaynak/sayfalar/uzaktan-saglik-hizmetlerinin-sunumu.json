@@ -1,0 +1,361 @@
+{
+  "url": "https://osbh.com.tr/uzaktan-saglik-hizmetlerinin-sunumu/",
+  "path": "/uzaktan-saglik-hizmetlerinin-sunumu/",
+  "group": "blog",
+  "fetchedAt": "2026-09-28T09:28:30.365Z",
+  "title": "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik 2022 - Online Sağlık Bilişim Hizmetleri A.Ş.",
+  "metaDescription": "Sağlık Bakanlığı 10.02.2022 tarihinde resmi gazetede ‘Uzaktan sağlık hizmetlerinin sunumu’ başlıklı yönetmeliği yayınlandı.",
+  "canonical": "https://osbh.com.tr/uzaktan-saglik-hizmetlerinin-sunumu/",
+  "og": {
+    "og:locale": "tr_TR",
+    "og:type": "article",
+    "og:title": "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik 2022 - Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "og:description": "Sağlık Bakanlığı 10.02.2022 tarihinde resmi gazetede ‘Uzaktan sağlık hizmetlerinin sunumu’ başlıklı yönetmeliği yayınlandı.",
+    "og:url": "https://osbh.com.tr/uzaktan-saglik-hizmetlerinin-sunumu/",
+    "og:site_name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "og:updated_time": "2023-02-01T17:19:28+00:00",
+    "og:image": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15.jpg",
+    "og:image:secure_url": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15.jpg",
+    "og:image:width": "960",
+    "og:image:height": "540",
+    "og:image:alt": "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik",
+    "og:image:type": "image/jpeg"
+  },
+  "twitter": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik 2022 - Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "twitter:description": "Sağlık Bakanlığı 10.02.2022 tarihinde resmi gazetede ‘Uzaktan sağlık hizmetlerinin sunumu’ başlıklı yönetmeliği yayınlandı.",
+    "twitter:image": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15.jpg",
+    "twitter:label1": "Written by",
+    "twitter:data1": "admin",
+    "twitter:label2": "Time to read",
+    "twitter:data2": "15 dakika"
+  },
+  "jsonLd": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://osbh.com.tr/#organization",
+          "name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "url": "https://osbh.com.tr"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://osbh.com.tr/#website",
+          "url": "https://osbh.com.tr",
+          "name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "alternateName": "Uzaktan Sağlık Bilgi Sistemleri",
+          "publisher": {
+            "@id": "https://osbh.com.tr/#organization"
+          },
+          "inLanguage": "tr"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15.jpg",
+          "url": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15.jpg",
+          "width": "960",
+          "height": "540",
+          "caption": "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik",
+          "inLanguage": "tr"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://osbh.com.tr/uzaktan-saglik-hizmetlerinin-sunumu/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://osbh.com.tr",
+                "name": "Ana Sayfa"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://osbh.com.tr/category/uzaktan-saglik/",
+                "name": "Uzaktan Sağlık"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://osbh.com.tr/uzaktan-saglik-hizmetlerinin-sunumu/",
+                "name": "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik 2022"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://osbh.com.tr/uzaktan-saglik-hizmetlerinin-sunumu/#webpage",
+          "url": "https://osbh.com.tr/uzaktan-saglik-hizmetlerinin-sunumu/",
+          "name": "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik 2022 - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "datePublished": "2023-02-01T17:08:24+00:00",
+          "dateModified": "2023-02-01T17:19:28+00:00",
+          "isPartOf": {
+            "@id": "https://osbh.com.tr/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15.jpg"
+          },
+          "inLanguage": "tr",
+          "breadcrumb": {
+            "@id": "https://osbh.com.tr/uzaktan-saglik-hizmetlerinin-sunumu/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://osbh.com.tr/author/admin/",
+          "name": "admin",
+          "url": "https://osbh.com.tr/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/6d7ffb23547abcc9b45e5d5101958015?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/6d7ffb23547abcc9b45e5d5101958015?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "tr"
+          },
+          "sameAs": [
+            "https://demo.osbh.com.tr"
+          ],
+          "worksFor": {
+            "@id": "https://osbh.com.tr/#organization"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik 2022 - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "keywords": "Uzaktan Sağlık Hizmetlerinin Sunumu",
+          "datePublished": "2023-02-01T17:08:24+00:00",
+          "dateModified": "2023-02-01T17:19:28+00:00",
+          "articleSection": "Uzaktan Sağlık",
+          "author": {
+            "@id": "https://osbh.com.tr/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "https://osbh.com.tr/#organization"
+          },
+          "description": "Sağlık Bakanlığı 10.02.2022 tarihinde resmi gazetede ‘Uzaktan sağlık hizmetlerinin sunumu’ başlıklı yönetmeliği yayınlandı.",
+          "name": "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik 2022 - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "@id": "https://osbh.com.tr/uzaktan-saglik-hizmetlerinin-sunumu/#richSnippet",
+          "isPartOf": {
+            "@id": "https://osbh.com.tr/uzaktan-saglik-hizmetlerinin-sunumu/#webpage"
+          },
+          "image": {
+            "@id": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15.jpg"
+          },
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://osbh.com.tr/uzaktan-saglik-hizmetlerinin-sunumu/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "h1": [
+    "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik 2022"
+  ],
+  "h2": [
+    "BİRİNCİ BÖLÜM",
+    "İKİNCİ BÖLÜM",
+    "DÖRDÜNCÜ BÖLÜM"
+  ],
+  "h3": [
+    "Blog",
+    "Uzaktan Sağlık Hizmetlerinin Sunumu Amaç, Kapsam, Dayanak ve Tanımlar",
+    "Uzaktan sağlık bilgi sistemi",
+    "Altyapı ve teknik donanım",
+    "Uzaktan sağlık hizmetleri",
+    "Faaliyet izni",
+    "Hastanın bilgilendirilmesi",
+    "Kimlik doğrulama",
+    "Hak ve sorumluluklar",
+    "Kişisel verilerin korunması",
+    "Kayıt, bildirim ve iz kaydı",
+    "Çeşitli ve Son Hükümler",
+    "Yasaklar ve sınırlamalar",
+    "Uluslararası sağlık turizmi",
+    "Denetim ve idarî yaptırımlar",
+    "İdarî sorumlulukların paylaşımı",
+    "Hüküm bulunmayan haller",
+    "Sağlık tesislerinin uyumu",
+    "Yürürlük",
+    "Yürütme",
+    "Bir yanıt yazın Yanıtı iptal et"
+  ],
+  "bodyText": "Sign in\nclose\nUsername or email\n*\nPassword\nLog in\nLost your password?\nRemember me\nNo account yet?\nCreate an Account\nSearch for:\nSearch\nAnasayfa\nUSBS Özellikleri\nUSBS Çözümleri\nBireysel USBS Paketleri\nKurumsal USBS Paketleri\nOSGB USBS Paketleri\nBlog\nKurumsal\nİletişim\nLogin / Register\nShopping cart\nNo products in the cart.\no\n0\n0.00\n₺\n01\nŞub\nUzaktan Sağlık\nUzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik 2022\nŞubat 1, 2023\nPosted by\nadmin\nLeave a comment\nSağlık Bakanlığı 10.02.2022 tarihinde resmi gazetede ‘\nUzaktan sağlık hizmetlerinin sunumu\n’ başlıklı yönetmeliği yayınlandı.\nİçindekiler\nBİRİNCİ BÖLÜM\nUzaktan Sağlık Hizmetlerinin Sunumu Amaç, Kapsam, Dayanak ve Tanımlar\nAmaç\nKapsam\nDayanak\nTanımlar\nİKİNCİ BÖLÜM\nUzaktan sağlık bilgi sistemi\nAltyapı ve teknik donanım\nUzaktan sağlık hizmetleri\nFaaliyet izni\nHastanın bilgilendirilmesi\nKimlik doğrulama\nHak ve sorumluluklar\nKişisel verilerin korunması\nKayıt, bildirim ve iz kaydı\nDÖRDÜNCÜ BÖLÜM\nÇeşitli ve Son Hükümler\nYasaklar ve sınırlamalar\nUluslararası sağlık turizmi\nDenetim ve idarî yaptırımlar\nİdarî sorumlulukların paylaşımı\nHüküm bulunmayan haller\nSağlık tesislerinin uyumu\nYürürlük\nYürütme\nMADDE 1 –\n(1) Bu Yönetmeliğin amacı, sağlık hizmetinin mekândan ve coğrafyadan bağımsız olarak ve çağdaş tıbbî teknolojiye dayanılarak sunulmasına hizmet etmek üzere; uzaktan sağlık hizmetinin kapsamına, uzaktan sağlık hizmeti sunacak sağlık tesislerine izin verilmesine, uzaktan sağlık bilgi sisteminin geliştirilmesine, tescil edilmesine, sağlık tesislerinin bu kapsamda denetlenmesine ilişkin usul ve esasları düzenlemektir.\nMADDE 2 –\n(1) Bu Yönetmelik; uzaktan sağlık hizmeti sunan tüm sağlık tesislerini, uzaktan sağlık hizmeti sunumunda yer alan tüm sağlık meslek mensuplarını, uzaktan sağlık bilgi sistemi geliştiricilerini ve uzaktan sağlık hizmeti almak isteyen gerçek kişileri kapsar.\nMADDE 3 –\n(1) Bu Yönetmelik, 7/5/1987 tarihli ve 3359 sayılı Sağlık Hizmetleri Temel Kanununun 9 uncu ve Ek 11 inci maddeleri ile 10/7/2018 tarihli ve 1 sayılı Cumhurbaşkanlığı Teşkilatı Hakkında Cumhurbaşkanlığı Kararnamesinin 355 inci ve 508 inci maddelerine dayanılarak hazırlanmıştır.\nMADDE 4 –\n(1) Bu Yönetmelikte geçen;\na) Bakanlık: Sağlık Bakanlığını,\nb) Genel Müdürlük: Sağlık Hizmetleri Genel Müdürlüğünü,\nc) Müdürlük: İl sağlık müdürlüğünü,\nç) Sağlık tesisi: Uzaktan sağlık hizmeti sunmak üzere bu Yönetmelik kapsamında Bakanlıkça yetkilendirilmiş sağlık kurum ve kuruluşlarını,\nd) Uzaktan sağlık bilgi sistemi: Bakanlık tarafından üretilen veya Bakanlık tarafından tescil edilmek suretiyle uzaktan sağlık hizmeti sunumunda kullanılması onaylanan yazılı, sesli veya görüntülü iletişime imkân sağlayan güvenli yazılımı,\ne) Uzaktan sağlık hizmeti: Bu Yönetmelik hükümlerine göre faaliyet izni almış olan sağlık tesislerinde, sağlık meslek mensubunun, sağlık hizmeti talep eden kişiye uzaktan sağlık bilgi sistemi üzerinden sunduğu sağlık hizmetini,\nifade eder.\nUzaktan Sağlık Bilgi Sistemi ve Uzaktan Sağlık Hizmeti Faaliyet İzni\nMADDE 5 –\n(1) Uzaktan sağlık bilgi sistemi, Bakanlık veya Bakanlık harici yetkilendirilmiş geliştiriciler tarafından Bakanlığın belirlemiş olduğu asgari standartlara uygun olarak geliştirilir.\n(2) Geliştirilen uzaktan sağlık bilgi sistemi, Bakanlığın sistemine tescil edilir; tescili yapılmamış uzaktan sağlık bilgi sistemi uzaktan sağlık hizmeti sunumunda kullanılamaz. Tescilin usûl ve esasları Sağlık Bilgi Sistemleri Genel Müdürlüğünce belirlenerek Bakanlığın internet sitesinde ilan olunur.\n(3) Uzaktan sağlık bilgi sistemi, uzaktan sağlık hizmeti kapsamında yapılan ve Bakanlıkça belirlenen işlemlerin sağlık tesisinin bilgi yönetim sistemine bildirilmesine ve aktarılmasına imkân verecek şekilde geliştirilir.\n(4) Bakanlıkça belirlenen asgarî standartlarda yapılacak değişiklikler, Bakanlıkça belirlenen sürede uzaktan sağlık bilgi sistemi yazılımına yansıtılır.\nMADDE 6 –\n(1) Sağlık tesisi, sağlık meslek mensubunun uzaktan sağlık bilgi sistemine bağlanabilmesi için gerekli altyapı ve teknik donanım imkânlarını sağlar. Uzaktan sağlık hizmeti sunumu için gerekli olan altyapı ve teknik donanım gibi hususlara ilişkin kriterler, Bakanlık tarafından belirlenir.\nMADDE 7 –\n(1) Niteliği itibarıyla uzaktan sağlık hizmeti sunumuna elverişli olmak kaydıyla, aşağıdaki hizmetler uzaktan sunulabilir:\na) Uzaktan sağlık hizmeti talep eden kişi, uzaktan sağlık hizmetinin elverdiği ölçüde muayene edilebilir; kişinin tıbbî gözlem, izlem ve takibi ile değerlendirmesi yapılabilir, teşhis edilmiş hastalıkları kontrol edilebilir; tıbbî danışmanlık verilebilir; konsültasyon veya ikincil görüş talep edilebilir. Gerekli durumlarda, kişiye bir sağlık kuruluşuna fiziken müracaat etmesi önerilebilir.\nb) Hastalıkların uzaktan yönetimi ve takibi için kişinin kan şekeri ve kan basıncı gibi klinik parametreleri değerlendirilebilir, izlenebilir, tedavi ve ilaç yönetimi sağlanabilir.\nc) Sağlığın korunmasına ve takibine, sağlıklı yaşamın desteklenmesine, psikososyal destek hizmetlerinin sağlanmasına yönelik hizmetler verilebilir.\nç) Sağlık riski artan veya ileri yaşlı kişilerin çok yönlü değerlendirmesi ve takibi yapılabilir.\nd) Teknolojik imkânların elvermesi ve Bakanlıktan gerekli izinlerin alınması koşuluyla kişilere, Bakanlıkça belirlenen girişimsel veya cerrahi operasyon hizmetleri sunulabilir.\ne) Endemik veya epidemik salgınlarda ulusal nitelikteki kılavuzlar doğrultusunda kişilerin sağlığının korunmasına yönelik gerekli tıbbî işlemler yürütülebilir.\nf) Giyilebilir teknolojiler ve diğer tıbbî cihazlar ile sağlık hizmeti talep eden kişinin sağlık verileri ölçülebilir ve takip edilebilir.\ng) Hekim tarafından değerlendirilen kişiye, hekimince e-reçete ve e-rapor tanzim edilebilir.\n(2) Sağlık tesisi, uzaktan sağlık hizmetine ilişkin aynı branşta faaliyet izin belgesi sahibi olması koşuluyla bir başka sağlık tesisindeki sağlık hizmeti talep eden kişiye uzaktan sağlık hizmeti sunabilir.\nMADDE 8 –\n(1) Uzaktan sağlık hizmeti sunmak isteyen sağlık tesisine gerekli şartları sağlaması hâlinde Bakanlıkça uzaktan sağlık hizmeti faaliyet izin belgesi verilir. Faaliyet izni, sağlık tesisinin mevcut faaliyet izin belgesine işlenir.\n(2) Başvuru, sağlık tesisi tarafından Ek-1’de yer alan belgelerle birlikte Müdürlüğe yapılır.\n(3) Müdürlük başvuruyu dosya üzerinde inceler, eksiklik veya uygunsuzluk bulunması hâlinde, bu hususların neler olduğunu başvuru sahibine en geç 15 iş günü içerisinde bildirir.\n(4) Başvuru uygun ise, Müdürlükçe oluşturulan komisyon tarafından incelenir. Komisyon, gerekli gördüğü durumlarda yerinde inceleme de yapabilir. Komisyon, sağlık hizmetleri başkanlığında görevli bir hekim başkanlığında, müdürlükte görevli personel arasından tercihen bilişim teknolojileri hakkında mesleki birikimi olan bir mühendis, tekniker veya teknisyen ile kalite konusunda deneyimli bir sağlık meslek mensubu olmak üzere üç kişiden oluşur. İhtiyaç halinde birden fazla komisyon kurulabilir.\n(5) Yapılacak incelemeler neticesinde, herhangi bir eksiklik ve uygunsuzluk olmadığının tespiti halinde komisyon raporuyla birlikte başvurular, Genel Müdürlüğe gönderilir.\n(6) Sağlık tesisinin başvurusunda belirttiği uzaktan sağlık bilgi sisteminin, Bakanlık kayıt tescil sisteminde kayıtlı olması ve başvurunun Genel Müdürlük tarafından uygun görülmesi hâlinde, sağlık tesisi için uzaktan sağlık hizmeti faaliyet izin belgesi düzenlenir. Faaliyet izin belgesinde, faaliyet alanı ve sınırları belirtilir.\n(7) Bakanlığa bağlı sağlık tesisleri için Bakanlık resen uzaktan sağlık hizmeti faaliyet izni verebilir.\nÜÇÜNCÜ BÖLÜM\nUzaktan Sağlık Hizmeti Sunulması\nMADDE 9 –\n(1) Uzaktan sağlık hizmeti alacak kişi, uzaktan sağlık hizmeti sunulmaya başlanmadan önce ve sunulacak olan sağlık hizmetinin niteliğine uygun düştüğü ölçüde:\na) Uzaktan sağlık hizmeti sunacak sağlık meslek mensubunun kimliği ve var ise uzmanlığı,\nb) Sağlık meslek mensubunun kendisi ile fiziksel olarak aynı ortamda bulunmayacağı,\nc) Uzaktan sağlık hizmetinin yüz yüze verilen sağlık hizmetinin muadili olamayacağı,\nç) Uzaktan sağlık hizmeti ile uygulamalı tedavilerin farklı olduğu,\nd) Devam eden bir tedaviyi aksatacak şekilde uzaktan sağlık hizmetinden faydalanılamayacağı,\ne) Acil tıbbî durumlarda uzaktan sağlık hizmeti yerine en yakın acil servise başvurulması gerektiği,\nf) Uzaktan sağlık hizmetinin ücreti, verilecek hizmetin kapsamı, hizmetin herhangi bir sağlık sigortası kapsamında karşılanıp karşılanmayacağı,\ng) Tarafların açık rızası olmaksızın uzaktan sağlık hizmeti sunumuna ilişkin ses veya görüntü kaydı alınmasının yasak olduğu; ancak, kişisel sağlık verilerinin işlenmesine ilişkin mevzuat uyarınca alınan sağlık hizmetine ilişkin kayıtların tutulacağı, kişisel verilerin korunması mevzuatına ve mahremiyete uygun olarak Sağlık Bakanlığı bilgi sistemine aktarılacağı,\nğ) Uzaktan sağlık hizmeti sunumunun başlayabilmesi için uzaktan sağlık bilgi sisteminin kamera ve/veya mikrofon erişimine izin verilmesinin istenebileceği,\nh) Taraflar arasında ses ve/veya görüntünün iletilememesi hâlinde, uzaktan sağlık hizmetinin başlamayabileceği, başlamış ise devam ettirilemeyebileceği,\nı) Tıbbi veya hukuki sebeplerle karşı tarafa bilgi verilerek uzaktan sağlık hizmetinin her zaman sonlandırılabileceği,\ni) Uzaktan sağlık hizmeti veren kişinin, uzaktan sağlık hizmeti sunumunda kullandığı bilişim sistemlerinin, kullanıcı adı ve parolalarının güvenliğini sağlamaktan bizzat sorumlu olduğu,\nj) Verilecek sağlık hizmetinin mâhiyeti ve sonuçları,\nkonularında bilgilendirilir.\n(2) Bilgilendirme, sağlık hizmeti talep eden kişi tarafından anlaşılabilecek sade bir dil ile yapılmalıdır.\n(3) Sağlık hizmeti sunumu kapsamında yerine getirilmesi gereken aydınlatma yükümlülüğüne ilişkin genel usûl ve esaslar saklıdır.\nMADDE 10 –\n(1) Sağlık tesisi, uzaktan sağlık hizmeti sunumu kapsamında hizmet alan kişinin kimliğini doğrulamaya yönelik gerekli tedbirleri alır. Sağlık tesisi tarafından ilaveten ikincil bir kimlik doğrulaması altyapısı veya aracı kullanılabilir.\n(2) Sağlık meslek mensubu, uzaktan sağlık hizmeti alan kişiden resmi kimlik belgesini kamera üzerinden göstermesini talep edebilir. Sağlık meslek mensubu, sağlık hizmeti talep eden kişinin kimliğinden şüphe duyduğu takdirde, kimliğini doğrulamasını isteyebilir. Bu talebin yerine getirilmemesi hâlinde uzaktan sağlık hizmeti vermeyebilir, başlamış olan hizmeti sonlandırabilir.\nMADDE 11 –\n(1) Uzaktan sağlık hizmeti sunumu esnasında sağlık meslek mensubunun veya sağlık hizmeti alan kişinin bulunduğu ortamda hasta veya sağlık meslek mensubu ile yapılan görüşmeyi görebilecek ve/veya duyabilecek üçüncü bir kişinin olması hâlinde sağlık meslek mensubu ve/veya sağlık hizmeti alan kişi, konu hakkında karşı tarafı bilgilendirmekle yükümlüdür.\n(2) Uzaktan sağlık hizmeti alan kişi, tıbbî geçmişi ile sağlık durumu ile ilgili talep edilen bilgileri doğru, anlaşılır bir şekilde ve detaylı olarak sağlık meslek mensubuna anlatmakla yükümlüdür.\n(3) Bu Yönetmelik kapsamında sağlık hizmeti sunan sağlık meslek mensubunun bilgi ve iletişim teknolojileri hakkında gerekli donanıma sahip ve teknoloji okuryazarlığının uzaktan sağlık hizmeti sunumu için yeterli olduğunu izlemekten ve temin etmekten, ayrıca gerekli yetkinliğe sahip olmayan sağlık meslek mensuplarını eğitmekten sağlık hizmet sunucusunun niteliğine göre sağlık tesisi veya müdürlük sorumludur.\nMADDE 12 –\n(1) Uzaktan sağlık hizmeti sunumunda hasta mahremiyetinin ve kişisel verilerinin korunmasından hizmeti veren sağlık tesisi ve sağlık meslek mensubu sorumludur.\n(2) Veri sorumlusu ve veri işleyen sıfatlarını haiz kişiler, bu Yönetmelik kapsamında sundukları hizmetler aracılığıyla elde ettikleri kişisel verileri 24/3/2016 tarihli ve 6698 sayılı Kişisel Verilerin Korunması Kanunu ve ilgili mevzuatına uygun bir şekilde işler, bu verilerin güvenliğini sağlamaya yönelik her türlü teknik ve idari tedbiri alır ve ilgili kişilere karşı aydınlatma yükümlülüklerini yerine getirirler.\n(3) Bu Yönetmelik kapsamında sunulan sağlık hizmetleri, her iki tarafın açık rızası olmaksızın görüntülü veya sesli olarak kayıt altına alınamaz, hizmet esnasında fotoğraf çekilemez.\n(4) Tarafların açık rızası olması hâlinde sunulan uzaktan sağlık hizmetine ilişkin görüntülü veya sesli kayıt alınabilir. Kayıtlar, uzaktan sağlık hizmeti veren sağlık tesisinde veya Bakanlığın izin verdiği güvenli veri merkezlerinde saklanır. Kanunen izin verilen mercilere ve idarî bir soruşturma kapsamında Bakanlık müfettişlerine bu kayıtlara erişim izni verilir. Bu kapsamda alınmış olan görüntülü veya sesli kayıtlar, oniki aydan fazla saklanamaz ve sürenin dolması ile birlikte ayrıca bir bildirime gerek olmaksızın silinir.\nMADDE 13 –\n(1) Uzaktan sağlık hizmeti kapsamında sağlık tesisine başvuran kişiler için uzaktan sağlık hizmetine ilişkin iş ve işlemler dijital ortamda kaydedilir ve kişisel verilerin korunmasına dair mevzuatta yer alan istisnai düzenlemeler saklı kalmak kaydıyla, kaydedilen veriler, ilgili mevzuatı uyarınca Bakanlıkça belirlenen usûl ve esaslar çerçevesinde Bakanlık merkezî sağlık veri sistemine gönderilir.\n(2) Bakanlık tarafından kurulan kayıt ve bildirim sistemi ile Bakanlıkça yapılacak diğer iş ve işlemlere esas olmak üzere talep edilen bilgi ve belgeler, sağlık tesisleri tarafından Bakanlığa gönderilir.\n(3) Uzaktan sağlık hizmeti alımı esnasında Bakanlıkça belirlenen iz kaydı bilgileri sağlık tesisi tarafından sağlık tesisinin tabi olduğu mevzuatta belirtilen süre boyunca saklanır.\nMADDE 14 –\n(1) Uzaktan sağlık hizmeti sunumuna ilişkin yasaklar ve sınırlamalar şunlardır:\na) Sağlık tesisi, Bakanlıktan izin almadan uzaktan sağlık hizmeti sunamaz.\nb) Sağlık tesisi, sağlık hizmeti sunmaya yetkili olmadığı bir alanda uzaktan sağlık hizmeti sunamaz. Bakanlığa ve devlet üniversitelerine bağlı sağlık kuruluşlarının konsültasyon ve/veya ikincil görüş niteliğindeki hizmetleri bu fıkraya aykırılık olarak değerlendirilmez.\nc) Bu Yönetmelik kapsamına girmeyen sağlık hizmetleri, uzaktan sağlık hizmeti yoluyla sunulamaz.\nç) Sağlık tesisi, adına çalışma belgesi düzenlenmemiş sağlık meslek mensubu aracılığıyla uzaktan sağlık hizmeti sunamaz.\nd) Uzaktan sağlık hizmeti, Türkiye’de meslek ifasına yetkili olmayan sağlık meslek mensubu tarafından sunulamaz.\ne) Uzaktan sağlık hizmeti sunumunda, yurt dışına sunulanlar hariç olmak üzere, uzaktan sağlık hizmeti alanların, Türkiye İlaç ve Tıbbî Cihaz Kurumu tarafından kaydedilmiş tıbbî cihazlardan başka bir tıbbî cihaz kullanımına izin verilemez.\nf) Uzaktan sağlık bilgi sistemi, amacının dışında kullanılamaz.\ng) Sağlık tesisi ve/veya sağlık meslek mensubu, randevu alacak kişiyi uzaktan sağlık hizmeti almaya zorlayacak şekilde davranamaz. Randevu programları sağlık hizmeti alan kişilerin sağlık tesisine gelme imkânını zorlaştıracak veya engelleyecek şekilde düzenlenemez.\nğ) Sağlık hizmetinin sunumuna ilişkin asgari tıbbî gereklilikler uygulanabilir oldukları ölçüde uzaktan sağlık hizmeti sunumu için de geçerlidir. Sağlık hizmetinin uzaktan sunuluyor olması, sağlık hizmetinin niteliğinden ödün verme sebebi olarak kabul edilemez.\nh) Uzaktan sağlık hizmeti sunumu esnasında elde edilen kişisel veriler, ilgili mevzuat haricinde işlenemez ve aktarılamaz.\nMADDE 15 –\n(1) Uluslararası sağlık turizmi yetki belgesi almış olan sağlık tesislerince, ilgili mevzuatı çerçevesinde uluslararası sağlık turizmi ve turistin sağlığı kapsamında uzaktan sağlık hizmeti verilebilir.\nMADDE 16 –\n(1) Uzaktan sağlık hizmetleri, şikâyet veya soruşturma hariç olmak üzere Ek-2’de yer alan forma uygun olarak Müdürlük tarafından yılda en az bir defa denetlenir.\n(2) Özel sağlık tesisleri tarafından sunulan uzaktan sağlık hizmetlerinde bu Yönetmeliğe aykırılık olması durumunda, Ek-2’de yer alan idarî yaptırımlar uygulanır.\n(3) Kamu sağlık tesisleri tarafından sunulan uzaktan sağlık hizmetlerinde bu Yönetmeliğe aykırılık olması durumunda, ilgililer hakkında kendi mevzuatına göre işlem yapılır.\nMADDE 17 –\n(1) Bu Yönetmeliğin uygulanması sırasında doğacak tereddütleri ve uygulamaya ilişkin aksaklıkları gidermeye, uygulamayı yönlendirmeye ve sorumlulukları paylaştırmaya Bakanlık yetkilidir.\nMADDE 18 –\n(1) Bu Yönetmelikte hüküm bulunmayan hâllerde, hasta hakları ve kişisel verilerin korunmasına dair mer’i mevzuat hükümleri ile ilgili sağlık tesisinin ve sağlık meslek mensubunun tâbi olduğu mevzuat hükümleri uygulanır.\nGEÇİCİ MADDE 1 –\n(1) Bu Yönetmeliğin yayımı tarihi itibarıyla uzaktan sağlık hizmeti sunmakta olan sağlık tesisleri, en geç altı ay içerisinde uzaktan sağlık hizmeti faaliyet izin belgesi almak zorundadır.\nMADDE 19 –\n(1) Bu Yönetmelik yayımı tarihinde yürürlüğe girer.\nMADDE 20 –\n(1) Bu Yönetmelik hükümlerini Sağlık Bakanı yürütür.\nAktif USBS Listesi\nOnline Sağlık Bilişim Hizmetleri Uzaktan Sağlık Hizmet Paketleri\nFacebook\nTwitter\nPinterest\nLinkedIn\nTelegram\nNext Post\nBir yanıt yazın\nE-posta adresiniz yayınlanmayacak.\nGerekli alanlar\nile işaretlenmişlerdir\nYorum\nAd\nE-posta\nİnternet sitesi\nDaha sonraki yorumlarımda kullanılması için adım, e-posta adresim ve site adresim bu tarayıcıya kaydedilsin.\nClose\nSon Makaleler\nUSBS Kayıtlı Firma\nUzaktan Sağlık Hizmeti Vermek için Dikkat Edilmesi Gereken Noktalar 2023\nUzaktan Online Sağlık Hizmeti Vermeye Başlayın 2023\nİşyeri Hekimliği E-Reçete\nOnline Sağlık Bilişim\nHizmetlerimiz\nCepte Sağlık\nMüşteri Paneli\nHesabım\nSepetim\nE-Reçete, E-Rapor\nSözleşmeler\nÜyelik Sözleşmesi\nGizlilik Politikası\nKişisel Verilerin Korunması Kanunu\nİptal ve İade\nMesafeli Satış Sözleşmesi\nBilgi-Kalite Güvenliği Yönetim Politikası\n© 2026\nOnline Sağlık Bilişim Hizmetleri A.Ş.\n. All rights reserved\nSidebar",
+  "images": [
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "alt": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+      "localPath": "gorseller/logosd-8b84d523ea.png"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "alt": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+      "localPath": "gorseller/logosd-8b84d523ea.png"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15.jpg",
+      "alt": "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik",
+      "localPath": "gorseller/Adsiz-tasarim-15-b97e74f276.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15-70x70.jpg",
+      "alt": "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik",
+      "localPath": "gorseller/Adsiz-tasarim-15-70x70-346c4aae0a.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16-70x70.jpg",
+      "alt": "USBS Kayıtlı Firma",
+      "localPath": "gorseller/Adsiz-tasarim-16-70x70-fe8a7d49a6.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/ceptesaglik-blog-uzaktan-online-saglik-hizmeti-verebilmek-icin-gereklilikler-nelerdir-75638dbd83ca7c1-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/ceptesaglik-blog-uzaktan-online-saglik-hizmeti-verebilmek-icin-gereklilikler-nelerdir-75638dbd83ca7c1-70x70.jpg",
+      "alt": "Uzaktan Sağlık Hizmeti Vermek için Dikkat Edilmesi Gereken Noktalar",
+      "localPath": "gorseller/ceptesaglik-blog-uzaktan-online-saglik-hizmeti-verebilmek-ic-a1b967d847.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-17-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-17-70x70.jpg",
+      "alt": "Uzaktan Online Sağlık Hizmeti Vermeye Başlayın",
+      "localPath": "gorseller/Adsiz-tasarim-17-70x70-1ea6a801b1.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18-70x70.jpg",
+      "alt": "İşyeri Hekimliği E-Reçete Programı",
+      "localPath": "gorseller/Adsiz-tasarim-18-70x70-deca077167.jpg"
+    }
+  ],
+  "backgroundImages": [
+    {
+      "src": "https://osbh.com.tr/wp-content/themes/basel/images/default-skin.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/themes/basel/images/default-skin.png",
+      "localPath": "gorseller/default-skin-1ea43e3d25.png"
+    }
+  ],
+  "favicon": {
+    "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/Basliksiz-3.png",
+    "localPath": "gorseller/Basliksiz-3-f94f8be53b.png"
+  },
+  "links": {
+    "internal": [
+      "/hesabim/sifremi-unuttum/",
+      "/hesabim/",
+      "/",
+      "/usbs-ozellikleri/",
+      "/uzaktan-saglik-hizmet-paketleri/",
+      "/bireysel-usbs-paketleri/",
+      "/kurumsal-usbs-paketleri/",
+      "/osgb-usbs-paketleri/",
+      "/blog/",
+      "/kurumsal/",
+      "/iletisim/",
+      "/sepet/",
+      "/category/uzaktan-saglik/",
+      "/author/admin/",
+      "/uzaktan-saglik-hizmetlerinin-sunumu/",
+      "/usbs-kayitli-firma/",
+      "/uzaktan-saglik-hizmeti-vermek-icin-dikkat-edilecekler/",
+      "/uzaktan-online-saglik-hizmeti-vermeye-baslayin-2023/",
+      "/isyeri-hekimligi-e-recete-programi/",
+      "/blog",
+      "/iletisim",
+      "/hizmetlerimiz",
+      "/hesabim",
+      "/sepet",
+      "/uzaktan-online-saglik-hizmeti-vermeye-baslayin/",
+      "/uyelik-sozlesmesi",
+      "/gizlilik-politikasi/",
+      "/kisisel-verilerin-korunmasi-kanunu",
+      "/iptal-ve-iade",
+      "/mesafeli-satis-sozlesmesi",
+      "/bilgi-kalite-guvenligi-yonetim-politikasi"
+    ],
+    "external": [
+      "https://kayittescil.saglik.gov.tr/TR-90715/aktif-usbs-listesi.html?Sayfa=2",
+      "https://www.facebook.com/sharer/sharer.php?u=https://osbh.com.tr/uzaktan-saglik-hizmetlerinin-sunumu/",
+      "https://twitter.com/share?url=https://osbh.com.tr/uzaktan-saglik-hizmetlerinin-sunumu/",
+      "https://pinterest.com/pin/create/button/?url=https://osbh.com.tr/uzaktan-saglik-hizmetlerinin-sunumu/&media=https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15.jpg",
+      "https://www.linkedin.com/shareArticle?mini=true&url=https://osbh.com.tr/uzaktan-saglik-hizmetlerinin-sunumu/",
+      "https://telegram.me/share/url?url=https://osbh.com.tr/uzaktan-saglik-hizmetlerinin-sunumu/",
+      "https://ceptesaglik.com/"
+    ]
+  },
+  "forms": [
+    {
+      "action": "https://osbh.com.tr/hesabim/",
+      "method": "post",
+      "id": null,
+      "fields": [
+        "username",
+        "password",
+        "woocommerce-login-nonce",
+        "_wp_http_referer",
+        "rememberme"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/",
+      "method": "get",
+      "id": "searchform",
+      "fields": [
+        "s",
+        "post_type"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/",
+      "method": "get",
+      "id": "searchform",
+      "fields": [
+        "s",
+        "post_type"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/wp-comments-post.php",
+      "method": "post",
+      "id": "commentform",
+      "fields": [
+        "comment",
+        "author",
+        "email",
+        "url",
+        "wp-comment-cookies-consent",
+        "submit",
+        "comment_post_ID",
+        "comment_parent"
+      ]
+    }
+  ],
+  "mapIframes": [],
+  "trackingHints": {
+    "gtagOrAnalytics": [
+      "https://www.googletagmanager.com/gtag/js?id=G-5WG2NSEQ06&cx=c&gtm=4e69n1",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-5B1VZ7JWZD&cx=c&gtm=4e69n1",
+      "https://www.googletagmanager.com/gtag/js?id=UA-242296204-2"
+    ],
+    "gtmId": [],
+    "gaId": [
+      "G-5WG2NSEQ06"
+    ],
+    "fbPixel": false,
+    "searchConsoleVerification": null
+  }
+}

@@ -1,0 +1,52 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ProductCard from '../components/ProductCard.astro';
+
+const products = await getCollection('products');
+const groups = [
+  { key: 'bireysel', label: 'Bireysel USBS Paketleri' },
+  { key: 'kurumsal', label: 'Kurumsal USBS Paketleri' },
+  { key: 'osgb', label: 'OSGB USBS Paketleri' },
+];
+---
+
+<BaseLayout
+  title="Mağaza - Online Sağlık Bilişim Hizmetleri A.Ş."
+  description="Bireysel, kurumsal ve OSGB USBS paketlerimizi inceleyin, ihtiyacınıza en uygun paket için teklif alın."
+  canonical="https://osbh.com.tr/magaza/"
+>
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-14">
+    <div class="text-center mb-12">
+      <span class="text-sm font-semibold uppercase tracking-wide text-teal-600">Paketlerimiz</span>
+      <h1 class="text-3xl sm:text-4xl font-extrabold text-slate-900 mt-2">Size Uygun USBS Paketini Seçin</h1>
+      <p class="text-slate-500 mt-3 max-w-2xl mx-auto">
+        Tüm paketler 12 aylık taahhütlüdür, fiyatlara vergiler dahildir. Satın alma işlemi şu an için
+        teklif talebi üzerinden yürütülmektedir — aşağıdan bir paket seçip bize ulaşın.
+      </p>
+    </div>
+
+    {groups.map((g) => {
+      const items = products.filter((p) => p.data.group === g.key);
+      return (
+        <div class="mb-16">
+          <h2 class="text-xl font-bold text-slate-900 mb-6 border-l-4 border-teal-600 pl-3">{g.label}</h2>
+          <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+            {items.map((p) => (
+              <ProductCard
+                slug={p.slug}
+                title={p.data.title}
+                image={p.data.image}
+                price={p.data.price}
+                originalPrice={p.data.originalPrice}
+                discountPercent={p.data.discountPercent}
+                activation={p.data.activation}
+                categoryLabel={p.data.categoryLabel}
+              />
+            ))}
+          </div>
+        </div>
+      );
+    })}
+  </div>
+</BaseLayout>

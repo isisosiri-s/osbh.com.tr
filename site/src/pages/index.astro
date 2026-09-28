@@ -1,0 +1,118 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import CertBadges from '../components/CertBadges.astro';
+import Testimonials from '../components/Testimonials.astro';
+
+const categoryCards = [
+  { href: '/bireysel-usbs-paketleri/', title: 'Bireysel Paketler', desc: 'Muayenehanesi olan doktorlarımıza özel uzaktan sağlık paketleri' },
+  { href: '/kurumsal-usbs-paketleri/', title: 'Kurumsal Paketler', desc: 'Hastane, poliklinik gibi sağlık kuruluşlarına özel uzaktan sağlık paketleri' },
+  { href: '/osgb-usbs-paketleri/', title: 'OSGB Paketleri', desc: 'OSGB hizmeti veren kurumlara özel uzaktan sağlık paketleri' },
+];
+
+const capabilities = [
+  { title: 'Gelişmiş Raporlama', desc: 'Hastalarınızı, randevularınızı ve satışlarınızı ayrıntılı bir şekilde raporlayabilirsiniz.' },
+  { title: 'E-Reçete, E-Rapor', desc: 'Online muayene sonrasında ek bir yazılıma ihtiyaç duymadan hastalarınıza reçete ve rapor oluşturabilirsiniz.' },
+  { title: 'Yüksek Teknoloji ve Güvenlik', desc: 'HD görüntü kalitesi ile birlikte güvenli ve şifrelenmiş odalarımızda hastalarınız ile sesli ve görüntülü görüşebilirsiniz.' },
+];
+---
+
+<BaseLayout
+  title="Anasayfa - Online Sağlık Bilişim Hizmetleri A.Ş."
+  description="Hastalarınızı, randevularınızı ve satışlarınızı ayrıntılı bir şekilde raporlayabilirsiniz."
+  canonical="https://osbh.com.tr/"
+>
+  <section class="relative overflow-hidden bg-gradient-to-br from-teal-700 via-teal-600 to-cyan-600 text-white">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-20 sm:py-28 relative z-10">
+      <div class="max-w-2xl">
+        <span class="inline-block text-sm font-semibold uppercase tracking-wide text-teal-100 mb-4">
+          Uzaktan Sağlık Hizmeti mi vermek istiyorsunuz?
+        </span>
+        <h1 class="text-4xl sm:text-5xl font-extrabold leading-tight mb-6">
+          OSBH ile Uzaktan Sağlık Hiç Bu Kadar Kolay Olmamıştı
+        </h1>
+        <p class="text-teal-50 text-lg mb-8">
+          Aklınıza takılan sorular mı var? Süreç ile ilgili ücretsiz danışmanlık hizmeti almak için
+          hemen bize ulaşın.
+        </p>
+        <div class="flex flex-wrap gap-4">
+          <a href="/iletisim/" class="rounded-full bg-white text-teal-700 px-7 py-3.5 font-semibold shadow hover:bg-teal-50 transition-colors">
+            Bize Ulaşın
+          </a>
+          <a href="/magaza/" class="rounded-full border border-white/60 px-7 py-3.5 font-semibold hover:bg-white/10 transition-colors">
+            Paketleri İncele
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-16">
+    <div class="text-center mb-10">
+      <span class="text-sm font-semibold uppercase tracking-wide text-teal-600">Size Özel Paketler</span>
+      <h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-2">
+        İhtiyaçlarınızı Birlikte Analiz Edelim
+      </h2>
+      <p class="text-slate-500 mt-2 max-w-2xl mx-auto">
+        Standart özelliklerin dışında ek isteklerinizi de içeren özel paketler hazırlıyoruz.
+      </p>
+    </div>
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+      {categoryCards.map((c) => (
+        <a href={c.href} class="group rounded-2xl border border-slate-200 bg-white p-8 text-center shadow-sm hover:shadow-lg hover:border-teal-200 transition-all">
+          <h3 class="text-xl font-bold text-slate-900 group-hover:text-teal-700 mb-2">{c.title}</h3>
+          <p class="text-sm text-slate-500">{c.desc}</p>
+          <span class="mt-4 inline-block text-sm font-semibold text-teal-600">Paketleri İncele →</span>
+        </a>
+      ))}
+    </div>
+  </section>
+
+  <section class="bg-slate-50 py-16">
+    <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
+      <div class="text-center mb-10">
+        <span class="text-sm font-semibold uppercase tracking-wide text-teal-600">Yetkinliklerimiz</span>
+        <h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-2">Uzaktan Sağlık Bilgi Sistemi</h2>
+        <p class="text-slate-500 mt-2 max-w-2xl mx-auto">
+          Dijital platformda hem kurumunuzun hem de sağlık hizmetlerinizin görünürlüğünü arttırarak,
+          yeni hastalara ulaşın ve online sağlık hizmetleriniz ile verimliliğinizi arttırın.
+        </p>
+      </div>
+      <div class="grid grid-cols-1 sm:grid-cols-3 gap-6">
+        {capabilities.map((c) => (
+          <div class="rounded-2xl bg-white p-8 shadow-sm">
+            <h3 class="font-bold text-slate-900 mb-2">{c.title}</h3>
+            <p class="text-sm text-slate-500 leading-relaxed">{c.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-16">
+    <div class="text-center mb-10">
+      <span class="text-sm font-semibold uppercase tracking-wide text-teal-600">Kullanıcı Yorumları</span>
+      <h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-2">
+        Doktorlarımız ve Sağlık Merkezlerimiz Ne Diyor?
+      </h2>
+    </div>
+    <Testimonials />
+  </section>
+
+  <section class="bg-slate-50 py-14">
+    <div class="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 text-center">
+      <h2 class="text-lg font-semibold text-slate-500 mb-8">Güvenlik &amp; Uyum Sertifikalarımız</h2>
+      <CertBadges />
+    </div>
+  </section>
+
+  <section class="mx-auto max-w-5xl px-4 sm:px-6 lg:px-8 py-16 text-center">
+    <h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900 mb-4">Hemen Teklif Alın</h2>
+    <p class="text-slate-500 mb-8 max-w-xl mx-auto">
+      Uzaktan Sağlık Hizmetleri ve diğer yazılım hizmetleri için bizimle iletişime geçmekten
+      çekinmeyin. Size en optimum çözümleri sunmak için sabırsızlanıyoruz.
+    </p>
+    <a href="/iletisim/" class="inline-flex rounded-full bg-teal-600 hover:bg-teal-700 px-8 py-3.5 font-semibold text-white shadow transition-colors">
+      Bize Ulaşın
+    </a>
+  </section>
+</BaseLayout>

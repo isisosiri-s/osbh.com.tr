@@ -1,0 +1,76 @@
+---
+import { getCollection, render } from 'astro:content';
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../lib/site';
+
+export async function getStaticPaths() {
+  const pages = await getCollection('pages');
+  return pages.map((p) => ({ params: { slug: p.slug }, props: { entry: p } }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+const p = entry.data;
+
+const isBlog = p.type === 'blog';
+
+const jsonLd = isBlog
+  ? [
+      {
+        '@context': 'https://schema.org',
+        '@type': 'BlogPosting',
+        headline: p.title,
+        description: p.description,
+        datePublished: p.date,
+        author: { '@type': 'Organization', name: SITE.name },
+        publisher: { '@type': 'Organization', name: SITE.name },
+        image: p.ogImage ? `${SITE.url}${p.ogImage}` : undefined,
+        mainEntityOfPage: p.canonical,
+      },
+    ]
+  : [];
+
+const formattedDate = p.date
+  ? new Date(p.date).toLocaleDateString('tr-TR', { year: 'numeric', month: 'long', day: 'numeric' })
+  : null;
+---
+
+<BaseLayout
+  title={p.pageTitle}
+  description={p.description}
+  canonical={p.canonical}
+  ogImage={p.ogImage}
+  ogType={isBlog ? 'article' : 'website'}
+  jsonLd={jsonLd}
+>
+  <div class="mx-auto max-w-3xl px-4 sm:px-6 lg:px-8 py-12">
+    <nav class="text-sm text-slate-500 mb-6">
+      <a href="/" class="hover:text-teal-700">Ana Sayfa</a>
+      <span class="mx-1.5">/</span>
+      {isBlog ? <a href="/blog/" class="hover:text-teal-700">Blog</a> : <span>Sözleşmeler</span>}
+      <span class="mx-1.5">/</span>
+      <span class="text-slate-700">{p.title}</span>
+    </nav>
+
+    {isBlog && p.ogImage && (
+      <img src={p.ogImage} alt={p.title} class="w-full rounded-2xl mb-8 aspect-video object-cover" />
+    )}
+
+    <h1 class="text-3xl sm:text-4xl font-extrabold text-slate-900 mb-3">{p.title}</h1>
+    {formattedDate && (
+      <p class="text-sm text-slate-500 mb-8">
+        Uzaktan Sağlık &middot; {formattedDate}
+      </p>
+    )}
+
+    <article class="prose prose-slate prose-teal max-w-none prose-headings:font-bold prose-a:text-teal-700">
+      <Content />
+    </article>
+
+    {!isBlog && (
+      <p class="mt-10 text-sm text-slate-500 border-t border-slate-100 pt-6">
+        Bu sayfa hakkında sorularınız için <a href="/iletisim/" class="text-teal-700 underline">bizimle iletişime geçebilirsiniz</a>.
+      </p>
+    )}
+  </div>
+</BaseLayout>

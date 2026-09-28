@@ -1,0 +1,449 @@
+{
+  "url": "https://osbh.com.tr/",
+  "path": "/",
+  "group": "marketing",
+  "fetchedAt": "2026-09-28T09:26:32.784Z",
+  "title": "Anasayfa - Online Sağlık Bilişim Hizmetleri A.Ş.",
+  "metaDescription": "Hastalarınızı, randevularınızı ve satışlarınızı ayrıntılı bir şekilde raporlayabilirsiniz.",
+  "canonical": "https://osbh.com.tr/",
+  "og": {
+    "og:locale": "tr_TR",
+    "og:type": "website",
+    "og:title": "Anasayfa - Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "og:description": "Hastalarınızı, randevularınızı ve satışlarınızı ayrıntılı bir şekilde raporlayabilirsiniz.",
+    "og:url": "https://osbh.com.tr/",
+    "og:site_name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "og:updated_time": "2026-04-07T09:59:53+00:00"
+  },
+  "twitter": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Anasayfa - Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "twitter:description": "Hastalarınızı, randevularınızı ve satışlarınızı ayrıntılı bir şekilde raporlayabilirsiniz.",
+    "twitter:label1": "Written by",
+    "twitter:data1": "admin",
+    "twitter:label2": "Time to read",
+    "twitter:data2": "9 dakika"
+  },
+  "jsonLd": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://osbh.com.tr/#organization",
+          "name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "url": "https://osbh.com.tr"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://osbh.com.tr/#website",
+          "url": "https://osbh.com.tr",
+          "name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "alternateName": "Uzaktan Sağlık Bilgi Sistemleri",
+          "publisher": {
+            "@id": "https://osbh.com.tr/#organization"
+          },
+          "inLanguage": "tr",
+          "potentialAction": {
+            "@type": "SearchAction",
+            "target": "https://osbh.com.tr/?s={search_term_string}",
+            "query-input": "required name=search_term_string"
+          }
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://osbh.com.tr/#webpage",
+          "url": "https://osbh.com.tr/",
+          "name": "Anasayfa - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "datePublished": "2017-08-11T06:46:06+00:00",
+          "dateModified": "2026-04-07T09:59:53+00:00",
+          "about": {
+            "@id": "https://osbh.com.tr/#organization"
+          },
+          "isPartOf": {
+            "@id": "https://osbh.com.tr/#website"
+          },
+          "inLanguage": "tr"
+        },
+        {
+          "@type": "Person",
+          "@id": "https://osbh.com.tr/author/admin/",
+          "name": "admin",
+          "url": "https://osbh.com.tr/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/6d7ffb23547abcc9b45e5d5101958015?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/6d7ffb23547abcc9b45e5d5101958015?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "tr"
+          },
+          "sameAs": [
+            "https://demo.osbh.com.tr"
+          ],
+          "worksFor": {
+            "@id": "https://osbh.com.tr/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Anasayfa - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "datePublished": "2017-08-11T06:46:06+00:00",
+          "dateModified": "2026-04-07T09:59:53+00:00",
+          "author": {
+            "@id": "https://osbh.com.tr/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "https://osbh.com.tr/#organization"
+          },
+          "description": "Hastalarınızı, randevularınızı ve satışlarınızı ayrıntılı bir şekilde raporlayabilirsiniz.",
+          "name": "Anasayfa - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "@id": "https://osbh.com.tr/#richSnippet",
+          "isPartOf": {
+            "@id": "https://osbh.com.tr/#webpage"
+          },
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://osbh.com.tr/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "h1": [],
+  "h2": [],
+  "h3": [],
+  "bodyText": "Sign in\nclose\nUsername or email\n*\nPassword\nLog in\nLost your password?\nRemember me\nNo account yet?\nCreate an Account\nSearch for:\nSearch\nAnasayfa\nUSBS Özellikleri\nUSBS Çözümleri\nBireysel USBS Paketleri\nKurumsal USBS Paketleri\nOSGB USBS Paketleri\nBlog\nKurumsal\nİletişim\nLogin / Register\nShopping cart\nNo products in the cart.\no\n0\n0.00\n₺\nHizmeti mi vermek\nistiyorsunuz?\nUzaktan Sağlık\nAklınıza takılan sorular mı var? Süreç ile ilgili olarak ücretsiz danışmanlık hizmeti almak için hemen bize ulaşın.\nBİZE ULAŞIN\nSİZE ÖZEL PAKETLER\nİhtiyaçlarınızı birlikte analiz edelim ve sizler için en uygun paketi hazırlayalım.\nStandart özelliklerin dışında ek isteklerinizi de içeren özel paketler…\nbize ulaşın\nYetkinliklerimiz\nUZAKTAN SAĞLIK BİLGİ SİSTEMİ\nDijital platformda hem kurumunuzun hem de sağlık hizmetlerinizin görünürlüğünü arttırarak, yeni hastalara ulaşın ve online sağlık hizmetleriniz ile kurumunuzun verimliliğini arttırın.\nGelişmiş Raporlama\nHastalarınızı, randevularınızı ve satışlarınızı ayrıntılı bir şekilde raporlayabilirsiniz.\nE-Reçete, E-Rapor\nOnline muayene sonrasında ek bir yazılıma ihtiyaç duymadan hastalarınıza reçete ve rapor oluşturabilirsiniz.\nYüksek Teknoloji ve Güvenlik\nHD görüntülü kalitesi ile birlikte güvenli ve şifrelenmiş odalarımızda hastalarınız ile sesli ve görüntülü görüşebilirsiniz.\nKULLANICI YORUMLARI\nAltyapılarımızı ve sistemlerimizi kullanan doktorlarımız, psikologlarımız ve sağlık merkezlerimizin temsilcilerinin yorumlarını sizler için derledik.\nYaklaşık 2 aydır OSBH firmasının Uzaktan Sağlık yazılımlarını kullanıyorum. Yazılım gayet hızlı ve basit. Tüm hasta işlemlerini artık telefonumdan dahi yönetebiliyorum.\nÖzel Muayenehane\nAnkara\nReçete ve rapor için farklı bir yazılım almıştım ancak artık gerek kalmadı. Bir sistem üzerinde tüm işlemlerimi halledebiliyorum. Teşekkürler OSBH\n12 doktorumuz ile birlikte OSBH sayesinde artık 7/24 online olduk. Kendi hastalarımızın yanında farklı illerden hastalarında hayatlarına dokunmak heyecan verici.\nSağlık Kurumu\nBursa\nEn uygun fiyat, en şeffaf hizmet. Teknik destek harika. Diğer doktor arkadaşlarıma önermeye dahi başladım. Teşekkürler\nİstanbul\nEPOSTA BÜLTENİ\nE-posta bültenimize katılarak Sağlık Sistemleri ve Hizmetleriyle ilgili güncel fırsatlar, kampanyalar ve bilgilendirmelerden ilk siz haberdar olun.\n[mc4wp_form id=”173″]\nUzaktan Sağlık Hizmetleri ve diğer yazılım hizmetleri için bizimle iletişime geçmekten çekinmeyin. Size en optimum çözümleri sunmak için sabırsızlanıyoruz.\nAR-GE Ofisi\nKırıkkale Teknopark No:25\nYahşihan/Kırıkkale\nMerkez Ofis\nHarbiye Mah. Hürriyet Cd. No:7/12\nÇankaya/Ankara\nTelefon\n+90 312 482 5451\nE-posta\ninfo@osbh.com.tr,\nkurumsal@osbh.com.tr\nOnline Sağlık Bilişim\nHizmetlerimiz\nAktif USBS Listesi\nCepte Sağlık\nMüşteri Paneli\nHesabım\nSepetim\nSözleşmeler\nÜyelik Sözleşmesi\nGizlilik Politikası\nKişisel Verilerin Korunması Kanunu\nİptal ve İade\nMesafeli Satış Sözleşmesi\nBilgi-Kalite Güvenliği Yönetim Politikası\n© 2026\nOnline Sağlık Bilişim Hizmetleri A.Ş.\n. All rights reserved",
+  "images": [
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "alt": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+      "localPath": "gorseller/logosd-8b84d523ea.png"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "alt": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+      "localPath": "gorseller/logosd-8b84d523ea.png"
+    },
+    {
+      "src": "//osbh.com.tr/wp-content/uploads/2023/01/Copy-of-fotolar.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/Copy-of-fotolar.png",
+      "alt": "",
+      "localPath": "gorseller/Copy-of-fotolar-ab3fc961dc.png"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/b1-500x350.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/b1-500x350.jpg",
+      "alt": "b1",
+      "localPath": "gorseller/b1-500x350-9df91bb85c.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/b2-500x350.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/b2-500x350.jpg",
+      "alt": "b2",
+      "localPath": "gorseller/b2-500x350-3910aee86a.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/b3-500x350.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/b3-500x350.jpg",
+      "alt": "b3",
+      "localPath": "gorseller/b3-500x350-599b0f084c.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/1-500x350.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/1-500x350.jpg",
+      "alt": "1",
+      "localPath": "gorseller/1-500x350-ad5429d9f5.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/2-500x350.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/2-500x350.jpg",
+      "alt": "2",
+      "localPath": "gorseller/2-500x350-c7ad5c5233.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/3-500x350.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/3-500x350.jpg",
+      "alt": "3",
+      "localPath": "gorseller/3-500x350-b8fad698b0.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/c1-500x350.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/c1-500x350.jpg",
+      "alt": "c1",
+      "localPath": "gorseller/c1-500x350-6cada13ea3.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/c2-500x350.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/c2-500x350.jpg",
+      "alt": "c2",
+      "localPath": "gorseller/c2-500x350-985e8e6f77.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/c3-500x350.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/c3-500x350.jpg",
+      "alt": "c3",
+      "localPath": "gorseller/c3-500x350-d13a8c67ac.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/27001.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/27001.jpg",
+      "alt": "27001",
+      "localPath": "gorseller/27001-19571e61bf.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/9001-1.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/9001-1.jpg",
+      "alt": "9001-1",
+      "localPath": "gorseller/9001-1-ae395c1fb8.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/ssl.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/ssl.jpg",
+      "alt": "ssl",
+      "localPath": "gorseller/ssl-3317f051f7.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/guvenlik.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/guvenlik.jpg",
+      "alt": "guvenlik",
+      "localPath": "gorseller/guvenlik-881246caac.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/guvenli.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/guvenli.jpg",
+      "alt": "guvenli",
+      "localPath": "gorseller/guvenli-911714a2c4.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/fullhd.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/fullhd.jpg",
+      "alt": "fullhd",
+      "localPath": "gorseller/fullhd-606dd74771.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/enabiz.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/enabiz.jpg",
+      "alt": "enabiz",
+      "localPath": "gorseller/enabiz-78a10b3a57.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/erecete.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/erecete.jpg",
+      "alt": "erecete",
+      "localPath": "gorseller/erecete-c99e985ed0.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/erapor.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/erapor.jpg",
+      "alt": "erapor",
+      "localPath": "gorseller/erapor-807b794262.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/15004-1.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/15004-1.jpg",
+      "alt": "15004-1",
+      "localPath": "gorseller/15004-1-d0605eabad.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/27001.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/27001.jpg",
+      "alt": "27001",
+      "localPath": "gorseller/27001-19571e61bf.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/9001-1.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/9001-1.jpg",
+      "alt": "9001-1",
+      "localPath": "gorseller/9001-1-ae395c1fb8.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/ssl.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/ssl.jpg",
+      "alt": "ssl",
+      "localPath": "gorseller/ssl-3317f051f7.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/guvenlik.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/guvenlik.jpg",
+      "alt": "guvenlik",
+      "localPath": "gorseller/guvenlik-881246caac.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/guvenli.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/guvenli.jpg",
+      "alt": "guvenli",
+      "localPath": "gorseller/guvenli-911714a2c4.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/fullhd.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/fullhd.jpg",
+      "alt": "fullhd",
+      "localPath": "gorseller/fullhd-606dd74771.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/enabiz.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/enabiz.jpg",
+      "alt": "enabiz",
+      "localPath": "gorseller/enabiz-78a10b3a57.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/erecete.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/erecete.jpg",
+      "alt": "erecete",
+      "localPath": "gorseller/erecete-c99e985ed0.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/erapor.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/erapor.jpg",
+      "alt": "erapor",
+      "localPath": "gorseller/erapor-807b794262.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/15004-1.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/15004-1.jpg",
+      "alt": "15004-1",
+      "localPath": "gorseller/15004-1-d0605eabad.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/27001.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/27001.jpg",
+      "alt": "27001",
+      "localPath": "gorseller/27001-19571e61bf.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/9001-1.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/9001-1.jpg",
+      "alt": "9001-1",
+      "localPath": "gorseller/9001-1-ae395c1fb8.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/med-testim-4.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/med-testim-4.jpg",
+      "alt": "",
+      "localPath": "gorseller/med-testim-4-df2e42fb0a.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/med-testim-2.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/med-testim-2.jpg",
+      "alt": "med-testim-2",
+      "localPath": "gorseller/med-testim-2-d2afbe7972.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/med-testim-1.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/med-testim-1.jpg",
+      "alt": "med-testim-1",
+      "localPath": "gorseller/med-testim-1-d0b33413cb.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/med-testim-3.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/med-testim-3.jpg",
+      "alt": "med-testim-3",
+      "localPath": "gorseller/med-testim-3-13ac243888.jpg"
+    }
+  ],
+  "backgroundImages": [
+    {
+      "src": "https://osbh.com.tr/wp-content/plugins/revslider/public/assets/assets/loader.gif",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/plugins/revslider/public/assets/assets/loader.gif",
+      "localPath": "gorseller/loader-1b5a709884.gif"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/Adsiz-tasarim-14.jpg?id=32463",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/Adsiz-tasarim-14.jpg?id=32463",
+      "localPath": "gorseller/Adsiz-tasarim-14-0721c9268f.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/themes/basel/images/default-skin.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/themes/basel/images/default-skin.png",
+      "localPath": "gorseller/default-skin-1ea43e3d25.png"
+    }
+  ],
+  "favicon": {
+    "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/Basliksiz-3.png",
+    "localPath": "gorseller/Basliksiz-3-f94f8be53b.png"
+  },
+  "links": {
+    "internal": [
+      "/hesabim/sifremi-unuttum/",
+      "/hesabim/",
+      "/",
+      "/usbs-ozellikleri/",
+      "/uzaktan-saglik-hizmet-paketleri/",
+      "/bireysel-usbs-paketleri/",
+      "/kurumsal-usbs-paketleri/",
+      "/osgb-usbs-paketleri/",
+      "/blog/",
+      "/kurumsal/",
+      "/iletisim/",
+      "/sepet/",
+      "/iletisim",
+      "/uzaktan-online-saglik-hizmeti-vermeye-baslayin/",
+      "/blog",
+      "/hizmetlerimiz",
+      "/hesabim",
+      "/sepet",
+      "/uyelik-sozlesmesi",
+      "/gizlilik-politikasi/",
+      "/kisisel-verilerin-korunmasi-kanunu",
+      "/iptal-ve-iade",
+      "/mesafeli-satis-sozlesmesi",
+      "/bilgi-kalite-guvenligi-yonetim-politikasi"
+    ],
+    "external": [
+      "https://kayittescil.saglik.gov.tr/TR-90715/aktif-usbs-listesi.html?Sayfa=2",
+      "https://ceptesaglik.com/"
+    ]
+  },
+  "forms": [
+    {
+      "action": "https://osbh.com.tr/hesabim/",
+      "method": "post",
+      "id": null,
+      "fields": [
+        "username",
+        "password",
+        "woocommerce-login-nonce",
+        "_wp_http_referer",
+        "rememberme"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/",
+      "method": "get",
+      "id": "searchform",
+      "fields": [
+        "s",
+        "post_type"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/",
+      "method": "get",
+      "id": "searchform",
+      "fields": [
+        "s",
+        "post_type"
+      ]
+    }
+  ],
+  "mapIframes": [
+    "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12244.231410117272!2d32.8368589!3d39.895337!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6b74a2b7feb055d0!2zQ2VwdGUgU2HEn2zEsWs!5e0!3m2!1str!2str!4v1675187207944!5m2!1str!2str"
+  ],
+  "trackingHints": {
+    "gtagOrAnalytics": [
+      "https://www.googletagmanager.com/gtag/js?id=G-5WG2NSEQ06&cx=c&gtm=4e69n1",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-5B1VZ7JWZD&cx=c&gtm=4e69n1",
+      "https://www.googletagmanager.com/gtag/js?id=UA-242296204-2"
+    ],
+    "gtmId": [],
+    "gaId": [
+      "G-5WG2NSEQ06"
+    ],
+    "fbPixel": false,
+    "searchConsoleVerification": null
+  }
+}

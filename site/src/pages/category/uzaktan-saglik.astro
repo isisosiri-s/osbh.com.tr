@@ -1,0 +1,44 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const allPages = await getCollection('pages');
+const posts = allPages
+  .filter((p) => p.data.type === 'blog')
+  .sort((a, b) => new Date(b.data.date || 0).getTime() - new Date(a.data.date || 0).getTime());
+---
+
+<!--
+  NOT: Bu kategori arşivi eski sitede /blog/ ile birebir aynı içeriği listeliyordu
+  (tek kategori: Uzaktan Sağlık). Yinelenen içerik (duplicate content) SEO sorununu
+  önlemek için canonical, /blog/ sayfasına işaret ediyor. URL, eski indekslemeyi
+  korumak için aynen tutuldu.
+-->
+<BaseLayout
+  title="Uzaktan Sağlık - Online Sağlık Bilişim Hizmetleri A.Ş."
+  description="Uzaktan sağlık hizmetleri, USBS mevzuatı ve online muayene hakkında güncel yazılar."
+  canonical="https://osbh.com.tr/blog/"
+>
+  <div class="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-14">
+    <div class="text-center mb-12">
+      <span class="text-sm font-semibold uppercase tracking-wide text-teal-600">Kategori</span>
+      <h1 class="text-3xl sm:text-4xl font-extrabold text-slate-900 mt-2">Uzaktan Sağlık</h1>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+      {posts.map((post) => (
+        <a href={`/${post.slug}/`} class="group block rounded-2xl border border-slate-200 overflow-hidden bg-white shadow-sm hover:shadow-lg transition-shadow">
+          {post.data.ogImage && (
+            <div class="aspect-video overflow-hidden bg-slate-100">
+              <img src={post.data.ogImage} alt={post.data.title} loading="lazy" class="h-full w-full object-cover group-hover:scale-105 transition-transform duration-300" />
+            </div>
+          )}
+          <div class="p-5">
+            <h2 class="font-bold text-slate-900 group-hover:text-teal-700 leading-snug">{post.data.title}</h2>
+            <p class="text-sm text-slate-500 mt-2 line-clamp-3">{post.data.description}</p>
+          </div>
+        </a>
+      ))}
+    </div>
+  </div>
+</BaseLayout>

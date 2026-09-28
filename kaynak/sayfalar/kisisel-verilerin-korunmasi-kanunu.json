@@ -1,0 +1,272 @@
+{
+  "url": "https://osbh.com.tr/kisisel-verilerin-korunmasi-kanunu/",
+  "path": "/kisisel-verilerin-korunmasi-kanunu/",
+  "group": "legal",
+  "fetchedAt": "2026-09-28T09:28:57.978Z",
+  "title": "Kişisel Verilerin Korunması Kanunu - Online Sağlık Bilişim Hizmetleri A.Ş.",
+  "metaDescription": "ONLINE SAĞLIK BİLİŞİM HİZMETLERİ A.Ş.",
+  "canonical": "https://osbh.com.tr/kisisel-verilerin-korunmasi-kanunu/",
+  "og": {
+    "og:locale": "tr_TR",
+    "og:type": "article",
+    "og:title": "Kişisel Verilerin Korunması Kanunu - Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "og:description": "ONLINE SAĞLIK BİLİŞİM HİZMETLERİ A.Ş.",
+    "og:url": "https://osbh.com.tr/kisisel-verilerin-korunmasi-kanunu/",
+    "og:site_name": "Online Sağlık Bilişim Hizmetleri A.Ş."
+  },
+  "twitter": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Kişisel Verilerin Korunması Kanunu - Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "twitter:description": "ONLINE SAĞLIK BİLİŞİM HİZMETLERİ A.Ş.",
+    "twitter:label1": "Time to read",
+    "twitter:data1": "7 dakika"
+  },
+  "jsonLd": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://osbh.com.tr/#organization",
+          "name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "url": "https://osbh.com.tr"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://osbh.com.tr/#website",
+          "url": "https://osbh.com.tr",
+          "name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "alternateName": "Uzaktan Sağlık Bilgi Sistemleri",
+          "publisher": {
+            "@id": "https://osbh.com.tr/#organization"
+          },
+          "inLanguage": "tr"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://osbh.com.tr/kisisel-verilerin-korunmasi-kanunu/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://osbh.com.tr",
+                "name": "Ana Sayfa"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://osbh.com.tr/kisisel-verilerin-korunmasi-kanunu/",
+                "name": "Kişisel Verilerin Korunması Kanunu"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://osbh.com.tr/kisisel-verilerin-korunmasi-kanunu/#webpage",
+          "url": "https://osbh.com.tr/kisisel-verilerin-korunmasi-kanunu/",
+          "name": "Kişisel Verilerin Korunması Kanunu - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "datePublished": "2023-02-02T07:12:38+00:00",
+          "dateModified": "2023-02-02T07:12:38+00:00",
+          "isPartOf": {
+            "@id": "https://osbh.com.tr/#website"
+          },
+          "inLanguage": "tr",
+          "breadcrumb": {
+            "@id": "https://osbh.com.tr/kisisel-verilerin-korunmasi-kanunu/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://osbh.com.tr/author/admin/",
+          "name": "admin",
+          "url": "https://osbh.com.tr/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/6d7ffb23547abcc9b45e5d5101958015?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/6d7ffb23547abcc9b45e5d5101958015?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "tr"
+          },
+          "sameAs": [
+            "https://demo.osbh.com.tr"
+          ],
+          "worksFor": {
+            "@id": "https://osbh.com.tr/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Kişisel Verilerin Korunması Kanunu - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "datePublished": "2023-02-02T07:12:38+00:00",
+          "dateModified": "2023-02-02T07:12:38+00:00",
+          "author": {
+            "@id": "https://osbh.com.tr/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "https://osbh.com.tr/#organization"
+          },
+          "description": "ONLINE SAĞLIK BİLİŞİM HİZMETLERİ A.Ş.",
+          "name": "Kişisel Verilerin Korunması Kanunu - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "@id": "https://osbh.com.tr/kisisel-verilerin-korunmasi-kanunu/#richSnippet",
+          "isPartOf": {
+            "@id": "https://osbh.com.tr/kisisel-verilerin-korunmasi-kanunu/#webpage"
+          },
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://osbh.com.tr/kisisel-verilerin-korunmasi-kanunu/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "h1": [
+    "Kişisel Verilerin Korunması Kanunu"
+  ],
+  "h2": [],
+  "h3": [],
+  "bodyText": "Sign in\nclose\nUsername or email\n*\nPassword\nLog in\nLost your password?\nRemember me\nNo account yet?\nCreate an Account\nSearch for:\nSearch\nAnasayfa\nUSBS Özellikleri\nUSBS Çözümleri\nBireysel USBS Paketleri\nKurumsal USBS Paketleri\nOSGB USBS Paketleri\nBlog\nKurumsal\nİletişim\nLogin / Register\nShopping cart\nNo products in the cart.\no\n0\n0.00\n₺\nKişisel Verilerin Korunması Kanunu\nONLINE SAĞLIK BİLİŞİM HİZMETLERİ A.Ş.\nKİŞİSEL VERİLERİN KORUNMASI VE İŞLENMESİ AYDINLATMA METNİ\n1. Veri Sorumlusu ve Temsilcisi\n6698 sayılı Kişisel Verilerin Korunması Kanunu (Bundan böyle “\nKVKK\n” veya “\nKVKK Kanunu\n” olarak anılacaktır) ve ilgili mevzuat uyarınca, veri sorumlusu sıfatıyla hareket eden\n(Bundan böyle “\nŞirket\n” olarak anılacaktır) tarafından, Şirket ile irtibatı bulunan ilgili kişi konumundaki sizin (Bundan böyle “\nİlgili Kişi\n” olarak anılacaktır) kişisel verileriniz aşağıda açıklanan kapsamda ve KVKK Kanuna uygun olarak toplanabilecek, işlenebilecek ve paylaşılabilecektir.\n2. Kullanılan Kişisel Veriler ve Verilerin İşlenme Amacı\nKişisel verileriniz, Şirketimiz tarafından sunulan hizmetlerden sizleri faydalandırmak için gerekli çalışmaların yapılması ve hizmetlerin ifa edilmesi amaçları kapsamında aşağıdaki amaçlarla (“\nAmaçlar\n”) ve KVKK Kanun’un 5. ve 6. maddelerinde belirtilen kişisel veri işleme şartlarına uygun olarak işlenebilecektir:\nKişisel veriler arasında;\nKimlik Bilgisi\nÖzlük Bilgisi\nİletişim Bilgisi\nLokasyon Bilgisi\nMesleki Deneyim\nMuhasebesel Bilgileriniz (Banka hesap numaranız, IBAN numaranız, kredi kartı bilginiz, faturalama bilgileriniz gibi finansal verileriniz)\nSağlık Bilgileriniz (Test sonuçlarınız, görüşme verileriniz, randevu bilgileriniz dahil ancak bunlarla sınırlı olmaksızın Şirket’in hizmetlerini yürütmesi sırasında veya bunların bir sonucu olarak elde edilen her türlü kişisel verileriniz)\nİş bu web sitesine veya Şirket’e gönderdiğiniz, bildirdiğiniz veya girdiğiniz sağlık verileriniz ve sair kişisel verileriniz ( Mevcut sağlık durumunuza ilişkin özel nitelikli kişisel veriler, mevcut tetkik ve tedavi evraklarınız ve her türlü raporunuz, sağlık geçmişinize ilişkin veriler, Şirketin web sitesi veya uygulaması kullanıcı adı ve şifresi ve online görüşme sırasından vermiş olduğunuz her türlü kişisel verinizle sınırlı olmamak kaydıyla)\nGörsel ve İşitsel Bilgi\nHukuki işlem\nTalep ve Şikâyet Yönetimi Bilgisi\nPazarlama Bilgisi (çerez kayıtları, ticari elektronik ileti iznine istinaden gönderilen pazarlama amaçlı SMS, e-posta mesajları tarafından yapılan aramalarla sınırlı olmamak kaydıyla)\nEski satın alım işlemlerinize ilişkin bilgiler\nŞikayet/önerilerinize ilişkin veriler\nSponsorlu bağlantılar vasıtası ile vermiş olduğunuz kişisel verileriniz\nYukarıda belirtilmeyen ve bunlarla sınırlı olmaksızın tarafımıza ulaştırmış olduğunuz sair her türlü kişisel verileriniz yer almaktadır.\nKişisel verilerin işlenme amaçları arasında;\nYasal ve sözleşmelerden doğan yükümlülüklerin yerine getirilmesi,\nBir sözleşmenin kurulması veya ifasıyla doğrudan doğruya ilgili olması kaydıyla, sözleşmenin taraflarına ait kişisel verilerin islenmesi,\nŞirketin herhangi bir hukuki yükümlülüğünü yerine getirebilmesi için zorunlu olması,\nFiili imkânsızlık nedeniyle rızasını açıklayamayacak durumda bulunan veya rızasına hukuki geçerlilik tanınmayan kişinin kendisinin ya da bir başkasının hayatı veya beden bütünlüğünün korunması,\nKamu kurum ve kuruluşları ile yargı mercileri tarafından bilgi talep edilmesine paylaşılması,\nİlgili kişinin kendisi tarafından alenileştirilmiş̧ olması,\nSunulan hizmetlere ilişkin verilerinin mevzuata uygun olarak arşivlenmesi ve saklanması,\nMuhasebe ve finans süreçlerinin yürütülmesi,\nHukuki işlerinin takibi ve yürütülmesi,\nResmi kurum taleplerinin yerine getirilmesi,\nBilgi güvenliği süreçlerinin yürütülmesi,\nAraştırma yapılması,\nRandevu hatırlatma, değişiklik ve hizmetin sunumuna ilişkin sair bilgilendirmelerin gerçekleştirilmesi,\nTalep ve şikayetlerin alınması ve değerlendirilmesi ve aşamalar hakkında bilgi verilebilmesi,\nRisk yönetimi ve kalite geliştirme aktivitelerinin yerine getirilmesi,\nHizmetlerin ilgili kişilerin beğeni, kullanım alışkanlıkları ve ihtiyaçlarına göre özelleştirilerek size önerilmesi ve tanıtılması için gerekli olan aktivitelerin planlanması ve icrası,\nTercih ettiğiniz iletişim kanalı üzerinden tanıtım, bilgilendirme, pazarlama ve kampanya faaliyetleri hakkında size yönelik olarak bilgilendirme yapılabilmesi,\nİlgili Kişi’ye farklı proje ve imkanların sunulmasına yönelik çalışmaların gerçekleştirilebilmesi,\nÜyelik kaydı ve hesabının oluşturulması ve buna ilişkin kayıtların tutulması,\nPazarlama, Medya ve İletişim, Çağrı Merkezi bölümleri tarafından kampanyalara katılım ve kampanya bilgisi verilmesi, Web ve mobil kanallarda özel içeriklerin, somut ve soyut faydaların tasarlanması ve iletilebilmesi,\nŞirket tarafından sunulan hizmetlerin sunulmasına ve ifasına ilişkin süreçlerin yürütülmesi,\nŞirket tarafından sunulan hizmetlerin yönetimi, süreçlerinin planlanması ve icrası,\nŞirket içi denetim ve etik faaliyetlerinin gerçekleştirilmesi,\nŞirket dahilindeki iç süreçlerin planlanması ve icrası,\nŞirket tarafından sunulan ürün ve hizmetlerin ilgili kişilerin beğeni, kullanım alışkanlıkları ve ihtiyaçlarına göre özelleştirilerek ilgili kişilere önerilmesi için gerekli olan aktivitelerin planlanması ve icrası amacı ile bulunmaktadır.\nToplanan kişisel verileriniz; Amaçlar’ın gerçekleştirilmesi doğrultusunda, Kanunen yetkili kamu kurumlarına ve kanunen yetkili özel kişiler (İlgili bakanlıklar ve bağlı alt birimleri, Sosyal Güvenlik Kurumu, Emniyet Genel Müdürlüğü ve sair kolluk kuvvetleri, Nüfus Genel Müdürlüğü, Türkiye Eczacılar Birliği, Mahkemeler ve her türlü yargı makamı gibi), tedarikçilerimiz, merkezi ve sair üçüncü kişiler, yetki vermiş olduğunuz temsilcileriniz, avukatlar, vergi ve finans danışmanları ve denetçiler de dâhil olmak üzere danışmanlık aldığımız üçüncü kişiler, düzenleyici ve denetleyici kurumlar, resmi merciler dâhil hizmetleri yukarıda belirtilen amaçlarla geliştirmek veya yürütmek üzere işbirliği yaptığımız iş ortaklarımız ve diğer üçüncü kişiler ile Kanun’un 5. maddesinde yer alan veri işleme şartları kapsamında Kanun’un 8. maddesinde belirtilen kişisel verilerin aktarılmasına ilişkin kurallara uygun olarak paylaşılabilecektir.\n3. Kişisel Veri Toplamanın Yöntemi ve Hukuki Sebebi\nKişisel verileriniz, Şirket tarafından Amaçlar’ın gerçekleştirilmesi amacı ile her türlü sözlü, yazılı, görsel ya da elektronik ortamda (elektronik ortamda, internet sitelerimizde, Çağrı Merkezimizde dahil olmak üzere sistemlerimizde, online hizmetlerin sunulduğu portallerde, e-posta kanallarında ve fiziki ortamda kargo/posta, faks, yüz yüze gerçekleştirilen görüşmelerde) Şirketin meşru menfaatleri için veri işlenmesinin zorunlu olmasına ilişkin hukuki sebebe dayalı olarak toplanmaktadır. Kişisel verileriniz, Kanun’un 5. ve 6. maddelerinde belirtilen kişisel veri işleme şartları uyarınca aşağıdaki hukuki sebeplere dayanılarak işlenmektedir.\n4. Veri Sahibinin Kanun’un 11. Maddesinde Sayılan Hakları\nKVKK Kanunu kapsamında, kişisel verileriniz ile ilgili olarak;\na) Kişisel veri işlenip işlenmediğini öğrenme,\nb) Kişisel verileri işlenmişse buna ilişkin bilgi talep etme,\nc) Kişisel verilerin işlenme amacını ve bunların amacına uygun kullanılıp kullanılmadığını öğrenme,\nç) Yurt içinde veya yurt dışında kişisel verilerin aktarıldığı üçüncü kişileri bilme,\nd) Kişisel verilerin eksik veya yanlış işlenmiş olması hâlinde bunların düzeltilmesini isteme,\ne) 7 nci maddede öngörülen şartlar çerçevesinde kişisel verilerin silinmesini veya yok edilmesini isteme,\nf) (d) ve (e) bentleri uyarınca yapılan işlemlerin, kişisel verilerin aktarıldığı üçüncü kişilere bildirilmesini isteme,\ng) İşlenen verilerin münhasıran otomatik sistemler vasıtasıyla analiz edilmesi suretiyle kişinin kendisi aleyhine bir sonucun ortaya çıkmasına itiraz etme,\nğ) Kişisel verilerin kanuna aykırı olarak işlenmesi sebebiyle zarara uğraması hâlinde zararın giderilmesini talep etme haklarına sahiptir.\nYukarıda sıralanan haklarınıza yönelik başvurularınızı, mevzuata uygun olarak Şirketimize aşağıda belirtilen şekillerde iletebilirsiniz.\nŞirket’in aşağıda bildirilen adresine şahsen başvuru ile Veri Sorumlusu Şirket’in Harbiye Mahallesi Hürriyet Caddesi 7/12 Çankaya / Ankara adresine ulaştırabilir.\nNoter aracılığıyla Veri Sorumlusu Şirket’in Harbiye Mahallesi Hürriyet Caddesi 7/12 Çankaya / Ankara adresine ulaştırabilir.\nHesap açılışı sırasında bildirdiğiniz ve sisteminde kayıtlı bulunan elektronik posta adresinizi kullanmak suretiyle aşağıdaki bildirilen elektronik posta adresine (\ninfo@osbh.com.tr\n) iletebilirsiniz.\nTalebinizin niteliğine göre en kısa sürede ve en geç otuz gün içinde başvurularınız ücretsiz olarak sonuçlandırılacaktır; ancak işlemin ayrıca bir maliyet gerektirmesi halinde Kişisel Verileri Koruma Kurulu tarafından belirlenecek tarifeye göre tarafınızdan ücret talep edilebilecektir.\nClose\nSon Makaleler\nUzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik 2022\nUSBS Kayıtlı Firma\nUzaktan Sağlık Hizmeti Vermek için Dikkat Edilmesi Gereken Noktalar 2023\nUzaktan Online Sağlık Hizmeti Vermeye Başlayın 2023\nİşyeri Hekimliği E-Reçete\nOnline Sağlık Bilişim\nHizmetlerimiz\nAktif USBS Listesi\nCepte Sağlık\nMüşteri Paneli\nHesabım\nSepetim\nE-Reçete, E-Rapor\nSözleşmeler\nÜyelik Sözleşmesi\nGizlilik Politikası\nİptal ve İade\nMesafeli Satış Sözleşmesi\nBilgi-Kalite Güvenliği Yönetim Politikası\n© 2026\nOnline Sağlık Bilişim Hizmetleri A.Ş.\n. All rights reserved\nSidebar",
+  "images": [
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "alt": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+      "localPath": "gorseller/logosd-8b84d523ea.png"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "alt": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+      "localPath": "gorseller/logosd-8b84d523ea.png"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15-70x70.jpg",
+      "alt": "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik",
+      "localPath": "gorseller/Adsiz-tasarim-15-70x70-346c4aae0a.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16-70x70.jpg",
+      "alt": "USBS Kayıtlı Firma",
+      "localPath": "gorseller/Adsiz-tasarim-16-70x70-fe8a7d49a6.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/ceptesaglik-blog-uzaktan-online-saglik-hizmeti-verebilmek-icin-gereklilikler-nelerdir-75638dbd83ca7c1-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/ceptesaglik-blog-uzaktan-online-saglik-hizmeti-verebilmek-icin-gereklilikler-nelerdir-75638dbd83ca7c1-70x70.jpg",
+      "alt": "Uzaktan Sağlık Hizmeti Vermek için Dikkat Edilmesi Gereken Noktalar",
+      "localPath": "gorseller/ceptesaglik-blog-uzaktan-online-saglik-hizmeti-verebilmek-ic-a1b967d847.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-17-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-17-70x70.jpg",
+      "alt": "Uzaktan Online Sağlık Hizmeti Vermeye Başlayın",
+      "localPath": "gorseller/Adsiz-tasarim-17-70x70-1ea6a801b1.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18-70x70.jpg",
+      "alt": "İşyeri Hekimliği E-Reçete Programı",
+      "localPath": "gorseller/Adsiz-tasarim-18-70x70-deca077167.jpg"
+    }
+  ],
+  "backgroundImages": [
+    {
+      "src": "https://osbh.com.tr/wp-content/themes/basel/images/default-skin.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/themes/basel/images/default-skin.png",
+      "localPath": "gorseller/default-skin-1ea43e3d25.png"
+    }
+  ],
+  "favicon": {
+    "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/Basliksiz-3.png",
+    "localPath": "gorseller/Basliksiz-3-f94f8be53b.png"
+  },
+  "links": {
+    "internal": [
+      "/hesabim/sifremi-unuttum/",
+      "/hesabim/",
+      "/",
+      "/usbs-ozellikleri/",
+      "/uzaktan-saglik-hizmet-paketleri/",
+      "/bireysel-usbs-paketleri/",
+      "/kurumsal-usbs-paketleri/",
+      "/osgb-usbs-paketleri/",
+      "/blog/",
+      "/kurumsal/",
+      "/iletisim/",
+      "/sepet/",
+      "/uzaktan-saglik-hizmetlerinin-sunumu/",
+      "/usbs-kayitli-firma/",
+      "/uzaktan-saglik-hizmeti-vermek-icin-dikkat-edilecekler/",
+      "/uzaktan-online-saglik-hizmeti-vermeye-baslayin-2023/",
+      "/isyeri-hekimligi-e-recete-programi/",
+      "/blog",
+      "/iletisim",
+      "/hizmetlerimiz",
+      "/hesabim",
+      "/sepet",
+      "/uzaktan-online-saglik-hizmeti-vermeye-baslayin/",
+      "/uyelik-sozlesmesi",
+      "/gizlilik-politikasi/",
+      "/kisisel-verilerin-korunmasi-kanunu",
+      "/iptal-ve-iade",
+      "/mesafeli-satis-sozlesmesi",
+      "/bilgi-kalite-guvenligi-yonetim-politikasi"
+    ],
+    "external": [
+      "https://kayittescil.saglik.gov.tr/TR-90715/aktif-usbs-listesi.html?Sayfa=2",
+      "https://ceptesaglik.com/"
+    ]
+  },
+  "forms": [
+    {
+      "action": "https://osbh.com.tr/hesabim/",
+      "method": "post",
+      "id": null,
+      "fields": [
+        "username",
+        "password",
+        "woocommerce-login-nonce",
+        "_wp_http_referer",
+        "rememberme"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/",
+      "method": "get",
+      "id": "searchform",
+      "fields": [
+        "s",
+        "post_type"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/",
+      "method": "get",
+      "id": "searchform",
+      "fields": [
+        "s",
+        "post_type"
+      ]
+    }
+  ],
+  "mapIframes": [],
+  "trackingHints": {
+    "gtagOrAnalytics": [
+      "https://www.googletagmanager.com/gtag/js?id=G-5WG2NSEQ06&cx=c&gtm=4e69n1",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-5B1VZ7JWZD&cx=c&gtm=4e69n1",
+      "https://www.googletagmanager.com/gtag/js?id=UA-242296204-2"
+    ],
+    "gtmId": [],
+    "gaId": [
+      "G-5WG2NSEQ06"
+    ],
+    "fbPixel": false,
+    "searchConsoleVerification": null
+  }
+}

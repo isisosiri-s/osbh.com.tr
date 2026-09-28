@@ -1,0 +1,326 @@
+{
+  "url": "https://osbh.com.tr/urun/workplace-flex-usbs/",
+  "path": "/urun/workplace-flex-usbs/",
+  "group": "product",
+  "fetchedAt": "2026-09-28T09:27:30.340Z",
+  "title": "Workplace Flex USBS - Online Sağlık Bilişim Hizmetleri A.Ş.",
+  "metaDescription": "Ücretler 12 aylık olarak belirlenmiştir. Fiyatlarımıza tüm vergiler dahildir! Pazaryeri platformlarına komisyon ödemekten sıkılmadınız mı? Kendi alan adınızda, kendi pos cihazınız ile birlikte hemen online muayene hizmeti vermeye başlayın.",
+  "canonical": "https://osbh.com.tr/urun/workplace-flex-usbs/",
+  "og": {
+    "og:locale": "tr_TR",
+    "og:type": "product",
+    "og:title": "Workplace Flex USBS - Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "og:description": "Ücretler 12 aylık olarak belirlenmiştir. Fiyatlarımıza tüm vergiler dahildir! Pazaryeri platformlarına komisyon ödemekten sıkılmadınız mı? Kendi alan adınızda, kendi pos cihazınız ile birlikte hemen online muayene hizmeti vermeye başlayın.",
+    "og:url": "https://osbh.com.tr/urun/workplace-flex-usbs/",
+    "og:site_name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "og:updated_time": "2025-04-11T19:20:23+00:00",
+    "og:image": "https://osbh.com.tr/wp-content/uploads/2023/01/c3.jpg",
+    "og:image:secure_url": "https://osbh.com.tr/wp-content/uploads/2023/01/c3.jpg",
+    "og:image:width": "500",
+    "og:image:height": "400",
+    "og:image:alt": "Workplace Flex USBS",
+    "og:image:type": "image/jpeg"
+  },
+  "twitter": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Workplace Flex USBS - Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "twitter:description": "Ücretler 12 aylık olarak belirlenmiştir. Fiyatlarımıza tüm vergiler dahildir! Pazaryeri platformlarına komisyon ödemekten sıkılmadınız mı? Kendi alan adınızda, kendi pos cihazınız ile birlikte hemen online muayene hizmeti vermeye başlayın.",
+    "twitter:image": "https://osbh.com.tr/wp-content/uploads/2023/01/c3.jpg",
+    "twitter:label1": "Fiyat",
+    "twitter:data1": "81,000.00₺",
+    "twitter:label2": "Uygunluk",
+    "twitter:data2": "Stokta"
+  },
+  "jsonLd": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://osbh.com.tr/#organization",
+          "name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "url": "https://osbh.com.tr"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://osbh.com.tr/#website",
+          "url": "https://osbh.com.tr",
+          "name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "alternateName": "Uzaktan Sağlık Bilgi Sistemleri",
+          "publisher": {
+            "@id": "https://osbh.com.tr/#organization"
+          },
+          "inLanguage": "tr"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://osbh.com.tr/wp-content/uploads/2023/01/c3.jpg",
+          "url": "https://osbh.com.tr/wp-content/uploads/2023/01/c3.jpg",
+          "width": "500",
+          "height": "400",
+          "inLanguage": "tr"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://osbh.com.tr/urun/workplace-flex-usbs/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://osbh.com.tr",
+                "name": "Ana Sayfa"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://osbh.com.tr/urun-kategorileri/osgb-usbs-hizmetleri/",
+                "name": "OSGB USBS Hizmetleri"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://osbh.com.tr/urun/workplace-flex-usbs/",
+                "name": "Workplace Flex USBS"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "ItemPage",
+          "@id": "https://osbh.com.tr/urun/workplace-flex-usbs/#webpage",
+          "url": "https://osbh.com.tr/urun/workplace-flex-usbs/",
+          "name": "Workplace Flex USBS - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "datePublished": "2023-02-01T05:58:03+00:00",
+          "dateModified": "2025-04-11T19:20:23+00:00",
+          "isPartOf": {
+            "@id": "https://osbh.com.tr/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://osbh.com.tr/wp-content/uploads/2023/01/c3.jpg"
+          },
+          "inLanguage": "tr",
+          "breadcrumb": {
+            "@id": "https://osbh.com.tr/urun/workplace-flex-usbs/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Product",
+          "name": "Workplace Flex USBS - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "description": "Ücretler 12 aylık olarak belirlenmiştir. Fiyatlarımıza tüm vergiler dahildir! Pazaryeri platformlarına komisyon ödemekten sıkılmadınız mı? Kendi alan adınızda, kendi pos cihazınız ile birlikte hemen online muayene hizmeti vermeye başlayın.",
+          "sku": "CN1971",
+          "category": "OSGB USBS Hizmetleri",
+          "mainEntityOfPage": {
+            "@id": "https://osbh.com.tr/urun/workplace-flex-usbs/#webpage"
+          },
+          "offers": {
+            "@type": "Offer",
+            "price": "81000.00",
+            "priceCurrency": "TRY",
+            "priceValidUntil": "2027-12-31",
+            "availability": "https://schema.org/InStock",
+            "itemCondition": "NewCondition",
+            "url": "https://osbh.com.tr/urun/workplace-flex-usbs/",
+            "seller": {
+              "@type": "Organization",
+              "@id": "https://osbh.com.tr/",
+              "name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+              "url": "https://osbh.com.tr",
+              "logo": ""
+            }
+          },
+          "@id": "https://osbh.com.tr/urun/workplace-flex-usbs/#richSnippet",
+          "image": {
+            "@id": "https://osbh.com.tr/wp-content/uploads/2023/01/c3.jpg"
+          }
+        }
+      ]
+    }
+  ],
+  "h1": [
+    "Workplace Flex USBS"
+  ],
+  "h2": [
+    "Description",
+    "Reviews"
+  ],
+  "h3": [
+    "Related products",
+    "Workplace Smart USBS",
+    "Workplace Base USBS"
+  ],
+  "bodyText": "Sign in\nclose\nUsername or email\n*\nPassword\nLog in\nLost your password?\nRemember me\nNo account yet?\nCreate an Account\nSearch for:\nSearch\nAnasayfa\nUSBS Özellikleri\nUSBS Çözümleri\nBireysel USBS Paketleri\nKurumsal USBS Paketleri\nOSGB USBS Paketleri\nBlog\nKurumsal\nİletişim\nLogin / Register\nShopping cart\nNo products in the cart.\no\n0\n0.00\n₺\nBack\nHome\nOSGB USBS Hizmetleri\nWorkplace Flex USBS\nPrevious product\nNext product\n-13%\nClick to enlarge\n93,000.00\n81,000.00\nÜcretler 12 aylık olarak belirlenmiştir.\nFiyatlarımıza tüm vergiler dahildir!\nPazaryeri platformlarına komisyon ödemekten sıkılmadınız mı? Kendi alan adınızda, kendi pos cihazınız ile birlikte hemen online muayene hizmeti vermeye başlayın.\nAdd to cart\nDescription\nReviews (0)\nAktivasyon Süreci\n6 Doktora Kadar\nDOKTOR PROFİLİ\nDoktor Profil Sayfası\nHasta Soru-Cevap Sayfası\nHasta Yorum Yayınlama\nSınırsız Video Yayınlama\nSınırsız Makale Yayınlama\nONLINE MUAYENE\nOnline Randevu\nRandevu Süre Ayarları (Slot)\nYüzyüze Randevu\nSınırsız Online Muayene\nE-reçete Modülü – Var\nE-rapor Modülü – Var\nE-Nabız Entegrasyonu – Var\nLaboratuvar Tetkik İstem Ekranı – Var\nRadyoloji Tetkik İstem Ekranı – Var\nHasta Test Sonuç Paylaşımı – Var\nHasta Teşhis ve Rapor Ekranı – Var\nIC01 Tanı Kodları – Var\nHasta Takip Yazılımı – Var\nMÜŞTERİ HİZMETLERİ\nDoktor modülü – Var\nAsistant modülü – Var\nTelefonla Randevu Oluşturma – Var\nCall Center – Var\nWhatsapp Destek – Var\nSMS Hatırlatma – Var\nMail Hatırlatma – Var\nFİNANSAL HİZMETLER\nTaksitli Ödeme Seçeneği – Var\nKredi kartı İle Ödeme – Var\nSEO/PAZARLAMA HİZMETLERİ\nSEO Uyumlu Altyapı – Var\nGoogle Analytics – Var\nGoogle Search Console – Var\nDiğer Arama Motorları – Var\nSitemap – Var\nReviews\nThere are no reviews yet.\nBe the first to review “Workplace Flex USBS”\nE-posta adresiniz yayınlanmayacak.\nGerekli alanlar\nile işaretlenmişlerdir\nYour rating\n1\n2\n3\n4\n5\nRate…\nPerfect\nGood\nAverage\nNot that bad\nVery poor\nYour review\nName\nEmail\nDaha sonraki yorumlarımda kullanılması için adım, e-posta adresim ve site adresim bu tarayıcıya kaydedilsin.\nSKU:\nCN1971\nCategory:\nRelated products\n-16%\nWorkplace Smart USBS\n68,000.00\n57,000.00\n-21%\nWorkplace Base USBS\n38,900.00\n30,600.00\nOnline Sağlık Bilişim\nHizmetlerimiz\nAktif USBS Listesi\nCepte Sağlık\nMüşteri Paneli\nHesabım\nSepetim\nE-Reçete, E-Rapor\nSözleşmeler\nÜyelik Sözleşmesi\nGizlilik Politikası\nKişisel Verilerin Korunması Kanunu\nİptal ve İade\nMesafeli Satış Sözleşmesi\nBilgi-Kalite Güvenliği Yönetim Politikası\n© 2026\nOnline Sağlık Bilişim Hizmetleri A.Ş.\n. All rights reserved",
+  "images": [
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "alt": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+      "localPath": "gorseller/logosd-8b84d523ea.png"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "alt": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+      "localPath": "gorseller/logosd-8b84d523ea.png"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/c2.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/c2.jpg",
+      "alt": "",
+      "localPath": "gorseller/c2-34c96a042b.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/usbspaket1-1.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/usbspaket1-1.jpg",
+      "alt": "",
+      "localPath": "gorseller/usbspaket1-1-12da1dd0b9.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/c3.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/c3.jpg",
+      "alt": "",
+      "localPath": "gorseller/c3-47035b282f.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/c2.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/c2.jpg",
+      "alt": "",
+      "localPath": "gorseller/c2-34c96a042b.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/c1.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/c1.jpg",
+      "alt": "",
+      "localPath": "gorseller/c1-c73c689b6a.jpg"
+    }
+  ],
+  "backgroundImages": [
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAHCAYAAAD9NeaIAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA+hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgKE1hY2ludG9zaCkiIHhtcDpDcmVhdGVEYXRlPSIyMDE1LTA0LTE3VDE3OjEyOjQyKzAyOjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxNS0wNC0yMFQxNzoxNjoyNCswMjowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxNS0wNC0yMFQxNzoxNjoyNCswMjowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RTU4MjBDRURERjVCMTFFNEEzN0FCODBEM0I5MTExMjkiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RTU4MjBDRUVERjVCMTFFNEEzN0FCODBEM0I5MTExMjkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2RUVFRDJCNkREQzMxMUU0QTM3QUI4MEQzQjkxMTEyOSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpFNTgyMENFQ0RGNUIxMUU0QTM3QUI4MEQzQjkxMTEyOSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PuShL/sAAABeSURBVHjaYszOzjZnYGDYCcT8DMSBv0AcP2XKlKVEqmdgAuKTQOwOxB+JtQCIibYAZgkDkRaRZQGyJYQsItsCdEtwWUSRBdgsQbeIYgtAgAWHOMwiJSBezkAhAAgwAJSTG/DI0S9VAAAAAElFTkSuQmCC",
+      "absoluteUrl": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAHCAYAAAD9NeaIAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA+hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNS1jMDIxIDc5LjE1NDkxMSwgMjAxMy8xMC8yOS0xMTo0NzoxNiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczpkYz0iaHR0cDovL3B1cmwub3JnL2RjL2VsZW1lbnRzLzEuMS8iIHhtbG5zOnhtcE1NPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvbW0vIiB4bWxuczpzdFJlZj0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL3NUeXBlL1Jlc291cmNlUmVmIyIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ0MgKE1hY2ludG9zaCkiIHhtcDpDcmVhdGVEYXRlPSIyMDE1LTA0LTE3VDE3OjEyOjQyKzAyOjAwIiB4bXA6TW9kaWZ5RGF0ZT0iMjAxNS0wNC0yMFQxNzoxNjoyNCswMjowMCIgeG1wOk1ldGFkYXRhRGF0ZT0iMjAxNS0wNC0yMFQxNzoxNjoyNCswMjowMCIgZGM6Zm9ybWF0PSJpbWFnZS9wbmciIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6RTU4MjBDRURERjVCMTFFNEEzN0FCODBEM0I5MTExMjkiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6RTU4MjBDRUVERjVCMTFFNEEzN0FCODBEM0I5MTExMjkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo2RUVFRDJCNkREQzMxMUU0QTM3QUI4MEQzQjkxMTEyOSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDpFNTgyMENFQ0RGNUIxMUU0QTM3QUI4MEQzQjkxMTEyOSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/PuShL/sAAABeSURBVHjaYszOzjZnYGDYCcT8DMSBv0AcP2XKlKVEqmdgAuKTQOwOxB+JtQCIibYAZgkDkRaRZQGyJYQsItsCdEtwWUSRBdgsQbeIYgtAgAWHOMwiJSBezkAhAAgwAJSTG/DI0S9VAAAAAElFTkSuQmCC",
+      "localPath": null
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/themes/basel/images/default-skin.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/themes/basel/images/default-skin.png",
+      "localPath": "gorseller/default-skin-1ea43e3d25.png"
+    }
+  ],
+  "favicon": {
+    "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/Basliksiz-3.png",
+    "localPath": "gorseller/Basliksiz-3-f94f8be53b.png"
+  },
+  "links": {
+    "internal": [
+      "/hesabim/sifremi-unuttum/",
+      "/hesabim/",
+      "/",
+      "/usbs-ozellikleri/",
+      "/uzaktan-saglik-hizmet-paketleri/",
+      "/bireysel-usbs-paketleri/",
+      "/kurumsal-usbs-paketleri/",
+      "/osgb-usbs-paketleri/",
+      "/blog/",
+      "/kurumsal/",
+      "/iletisim/",
+      "/sepet/",
+      "/urun-kategorileri/osgb-usbs-hizmetleri/",
+      "/urun/workplace-smart-usbs/",
+      "/urun/bireysel-economy-usbs/",
+      "/wp-content/uploads/2023/01/c3.jpg",
+      "/urun/workplace-flex-usbs/",
+      "/urun/workplace-base-usbs/",
+      "/blog",
+      "/iletisim",
+      "/hizmetlerimiz",
+      "/hesabim",
+      "/sepet",
+      "/uzaktan-online-saglik-hizmeti-vermeye-baslayin/",
+      "/uyelik-sozlesmesi",
+      "/gizlilik-politikasi/",
+      "/kisisel-verilerin-korunmasi-kanunu",
+      "/iptal-ve-iade",
+      "/mesafeli-satis-sozlesmesi",
+      "/bilgi-kalite-guvenligi-yonetim-politikasi"
+    ],
+    "external": [
+      "javascript:baselThemeModule.backHistory()",
+      "https://kayittescil.saglik.gov.tr/TR-90715/aktif-usbs-listesi.html?Sayfa=2",
+      "https://ceptesaglik.com/"
+    ]
+  },
+  "forms": [
+    {
+      "action": "https://osbh.com.tr/hesabim/",
+      "method": "post",
+      "id": null,
+      "fields": [
+        "username",
+        "password",
+        "woocommerce-login-nonce",
+        "_wp_http_referer",
+        "rememberme"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/",
+      "method": "get",
+      "id": "searchform",
+      "fields": [
+        "s",
+        "post_type"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/",
+      "method": "get",
+      "id": "searchform",
+      "fields": [
+        "s",
+        "post_type"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/urun/workplace-flex-usbs/",
+      "method": "post",
+      "id": null,
+      "fields": [
+        "quantity"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/wp-comments-post.php",
+      "method": "post",
+      "id": "commentform",
+      "fields": [
+        "rating",
+        "comment",
+        "author",
+        "email",
+        "wp-comment-cookies-consent",
+        "submit",
+        "comment_post_ID",
+        "comment_parent"
+      ]
+    }
+  ],
+  "mapIframes": [],
+  "trackingHints": {
+    "gtagOrAnalytics": [
+      "https://www.googletagmanager.com/gtag/js?id=G-5WG2NSEQ06&cx=c&gtm=4e69n1",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-5B1VZ7JWZD&cx=c&gtm=4e69n1",
+      "https://www.googletagmanager.com/gtag/js?id=UA-242296204-2"
+    ],
+    "gtmId": [],
+    "gaId": [
+      "G-5WG2NSEQ06"
+    ],
+    "fbPixel": false,
+    "searchConsoleVerification": null
+  }
+}

@@ -1,0 +1,42 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+
+const allPages = await getCollection('pages');
+const posts = allPages
+  .filter((p) => p.data.type === 'blog')
+  .sort((a, b) => new Date(b.data.date || 0).getTime() - new Date(a.data.date || 0).getTime());
+---
+
+<BaseLayout
+  title="Blog - Online Sağlık Bilişim Hizmetleri A.Ş."
+  description="Uzaktan sağlık hizmetleri, USBS mevzuatı ve online muayene hakkında güncel yazılar."
+  canonical="https://osbh.com.tr/blog/"
+>
+  <div class="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-14">
+    <div class="text-center mb-12">
+      <span class="text-sm font-semibold uppercase tracking-wide text-teal-600">Blog</span>
+      <h1 class="text-3xl sm:text-4xl font-extrabold text-slate-900 mt-2">Uzaktan Sağlık Hakkında Güncel Yazılar</h1>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-8">
+      {posts.map((post) => {
+        const d = post.data.date ? new Date(post.data.date).toLocaleDateString('tr-TR', { year: 'numeric', month: 'long', day: 'numeric' }) : null;
+        return (
+          <a href={`/${post.slug}/`} class="group block rounded-2xl border border-slate-200 overflow-hidden bg-white shadow-sm hover:shadow-lg transition-shadow">
+            {post.data.ogImage && (
+              <div class="aspect-video overflow-hidden bg-slate-100">
+                <img src={post.data.ogImage} alt={post.data.title} loading="lazy" class="h-full w-full object-cover group-hover:scale-105 transition-transform duration-300" />
+              </div>
+            )}
+            <div class="p-5">
+              {d && <p class="text-xs text-slate-400 mb-2">{d}</p>}
+              <h2 class="font-bold text-slate-900 group-hover:text-teal-700 leading-snug">{post.data.title}</h2>
+              <p class="text-sm text-slate-500 mt-2 line-clamp-3">{post.data.description}</p>
+            </div>
+          </a>
+        );
+      })}
+    </div>
+  </div>
+</BaseLayout>

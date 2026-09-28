@@ -1,0 +1,260 @@
+{
+  "url": "https://osbh.com.tr/bilgi/",
+  "path": "/bilgi/",
+  "group": "woo-functional",
+  "fetchedAt": "2026-09-28T09:29:27.477Z",
+  "title": "Bilgi - Online Sağlık Bilişim Hizmetleri A.Ş.",
+  "metaDescription": "Justo est cum sit fames ac convallis est non leo rhoncus feugiat scelerisque tempus nec sapien vestibulum dis parturient felis a taciti.",
+  "canonical": "https://osbh.com.tr/bilgi/",
+  "og": {
+    "og:locale": "tr_TR",
+    "og:type": "article",
+    "og:title": "Bilgi - Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "og:description": "Justo est cum sit fames ac convallis est non leo rhoncus feugiat scelerisque tempus nec sapien vestibulum dis parturient felis a taciti.",
+    "og:url": "https://osbh.com.tr/bilgi/",
+    "og:site_name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "og:updated_time": "2023-01-24T17:33:06+00:00"
+  },
+  "twitter": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "Bilgi - Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "twitter:description": "Justo est cum sit fames ac convallis est non leo rhoncus feugiat scelerisque tempus nec sapien vestibulum dis parturient felis a taciti.",
+    "twitter:label1": "Time to read",
+    "twitter:data1": "12 dakika"
+  },
+  "jsonLd": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://osbh.com.tr/#organization",
+          "name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "url": "https://osbh.com.tr"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://osbh.com.tr/#website",
+          "url": "https://osbh.com.tr",
+          "name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "alternateName": "Uzaktan Sağlık Bilgi Sistemleri",
+          "publisher": {
+            "@id": "https://osbh.com.tr/#organization"
+          },
+          "inLanguage": "tr"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://osbh.com.tr/bilgi/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://osbh.com.tr",
+                "name": "Ana Sayfa"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://osbh.com.tr/bilgi/",
+                "name": "Bilgi"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://osbh.com.tr/bilgi/#webpage",
+          "url": "https://osbh.com.tr/bilgi/",
+          "name": "Bilgi - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "datePublished": "2017-02-09T08:00:13+00:00",
+          "dateModified": "2023-01-24T17:33:06+00:00",
+          "isPartOf": {
+            "@id": "https://osbh.com.tr/#website"
+          },
+          "inLanguage": "tr",
+          "breadcrumb": {
+            "@id": "https://osbh.com.tr/bilgi/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://osbh.com.tr/author/admin/",
+          "name": "admin",
+          "url": "https://osbh.com.tr/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/6d7ffb23547abcc9b45e5d5101958015?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/6d7ffb23547abcc9b45e5d5101958015?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "tr"
+          },
+          "sameAs": [
+            "https://demo.osbh.com.tr"
+          ],
+          "worksFor": {
+            "@id": "https://osbh.com.tr/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "Bilgi - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "datePublished": "2017-02-09T08:00:13+00:00",
+          "dateModified": "2023-01-24T17:33:06+00:00",
+          "author": {
+            "@id": "https://osbh.com.tr/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "https://osbh.com.tr/#organization"
+          },
+          "description": "Justo est cum sit fames ac convallis est non leo rhoncus feugiat scelerisque tempus nec sapien vestibulum dis parturient felis a taciti.",
+          "name": "Bilgi - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "@id": "https://osbh.com.tr/bilgi/#richSnippet",
+          "isPartOf": {
+            "@id": "https://osbh.com.tr/bilgi/#webpage"
+          },
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://osbh.com.tr/bilgi/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "h1": [
+    "FAQS",
+    "FaQs. General Information"
+  ],
+  "h2": [],
+  "h3": [],
+  "bodyText": "Sign in\nclose\nUsername or email\n*\nPassword\nLog in\nLost your password?\nRemember me\nNo account yet?\nCreate an Account\nSearch for:\nSearch\nAnasayfa\nUSBS Özellikleri\nUSBS Çözümleri\nBireysel USBS Paketleri\nKurumsal USBS Paketleri\nOSGB USBS Paketleri\nBlog\nKurumsal\nİletişim\nLogin / Register\nShopping cart\nNo products in the cart.\no\n0\n0.00\n₺\nFAQS\nTel: 877-45-44-33\nE-Mail: shop@store.uk\n20 Margaret St, London\nGreat Britain, 3NM98-LK\nFree standard shipping\non all orders in New York.\nSupport forum provide\nfor over 24h, every day.\nFaQs. General Information\nEu dictumst cum at sed euismod condimentum?\nJusto est cum sit fames ac convallis est non leo rhoncus feugiat scelerisque tempus nec sapien vestibulum dis parturient felis a taciti.\nOdio molestie hac eros consectetur scelerisque?\nEu tincidunt magnis erat malesuada vulputate parturient nisl a nisl in a facilisis porttitor ullamcorper nec a a lectus eget non leo ad ad parturient pretium magna.A ligula dis vestibulum dapibus.\nVestibulum ullamcorper auctor ornare iaculis?\nFacilisi malesuada in penatibus a torquent at a parturient suspendisse suspendisse per a augue fames commodo ullamcorper duis.\nElit id blandit bibendum velit non vulputate?\nParturient lectus malesuada condimentum suspendisse urna a dis convallis adipiscing vestibulum elit amet porta quis parturient a id facilisis arcu eleifend.A purus nulla suspendisse ullamcorper orci fames.\nSale\nTerms & Conditions\nPrivacy Policy\nI haven't received my item. What can I do?\nSed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.\nNon vivamus enim himenaeos porta id morbi montes ut sem scelerisque in litora id scelerisque consectetur eget cras hac nascetur sociis in feugiat mi platea odio pretium ullamcorper.\nIpsum ac erat cursus rutrum parturient a a nostra?\nTellus ridiculus non tempus laoreet nec diam eleifend id ullamcorper?\nAd a dui a lacinia nec nec non volutpat?\nDui nisi in cum augue adipiscing nibh taciti mollis condimentum risus?\nAsk a Question\nSed primis eu conubia erat ut nam vitae a habitant dui adipiscing a dignissim eu a ad venenatis. Non vivamus enim himenaeos porta id morbi montes ut sem scelerisque in\nYour Name (required)\nYour Message\n3200\nTOPICS CREATED\n180\nHAPPY CUSTOMERS\n5\nYEAR OF DEVELOPING\n5000\nANSWERED QUESTIONS\nOnline Sağlık Bilişim\nHizmetlerimiz\nAktif USBS Listesi\nCepte Sağlık\nMüşteri Paneli\nHesabım\nSepetim\nE-Reçete, E-Rapor\nSözleşmeler\nÜyelik Sözleşmesi\nGizlilik Politikası\nKişisel Verilerin Korunması Kanunu\nİptal ve İade\nMesafeli Satış Sözleşmesi\nBilgi-Kalite Güvenliği Yönetim Politikası\n© 2026\nOnline Sağlık Bilişim Hizmetleri A.Ş.\n. All rights reserved",
+  "images": [
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "alt": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+      "localPath": "gorseller/logosd-8b84d523ea.png"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "alt": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+      "localPath": "gorseller/logosd-8b84d523ea.png"
+    }
+  ],
+  "backgroundImages": [
+    {
+      "src": "http://dummy.xtemos.com/basel/vers/wp-content/uploads/sites/3/2017/01/main-bg.jpg?id=40",
+      "absoluteUrl": "http://dummy.xtemos.com/basel/vers/wp-content/uploads/sites/3/2017/01/main-bg.jpg?id=40",
+      "localPath": "gorseller/main-bg-0967f086c3.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/themes/basel/images/default-skin.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/themes/basel/images/default-skin.png",
+      "localPath": "gorseller/default-skin-1ea43e3d25.png"
+    }
+  ],
+  "favicon": {
+    "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/Basliksiz-3.png",
+    "localPath": "gorseller/Basliksiz-3-f94f8be53b.png"
+  },
+  "links": {
+    "internal": [
+      "/hesabim/sifremi-unuttum/",
+      "/hesabim/",
+      "/",
+      "/usbs-ozellikleri/",
+      "/uzaktan-saglik-hizmet-paketleri/",
+      "/bireysel-usbs-paketleri/",
+      "/kurumsal-usbs-paketleri/",
+      "/osgb-usbs-paketleri/",
+      "/blog/",
+      "/kurumsal/",
+      "/iletisim/",
+      "/sepet/",
+      "/blog",
+      "/iletisim",
+      "/hizmetlerimiz",
+      "/hesabim",
+      "/sepet",
+      "/uzaktan-online-saglik-hizmeti-vermeye-baslayin/",
+      "/uyelik-sozlesmesi",
+      "/gizlilik-politikasi/",
+      "/kisisel-verilerin-korunmasi-kanunu",
+      "/iptal-ve-iade",
+      "/mesafeli-satis-sozlesmesi",
+      "/bilgi-kalite-guvenligi-yonetim-politikasi"
+    ],
+    "external": [
+      "https://kayittescil.saglik.gov.tr/TR-90715/aktif-usbs-listesi.html?Sayfa=2",
+      "https://ceptesaglik.com/"
+    ]
+  },
+  "forms": [
+    {
+      "action": "https://osbh.com.tr/hesabim/",
+      "method": "post",
+      "id": null,
+      "fields": [
+        "username",
+        "password",
+        "woocommerce-login-nonce",
+        "_wp_http_referer",
+        "rememberme"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/",
+      "method": "get",
+      "id": "searchform",
+      "fields": [
+        "s",
+        "post_type"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/",
+      "method": "get",
+      "id": "searchform",
+      "fields": [
+        "s",
+        "post_type"
+      ]
+    },
+    {
+      "action": "/bilgi/#wpcf7-f175-p778-o1",
+      "method": "post",
+      "id": null,
+      "fields": [
+        "_wpcf7",
+        "_wpcf7_version",
+        "_wpcf7_locale",
+        "_wpcf7_unit_tag",
+        "_wpcf7_container_post",
+        "_wpcf7_posted_data_hash",
+        "your-name",
+        "your-message",
+        null
+      ]
+    }
+  ],
+  "mapIframes": [],
+  "trackingHints": {
+    "gtagOrAnalytics": [
+      "https://www.googletagmanager.com/gtag/js?id=G-5WG2NSEQ06&cx=c&gtm=4e69o0h2",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-5B1VZ7JWZD&cx=c&gtm=4e69o0h2",
+      "https://www.googletagmanager.com/gtag/js?id=UA-242296204-2"
+    ],
+    "gtmId": [],
+    "gaId": [
+      "G-5WG2NSEQ06"
+    ],
+    "fbPixel": false,
+    "searchConsoleVerification": null
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "url": "https://osbh.com.tr/usbs-kayitli-firma/",
+  "path": "/usbs-kayitli-firma/",
+  "group": "blog",
+  "fetchedAt": "2026-09-28T09:28:26.116Z",
+  "title": "USBS Kayıtlı Firma - Online Sağlık Bilişim Hizmetleri A.Ş.",
+  "metaDescription": "USBS Kayıtlı Firma",
+  "canonical": "https://osbh.com.tr/usbs-kayitli-firma/",
+  "og": {
+    "og:locale": "tr_TR",
+    "og:type": "article",
+    "og:title": "USBS Kayıtlı Firma - Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "og:description": "USBS Kayıtlı Firma",
+    "og:url": "https://osbh.com.tr/usbs-kayitli-firma/",
+    "og:site_name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "og:image": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16.jpg",
+    "og:image:secure_url": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16.jpg",
+    "og:image:width": "960",
+    "og:image:height": "540",
+    "og:image:alt": "USBS Kayıtlı Firma",
+    "og:image:type": "image/jpeg"
+  },
+  "twitter": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "USBS Kayıtlı Firma - Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "twitter:description": "USBS Kayıtlı Firma",
+    "twitter:image": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16.jpg",
+    "twitter:label1": "Written by",
+    "twitter:data1": "admin",
+    "twitter:label2": "Time to read",
+    "twitter:data2": "Less than a minute"
+  },
+  "jsonLd": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://osbh.com.tr/#organization",
+          "name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "url": "https://osbh.com.tr"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://osbh.com.tr/#website",
+          "url": "https://osbh.com.tr",
+          "name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "alternateName": "Uzaktan Sağlık Bilgi Sistemleri",
+          "publisher": {
+            "@id": "https://osbh.com.tr/#organization"
+          },
+          "inLanguage": "tr"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16.jpg",
+          "url": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16.jpg",
+          "width": "960",
+          "height": "540",
+          "caption": "USBS Kayıtlı Firma",
+          "inLanguage": "tr"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://osbh.com.tr/usbs-kayitli-firma/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://osbh.com.tr",
+                "name": "Ana Sayfa"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://osbh.com.tr/category/uzaktan-saglik/",
+                "name": "Uzaktan Sağlık"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://osbh.com.tr/usbs-kayitli-firma/",
+                "name": "USBS Kayıtlı Firma"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://osbh.com.tr/usbs-kayitli-firma/#webpage",
+          "url": "https://osbh.com.tr/usbs-kayitli-firma/",
+          "name": "USBS Kayıtlı Firma - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "datePublished": "2023-02-01T18:35:58+00:00",
+          "dateModified": "2023-02-01T18:35:58+00:00",
+          "isPartOf": {
+            "@id": "https://osbh.com.tr/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16.jpg"
+          },
+          "inLanguage": "tr",
+          "breadcrumb": {
+            "@id": "https://osbh.com.tr/usbs-kayitli-firma/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://osbh.com.tr/author/admin/",
+          "name": "admin",
+          "url": "https://osbh.com.tr/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/6d7ffb23547abcc9b45e5d5101958015?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/6d7ffb23547abcc9b45e5d5101958015?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "tr"
+          },
+          "sameAs": [
+            "https://demo.osbh.com.tr"
+          ],
+          "worksFor": {
+            "@id": "https://osbh.com.tr/#organization"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "USBS Kayıtlı Firma - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "keywords": "USBS Kayıtlı Firma",
+          "datePublished": "2023-02-01T18:35:58+00:00",
+          "dateModified": "2023-02-01T18:35:58+00:00",
+          "articleSection": "Uzaktan Sağlık",
+          "author": {
+            "@id": "https://osbh.com.tr/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "https://osbh.com.tr/#organization"
+          },
+          "description": "USBS Kayıtlı Firma",
+          "name": "USBS Kayıtlı Firma - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "@id": "https://osbh.com.tr/usbs-kayitli-firma/#richSnippet",
+          "isPartOf": {
+            "@id": "https://osbh.com.tr/usbs-kayitli-firma/#webpage"
+          },
+          "image": {
+            "@id": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16.jpg"
+          },
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://osbh.com.tr/usbs-kayitli-firma/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "h1": [
+    "USBS Kayıtlı Firma"
+  ],
+  "h2": [
+    "Yazılımın Özellikleri:"
+  ],
+  "h3": [
+    "Blog",
+    "USBS Kayıtlı Firma",
+    "Bir yanıt yazın Yanıtı iptal et"
+  ],
+  "bodyText": "Sign in\nclose\nUsername or email\n*\nPassword\nLog in\nLost your password?\nRemember me\nNo account yet?\nCreate an Account\nSearch for:\nSearch\nAnasayfa\nUSBS Özellikleri\nUSBS Çözümleri\nBireysel USBS Paketleri\nKurumsal USBS Paketleri\nOSGB USBS Paketleri\nBlog\nKurumsal\nİletişim\nLogin / Register\nShopping cart\nNo products in the cart.\no\n0\n0.00\n₺\n01\nŞub\nUzaktan Sağlık\nUSBS Kayıtlı Firma\nŞubat 1, 2023\nPosted by\nadmin\nLeave a comment\nİçindekiler\nYazılımın Özellikleri:\nYazılım markası :\nONLINE SAĞLIK BİLİŞİM HİZMETLERİ A.Ş.\nGörüntü kayıt özelliği : Yok\nSes kayıt özelliği : Yok\nDosya gönderim özelliği : Yok\nMesaj gönderim özelliği : Var\nÇalıştığı platformlar\n-Web : Var\n-Android : Yok\n-İOS : Yok\nEntegrasyon ihtiyacı : SBYS ile entegre olması gerekmiyor.\nMuayenehaneler için USBS Paketleri\nHastaneler için USBS Paketleri\nOSBGler için USBS Paketleri\nFacebook\nTwitter\nPinterest\nLinkedIn\nTelegram\nPrevious Post\nNext Post\nBir yanıt yazın\nE-posta adresiniz yayınlanmayacak.\nGerekli alanlar\nile işaretlenmişlerdir\nYorum\nAd\nE-posta\nİnternet sitesi\nDaha sonraki yorumlarımda kullanılması için adım, e-posta adresim ve site adresim bu tarayıcıya kaydedilsin.\nClose\nSon Makaleler\nUzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik 2022\nUzaktan Sağlık Hizmeti Vermek için Dikkat Edilmesi Gereken Noktalar 2023\nUzaktan Online Sağlık Hizmeti Vermeye Başlayın 2023\nİşyeri Hekimliği E-Reçete\nOnline Sağlık Bilişim\nHizmetlerimiz\nAktif USBS Listesi\nCepte Sağlık\nMüşteri Paneli\nHesabım\nSepetim\nE-Reçete, E-Rapor\nSözleşmeler\nÜyelik Sözleşmesi\nGizlilik Politikası\nKişisel Verilerin Korunması Kanunu\nİptal ve İade\nMesafeli Satış Sözleşmesi\nBilgi-Kalite Güvenliği Yönetim Politikası\n© 2026\nOnline Sağlık Bilişim Hizmetleri A.Ş.\n. All rights reserved\nSidebar",
+  "images": [
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "alt": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+      "localPath": "gorseller/logosd-8b84d523ea.png"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "alt": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+      "localPath": "gorseller/logosd-8b84d523ea.png"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16.jpg",
+      "alt": "USBS Kayıtlı Firma",
+      "localPath": "gorseller/Adsiz-tasarim-16-cfcb80f01d.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15-70x70.jpg",
+      "alt": "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik",
+      "localPath": "gorseller/Adsiz-tasarim-15-70x70-346c4aae0a.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16-70x70.jpg",
+      "alt": "USBS Kayıtlı Firma",
+      "localPath": "gorseller/Adsiz-tasarim-16-70x70-fe8a7d49a6.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/ceptesaglik-blog-uzaktan-online-saglik-hizmeti-verebilmek-icin-gereklilikler-nelerdir-75638dbd83ca7c1-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/ceptesaglik-blog-uzaktan-online-saglik-hizmeti-verebilmek-icin-gereklilikler-nelerdir-75638dbd83ca7c1-70x70.jpg",
+      "alt": "Uzaktan Sağlık Hizmeti Vermek için Dikkat Edilmesi Gereken Noktalar",
+      "localPath": "gorseller/ceptesaglik-blog-uzaktan-online-saglik-hizmeti-verebilmek-ic-a1b967d847.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-17-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-17-70x70.jpg",
+      "alt": "Uzaktan Online Sağlık Hizmeti Vermeye Başlayın",
+      "localPath": "gorseller/Adsiz-tasarim-17-70x70-1ea6a801b1.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18-70x70.jpg",
+      "alt": "İşyeri Hekimliği E-Reçete Programı",
+      "localPath": "gorseller/Adsiz-tasarim-18-70x70-deca077167.jpg"
+    }
+  ],
+  "backgroundImages": [
+    {
+      "src": "https://osbh.com.tr/wp-content/themes/basel/images/default-skin.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/themes/basel/images/default-skin.png",
+      "localPath": "gorseller/default-skin-1ea43e3d25.png"
+    }
+  ],
+  "favicon": {
+    "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/Basliksiz-3.png",
+    "localPath": "gorseller/Basliksiz-3-f94f8be53b.png"
+  },
+  "links": {
+    "internal": [
+      "/hesabim/sifremi-unuttum/",
+      "/hesabim/",
+      "/",
+      "/usbs-ozellikleri/",
+      "/uzaktan-saglik-hizmet-paketleri/",
+      "/bireysel-usbs-paketleri/",
+      "/kurumsal-usbs-paketleri/",
+      "/osgb-usbs-paketleri/",
+      "/blog/",
+      "/kurumsal/",
+      "/iletisim/",
+      "/sepet/",
+      "/category/uzaktan-saglik/",
+      "/author/admin/",
+      "/usbs-kayitli-firma/",
+      "/uzaktan-saglik-hizmetlerinin-sunumu/",
+      "/uzaktan-saglik-hizmeti-vermek-icin-dikkat-edilecekler/",
+      "/uzaktan-online-saglik-hizmeti-vermeye-baslayin-2023/",
+      "/isyeri-hekimligi-e-recete-programi/",
+      "/blog",
+      "/iletisim",
+      "/hizmetlerimiz",
+      "/hesabim",
+      "/sepet",
+      "/uzaktan-online-saglik-hizmeti-vermeye-baslayin/",
+      "/uyelik-sozlesmesi",
+      "/gizlilik-politikasi/",
+      "/kisisel-verilerin-korunmasi-kanunu",
+      "/iptal-ve-iade",
+      "/mesafeli-satis-sozlesmesi",
+      "/bilgi-kalite-guvenligi-yonetim-politikasi"
+    ],
+    "external": [
+      "https://kayittescil.saglik.gov.tr/TR-90715/aktif-usbs-listesi.html?Sayfa=2",
+      "https://www.facebook.com/sharer/sharer.php?u=https://osbh.com.tr/usbs-kayitli-firma/",
+      "https://twitter.com/share?url=https://osbh.com.tr/usbs-kayitli-firma/",
+      "https://pinterest.com/pin/create/button/?url=https://osbh.com.tr/usbs-kayitli-firma/&media=https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16.jpg",
+      "https://www.linkedin.com/shareArticle?mini=true&url=https://osbh.com.tr/usbs-kayitli-firma/",
+      "https://telegram.me/share/url?url=https://osbh.com.tr/usbs-kayitli-firma/",
+      "https://ceptesaglik.com/"
+    ]
+  },
+  "forms": [
+    {
+      "action": "https://osbh.com.tr/hesabim/",
+      "method": "post",
+      "id": null,
+      "fields": [
+        "username",
+        "password",
+        "woocommerce-login-nonce",
+        "_wp_http_referer",
+        "rememberme"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/",
+      "method": "get",
+      "id": "searchform",
+      "fields": [
+        "s",
+        "post_type"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/",
+      "method": "get",
+      "id": "searchform",
+      "fields": [
+        "s",
+        "post_type"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/wp-comments-post.php",
+      "method": "post",
+      "id": "commentform",
+      "fields": [
+        "comment",
+        "author",
+        "email",
+        "url",
+        "wp-comment-cookies-consent",
+        "submit",
+        "comment_post_ID",
+        "comment_parent"
+      ]
+    }
+  ],
+  "mapIframes": [],
+  "trackingHints": {
+    "gtagOrAnalytics": [
+      "https://www.googletagmanager.com/gtag/js?id=G-5WG2NSEQ06&cx=c&gtm=4e69n1",
+      "https://www.googletagmanager.com/gtag/js?id=G-5B1VZ7JWZD&cx=c&gtm=4e69n1",
+      "https://www.googletagmanager.com/gtag/js?id=UA-242296204-2"
+    ],
+    "gtmId": [],
+    "gaId": [
+      "G-5WG2NSEQ06"
+    ],
+    "fbPixel": false,
+    "searchConsoleVerification": null
+  }
+}

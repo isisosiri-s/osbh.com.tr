@@ -1,0 +1,110 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { SITE } from '../lib/site';
+
+const features = [
+  { title: 'Profil Yönetimi', desc: 'Profil Yönetim modülü ile dijital ortamda görünürlüğünüz artıyor, kullanıcılar sunduğunuz hizmetlerden haberdar olarak keşfediyor ve sizlere ulaşıyor…' },
+  { title: 'Hasta Soru, Cevap ve Yorum Yönetimi', desc: 'Kullanıcılar sizlerle interaktif bir iletişime girerek, muayene öncesi danışabiliyor… Hastalarınızın sağlık yolculuklarını paylaşmaları diğer hastalara yol gösterici olacak!' },
+  { title: 'Blog Yönetimi', desc: 'Blog alanınızda yayınlayacağınız yazılar, videolar ve podcastler ile kullanıcılara ulaşılıyor… İçeriklerinizi sosyal medyada paylaşarak sizleri öne çıkarıyoruz…' },
+  { title: 'Bilgilendirme Hizmetleri', desc: 'Hastalarınız ve keşfeden kullanıcılar tarafından sorulan sorular, yorumlar, randevu talepleri ile aranızda anlık iletişimi sağlıyoruz.' },
+  { title: 'Asistan Modülü', desc: 'Muayene dışı tüm organizasyonu sizin adınıza asistanınız yürütsün diye Asistan Modülü tasarladık… Limitli yetki düzeyi ile organizasyon işini asistanınız yapsın, siz zamanınızı hastalarınıza ayırın…' },
+  { title: 'Takvim ve Randevu Yönetimi', desc: 'Yüzyüze ve online randevularınızı tek bir platformdan kolayca takip edin. Son dakika iptal tedirginliği yaşamadan günlük işlerinizi planlayabilirsiniz…' },
+  { title: 'Online ve Yüzyüze Muayene', desc: 'Online muayenenizde aldığınız notları saklayabilir, ileride hasta takibinde kullanabilirsiniz. Sadece bulunduğunuz yerdeki değil, tüm Türkiye ve yurtdışına hizmet verebilirsiniz.' },
+  { title: 'Laboratuvar ve Radyoloji Tetkik Yönetimi', desc: 'Muayene sırasında gerekli tüm tetkikleri istem formlarımız ile seçebilirsiniz. Talep edilen tetkikler hastanın panelinde anında görülebilir.' },
+  { title: 'E-Reçete / E-Rapor / E-Nabız', desc: 'Sağlık Bakanlığı ruhsatlı uzaktan sağlık bilgi sistemimiz ile hastalarınıza reçete ve rapor yazabiliyorsunuz. Görüşmeleriniz otomatik olarak E-Nabız kayıtlarına entegre ediliyor…' },
+  { title: 'Ödeme ve Faturalandırma', desc: 'Randevularınız oluşurken ödemenizi alın, son dakika iptal tedirginliği yaşamayın. E-fatura gönderimi ile hastalarınıza faturalarınızı kolaylıkla ulaştırın.' },
+];
+
+const advantages = [
+  'Hizmet verdiğiniz bölge dışında tüm Türkiye’ye ve yurtdışına hizmet imkanı',
+  'Mevcut portföyünüzün ek bir fiziki şube olmaksızın artması',
+  'Kaynak verimliliğinin ek maliyet olmadan arttırılması',
+  'Yurtdışındaki gurbetçilerin her an ulaşabileceği bir sağlık hizmeti olması',
+  'Dijital pazarda bilinirlik ve görünürlük artması',
+  'Online satın almadan dolayı randevu iptalinden kaynaklı verim kaybının önlenmesi',
+  'Kronik hastalıkların periyodik takibinin yapılması',
+  'Reçete ve rapor yazılması, laboratuvar/radyoloji sonuçlarının yorumlanması',
+];
+
+const faq = [
+  { q: 'Sisteminiz güvenli mi?', a: 'Online Sağlık Bilişim Hizmetleri sunduğu tüm yazılım altyapılarında ve API servislerinde güvenlik protokolleri çerçevesinde kodlama yapmaktadır. Sistemlerimizde bilinen bir güvenlik açığı bulunmamaktadır. Sunucu güncelleme ve güvenlik duvarlarımız sürekli olarak güncellenmektedir.' },
+  { q: 'Web sitelerimiz nerede barındırılıyor?', a: 'Tüm web sitelerimiz Türkiye lokasyonlu veri merkezlerinde, Dedicated sunucular üzerinde barındırılmaktadır.' },
+  { q: 'Sistemlerinizde yedekleme sıklığı nedir?', a: 'Tüm sistemlerimizde günlük yedekleme çalışması yapılmaktadır. Yapılan yedeklerin tamamı farklı cloud hizmetler üzerinde tutulmaktadır.' },
+  { q: 'Güvenlik sertifikası sağlıyor musunuz?', a: 'Tüm web sitelerimiz SSL sertifikası ile yayına alınmaktadır. Tüm müşterilerimize ek bir ücret talebinde bulunmadan güvenlik sertifikası da sağlamaktayız.' },
+];
+---
+
+<BaseLayout
+  title="USBS Özellikleri - Online Sağlık Bilişim Hizmetleri A.Ş."
+  description="On binlerce doktorun bulunduğu pazar yeri web sitelerinde kaybolmayın. Kendi web sitenizde online muayene vermeye hemen başlayın…"
+  canonical="https://osbh.com.tr/usbs-ozellikleri/"
+>
+  <div class="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-14">
+    <div class="text-center mb-14 max-w-3xl mx-auto">
+      <span class="text-sm font-semibold uppercase tracking-wide text-teal-600">Akıllı USBS Paketleri</span>
+      <h1 class="text-3xl sm:text-4xl font-extrabold text-slate-900 mt-2">Kendi Web Sitenizde Hemen Online Muayeneye Başlayın!</h1>
+      <p class="text-slate-500 mt-4">
+        On binlerce doktorun bulunduğu pazar yeri web sitelerinde kaybolmayın. Kendi web sitenizde
+        online muayene vermeye hemen başlayın…
+      </p>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-6 mb-16 text-center">
+      <div class="p-6 rounded-2xl bg-slate-50">Online muayene için web sayfanızı ve altyapınızı hazırlıyoruz</div>
+      <div class="p-6 rounded-2xl bg-slate-50">Web siteniz ile online muayene web sayfanızı entegre ediyoruz</div>
+      <div class="p-6 rounded-2xl bg-slate-50">Kolayca ve zaman kaybetmeden online muayeneye başlıyorsunuz</div>
+    </div>
+
+    <div class="mb-16">
+      <h2 class="text-2xl font-bold text-slate-900 mb-2 text-center">Uzaktan Sağlık Hizmetinin Avantajları</h2>
+      <p class="text-slate-500 text-center max-w-2xl mx-auto mb-8">
+        Ek bir fiziki şube maliyetine girmeden mevcut portföyünüzü geliştirin, kaynaklarınızın
+        verimliliğini arttırın ve dijital platformda görünürlüğünüzü arttırın.
+      </p>
+      <ul class="grid grid-cols-1 sm:grid-cols-2 gap-x-8 gap-y-3 max-w-3xl mx-auto">
+        {advantages.map((a) => (
+          <li class="flex items-start gap-2.5 text-sm text-slate-600">
+            <svg class="h-5 w-5 text-teal-600 shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+              <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+            </svg>
+            {a}
+          </li>
+        ))}
+      </ul>
+    </div>
+
+    <div class="mb-16">
+      <h2 class="text-2xl font-bold text-slate-900 mb-8 text-center">USBS ile Neler Yapabilirsiniz?</h2>
+      <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        {features.map((f) => (
+          <div class="rounded-2xl border border-slate-200 p-6 hover:border-teal-200 hover:shadow-md transition-all">
+            <h3 class="font-bold text-slate-900 mb-2">{f.title}</h3>
+            <p class="text-sm text-slate-500 leading-relaxed">{f.desc}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <div>
+      <h2 class="text-2xl font-bold text-slate-900 mb-2 text-center">Sıkça Sorulan Sorular</h2>
+      <p class="text-slate-500 text-center mb-8">Merak ettiklerinizi sizin için derledik...</p>
+      <div class="max-w-3xl mx-auto divide-y divide-slate-200 border-t border-b border-slate-200">
+        {faq.map((item, i) => (
+          <details class="group py-4" open={i === 0}>
+            <summary class="flex items-center justify-between cursor-pointer font-semibold text-slate-900 list-none">
+              {item.q}
+              <svg class="h-5 w-5 text-slate-400 group-open:rotate-180 transition-transform" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M19 9l-7 7-7-7" />
+              </svg>
+            </summary>
+            <p class="text-sm text-slate-500 mt-3 leading-relaxed">{item.a}</p>
+          </details>
+        ))}
+      </div>
+      <p class="text-center text-slate-600 mt-10">
+        Bir sorunuz mu var? Hemen arayın!
+        <a href={SITE.phoneHref} class="font-bold text-teal-700">{SITE.phone}</a>
+      </p>
+    </div>
+  </div>
+</BaseLayout>

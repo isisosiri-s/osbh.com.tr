@@ -1,0 +1,56 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import ContactForm from '../components/ContactForm.astro';
+
+const cards = [
+  {
+    href: '/bireysel-usbs-paketleri/',
+    title: 'Bireysel Paketler',
+    desc: 'Muayenehanesi olan doktorlarımıza özel uzaktan sağlık paketleri',
+  },
+  {
+    href: '/kurumsal-usbs-paketleri/',
+    title: 'Kurumsal Paketler',
+    desc: 'Hastane, poliklinik gibi sağlık kuruluşlarına özel uzaktan sağlık paketleri',
+  },
+  {
+    href: '/osgb-usbs-paketleri/',
+    title: 'OSGB Paketler',
+    desc: 'OSGB hizmeti veren kurumlara özel uzaktan sağlık paketleri',
+  },
+];
+---
+
+<BaseLayout
+  title="Uzaktan Sağlık Hizmet Paketleri - Online Sağlık Bilişim Hizmetleri A.Ş."
+  description="İhtiyaçlarınızı birlikte analiz edelim ve sizler için en uygun paketi hazırlayalım. Standart özelliklerin dışında ek isteklerinizi de içeren özel paketler."
+  canonical="https://osbh.com.tr/uzaktan-saglik-hizmet-paketleri/"
+>
+  <div class="mx-auto max-w-6xl px-4 sm:px-6 lg:px-8 py-14">
+    <div class="text-center mb-12">
+      <span class="text-sm font-semibold uppercase tracking-wide text-teal-600">USBS Çözümleri</span>
+      <h1 class="text-3xl sm:text-4xl font-extrabold text-slate-900 mt-2">Uzaktan Sağlık Hizmet Paketleri</h1>
+    </div>
+
+    <div class="grid grid-cols-1 sm:grid-cols-3 gap-6 mb-16">
+      {cards.map((c) => (
+        <a href={c.href} class="group rounded-2xl border border-slate-200 bg-white p-8 text-center shadow-sm hover:shadow-lg hover:border-teal-200 transition-all">
+          <h2 class="text-xl font-bold text-slate-900 group-hover:text-teal-700 mb-2">{c.title}</h2>
+          <p class="text-sm text-slate-500">{c.desc}</p>
+          <span class="mt-4 inline-block text-sm font-semibold text-teal-600">Paketleri İncele →</span>
+        </a>
+      ))}
+    </div>
+
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 items-center rounded-2xl bg-slate-50 p-8 sm:p-12">
+      <div>
+        <h2 class="text-2xl font-bold text-slate-900 mb-3">Size Özel Paketler</h2>
+        <p class="text-slate-600 leading-relaxed">
+          İhtiyaçlarınızı birlikte analiz edelim ve sizler için en uygun paketi hazırlayalım.
+          Standart özelliklerin dışında ek isteklerinizi de içeren özel paketler hazırlıyoruz.
+        </p>
+      </div>
+      <ContactForm title="Özel Paket Talebi" subjectDefault="Size Özel Paket Talebi" />
+    </div>
+  </div>
+</BaseLayout>

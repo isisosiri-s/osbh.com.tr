@@ -1,0 +1,272 @@
+{
+  "url": "https://osbh.com.tr/iptal-ve-iade/",
+  "path": "/iptal-ve-iade/",
+  "group": "legal",
+  "fetchedAt": "2026-09-28T09:28:42.209Z",
+  "title": "İptal ve İade - Online Sağlık Bilişim Hizmetleri A.Ş.",
+  "metaDescription": "Provega Bilişim firmasından aldığınız online hizmet/ürün ve lisans anahtarlarının iadesi bulunmamaktadır.",
+  "canonical": "https://osbh.com.tr/iptal-ve-iade/",
+  "og": {
+    "og:locale": "tr_TR",
+    "og:type": "article",
+    "og:title": "İptal ve İade - Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "og:description": "Provega Bilişim firmasından aldığınız online hizmet/ürün ve lisans anahtarlarının iadesi bulunmamaktadır.",
+    "og:url": "https://osbh.com.tr/iptal-ve-iade/",
+    "og:site_name": "Online Sağlık Bilişim Hizmetleri A.Ş."
+  },
+  "twitter": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "İptal ve İade - Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "twitter:description": "Provega Bilişim firmasından aldığınız online hizmet/ürün ve lisans anahtarlarının iadesi bulunmamaktadır.",
+    "twitter:label1": "Time to read",
+    "twitter:data1": "Less than a minute"
+  },
+  "jsonLd": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://osbh.com.tr/#organization",
+          "name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "url": "https://osbh.com.tr"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://osbh.com.tr/#website",
+          "url": "https://osbh.com.tr",
+          "name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "alternateName": "Uzaktan Sağlık Bilgi Sistemleri",
+          "publisher": {
+            "@id": "https://osbh.com.tr/#organization"
+          },
+          "inLanguage": "tr"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://osbh.com.tr/iptal-ve-iade/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://osbh.com.tr",
+                "name": "Ana Sayfa"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://osbh.com.tr/iptal-ve-iade/",
+                "name": "İptal ve İade"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://osbh.com.tr/iptal-ve-iade/#webpage",
+          "url": "https://osbh.com.tr/iptal-ve-iade/",
+          "name": "İptal ve İade - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "datePublished": "2023-02-02T07:22:20+00:00",
+          "dateModified": "2023-02-02T07:22:20+00:00",
+          "isPartOf": {
+            "@id": "https://osbh.com.tr/#website"
+          },
+          "inLanguage": "tr",
+          "breadcrumb": {
+            "@id": "https://osbh.com.tr/iptal-ve-iade/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://osbh.com.tr/author/admin/",
+          "name": "admin",
+          "url": "https://osbh.com.tr/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/6d7ffb23547abcc9b45e5d5101958015?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/6d7ffb23547abcc9b45e5d5101958015?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "tr"
+          },
+          "sameAs": [
+            "https://demo.osbh.com.tr"
+          ],
+          "worksFor": {
+            "@id": "https://osbh.com.tr/#organization"
+          }
+        },
+        {
+          "@type": "Article",
+          "headline": "İptal ve İade - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "datePublished": "2023-02-02T07:22:20+00:00",
+          "dateModified": "2023-02-02T07:22:20+00:00",
+          "author": {
+            "@id": "https://osbh.com.tr/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "https://osbh.com.tr/#organization"
+          },
+          "description": "Provega Bilişim firmasından aldığınız online hizmet/ürün ve lisans anahtarlarının iadesi bulunmamaktadır.",
+          "name": "İptal ve İade - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "@id": "https://osbh.com.tr/iptal-ve-iade/#richSnippet",
+          "isPartOf": {
+            "@id": "https://osbh.com.tr/iptal-ve-iade/#webpage"
+          },
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://osbh.com.tr/iptal-ve-iade/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "h1": [
+    "İptal ve İade"
+  ],
+  "h2": [],
+  "h3": [],
+  "bodyText": "Sign in\nclose\nUsername or email\n*\nPassword\nLog in\nLost your password?\nRemember me\nNo account yet?\nCreate an Account\nSearch for:\nSearch\nAnasayfa\nUSBS Özellikleri\nUSBS Çözümleri\nBireysel USBS Paketleri\nKurumsal USBS Paketleri\nOSGB USBS Paketleri\nBlog\nKurumsal\nİletişim\nLogin / Register\nShopping cart\nNo products in the cart.\no\n0\n0.00\n₺\nİptal ve İade\nProvega Bilişim firmasından aldığınız online hizmet/ürün ve lisans anahtarlarının iadesi bulunmamaktadır.\nClose\nSon Makaleler\nUzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik 2022\nUSBS Kayıtlı Firma\nUzaktan Sağlık Hizmeti Vermek için Dikkat Edilmesi Gereken Noktalar 2023\nUzaktan Online Sağlık Hizmeti Vermeye Başlayın 2023\nİşyeri Hekimliği E-Reçete\nOnline Sağlık Bilişim\nHizmetlerimiz\nAktif USBS Listesi\nCepte Sağlık\nMüşteri Paneli\nHesabım\nSepetim\nE-Reçete, E-Rapor\nSözleşmeler\nÜyelik Sözleşmesi\nGizlilik Politikası\nKişisel Verilerin Korunması Kanunu\nMesafeli Satış Sözleşmesi\nBilgi-Kalite Güvenliği Yönetim Politikası\n© 2026\nOnline Sağlık Bilişim Hizmetleri A.Ş.\n. All rights reserved\nSidebar",
+  "images": [
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "alt": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+      "localPath": "gorseller/logosd-8b84d523ea.png"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "alt": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+      "localPath": "gorseller/logosd-8b84d523ea.png"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15-70x70.jpg",
+      "alt": "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik",
+      "localPath": "gorseller/Adsiz-tasarim-15-70x70-346c4aae0a.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16-70x70.jpg",
+      "alt": "USBS Kayıtlı Firma",
+      "localPath": "gorseller/Adsiz-tasarim-16-70x70-fe8a7d49a6.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/ceptesaglik-blog-uzaktan-online-saglik-hizmeti-verebilmek-icin-gereklilikler-nelerdir-75638dbd83ca7c1-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/ceptesaglik-blog-uzaktan-online-saglik-hizmeti-verebilmek-icin-gereklilikler-nelerdir-75638dbd83ca7c1-70x70.jpg",
+      "alt": "Uzaktan Sağlık Hizmeti Vermek için Dikkat Edilmesi Gereken Noktalar",
+      "localPath": "gorseller/ceptesaglik-blog-uzaktan-online-saglik-hizmeti-verebilmek-ic-a1b967d847.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-17-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-17-70x70.jpg",
+      "alt": "Uzaktan Online Sağlık Hizmeti Vermeye Başlayın",
+      "localPath": "gorseller/Adsiz-tasarim-17-70x70-1ea6a801b1.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18-70x70.jpg",
+      "alt": "İşyeri Hekimliği E-Reçete Programı",
+      "localPath": "gorseller/Adsiz-tasarim-18-70x70-deca077167.jpg"
+    }
+  ],
+  "backgroundImages": [
+    {
+      "src": "https://osbh.com.tr/wp-content/themes/basel/images/default-skin.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/themes/basel/images/default-skin.png",
+      "localPath": "gorseller/default-skin-1ea43e3d25.png"
+    }
+  ],
+  "favicon": {
+    "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/Basliksiz-3.png",
+    "localPath": "gorseller/Basliksiz-3-f94f8be53b.png"
+  },
+  "links": {
+    "internal": [
+      "/hesabim/sifremi-unuttum/",
+      "/hesabim/",
+      "/",
+      "/usbs-ozellikleri/",
+      "/uzaktan-saglik-hizmet-paketleri/",
+      "/bireysel-usbs-paketleri/",
+      "/kurumsal-usbs-paketleri/",
+      "/osgb-usbs-paketleri/",
+      "/blog/",
+      "/kurumsal/",
+      "/iletisim/",
+      "/sepet/",
+      "/uzaktan-saglik-hizmetlerinin-sunumu/",
+      "/usbs-kayitli-firma/",
+      "/uzaktan-saglik-hizmeti-vermek-icin-dikkat-edilecekler/",
+      "/uzaktan-online-saglik-hizmeti-vermeye-baslayin-2023/",
+      "/isyeri-hekimligi-e-recete-programi/",
+      "/blog",
+      "/iletisim",
+      "/hizmetlerimiz",
+      "/hesabim",
+      "/sepet",
+      "/uzaktan-online-saglik-hizmeti-vermeye-baslayin/",
+      "/uyelik-sozlesmesi",
+      "/gizlilik-politikasi/",
+      "/kisisel-verilerin-korunmasi-kanunu",
+      "/iptal-ve-iade",
+      "/mesafeli-satis-sozlesmesi",
+      "/bilgi-kalite-guvenligi-yonetim-politikasi"
+    ],
+    "external": [
+      "https://kayittescil.saglik.gov.tr/TR-90715/aktif-usbs-listesi.html?Sayfa=2",
+      "https://ceptesaglik.com/"
+    ]
+  },
+  "forms": [
+    {
+      "action": "https://osbh.com.tr/hesabim/",
+      "method": "post",
+      "id": null,
+      "fields": [
+        "username",
+        "password",
+        "woocommerce-login-nonce",
+        "_wp_http_referer",
+        "rememberme"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/",
+      "method": "get",
+      "id": "searchform",
+      "fields": [
+        "s",
+        "post_type"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/",
+      "method": "get",
+      "id": "searchform",
+      "fields": [
+        "s",
+        "post_type"
+      ]
+    }
+  ],
+  "mapIframes": [],
+  "trackingHints": {
+    "gtagOrAnalytics": [
+      "https://www.googletagmanager.com/gtag/js?id=G-5WG2NSEQ06&cx=c&gtm=4e69n1",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-5B1VZ7JWZD&cx=c&gtm=4e69n1",
+      "https://www.googletagmanager.com/gtag/js?id=UA-242296204-2"
+    ],
+    "gtmId": [],
+    "gaId": [
+      "G-5WG2NSEQ06"
+    ],
+    "fbPixel": false,
+    "searchConsoleVerification": null
+  }
+}

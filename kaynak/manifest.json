@@ -1,0 +1,397 @@
+{
+  "scrapedAt": "2026-09-28T09:29:28.274Z",
+  "totalPages": 39,
+  "totalImagesDownloaded": 93,
+  "results": [
+    {
+      "entry": {
+        "url": "/",
+        "group": "marketing"
+      },
+      "slug": "home",
+      "ok": true,
+      "imageCount": 38,
+      "bgImageCount": 3
+    },
+    {
+      "entry": {
+        "url": "/usbs-ozellikleri/",
+        "group": "marketing"
+      },
+      "slug": "usbs-ozellikleri",
+      "ok": true,
+      "imageCount": 7,
+      "bgImageCount": 12
+    },
+    {
+      "entry": {
+        "url": "/uzaktan-saglik-hizmet-paketleri/",
+        "group": "marketing"
+      },
+      "slug": "uzaktan-saglik-hizmet-paketleri",
+      "ok": true,
+      "imageCount": 5,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/bireysel-usbs-paketleri/",
+        "group": "marketing"
+      },
+      "slug": "bireysel-usbs-paketleri",
+      "ok": true,
+      "imageCount": 5,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/kurumsal-usbs-paketleri/",
+        "group": "marketing"
+      },
+      "slug": "kurumsal-usbs-paketleri",
+      "ok": true,
+      "imageCount": 5,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/osgb-usbs-paketleri/",
+        "group": "marketing"
+      },
+      "slug": "osgb-usbs-paketleri",
+      "ok": true,
+      "imageCount": 5,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/hizmetlerimiz/",
+        "group": "marketing"
+      },
+      "slug": "hizmetlerimiz",
+      "ok": true,
+      "imageCount": 2,
+      "bgImageCount": 2
+    },
+    {
+      "entry": {
+        "url": "/kurumsal/",
+        "group": "marketing"
+      },
+      "slug": "kurumsal",
+      "ok": true,
+      "imageCount": 4,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/iletisim/",
+        "group": "marketing"
+      },
+      "slug": "iletisim",
+      "ok": true,
+      "imageCount": 64,
+      "bgImageCount": 2
+    },
+    {
+      "entry": {
+        "url": "/bilgi-kalite-guvenligi-yonetim-politikasi/",
+        "group": "marketing"
+      },
+      "slug": "bilgi-kalite-guvenligi-yonetim-politikasi",
+      "ok": true,
+      "imageCount": 8,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/blog/",
+        "group": "marketing"
+      },
+      "slug": "blog",
+      "ok": true,
+      "imageCount": 7,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/urun/workplace-flex-usbs/",
+        "group": "product"
+      },
+      "slug": "urun__workplace-flex-usbs",
+      "ok": true,
+      "imageCount": 7,
+      "bgImageCount": 2
+    },
+    {
+      "entry": {
+        "url": "/urun/workplace-smart-usbs/",
+        "group": "product"
+      },
+      "slug": "urun__workplace-smart-usbs",
+      "ok": true,
+      "imageCount": 7,
+      "bgImageCount": 2
+    },
+    {
+      "entry": {
+        "url": "/urun/workplace-base-usbs/",
+        "group": "product"
+      },
+      "slug": "urun__workplace-base-usbs",
+      "ok": true,
+      "imageCount": 7,
+      "bgImageCount": 2
+    },
+    {
+      "entry": {
+        "url": "/urun/business-flex-usbs/",
+        "group": "product"
+      },
+      "slug": "urun__business-flex-usbs",
+      "ok": true,
+      "imageCount": 7,
+      "bgImageCount": 2
+    },
+    {
+      "entry": {
+        "url": "/urun/business-smart-usbs/",
+        "group": "product"
+      },
+      "slug": "urun__business-smart-usbs",
+      "ok": true,
+      "imageCount": 7,
+      "bgImageCount": 2
+    },
+    {
+      "entry": {
+        "url": "/urun/business-base-usbs/",
+        "group": "product"
+      },
+      "slug": "urun__business-base-usbs",
+      "ok": true,
+      "imageCount": 7,
+      "bgImageCount": 2
+    },
+    {
+      "entry": {
+        "url": "/urun/bireysel-performance-usbs/",
+        "group": "product"
+      },
+      "slug": "urun__bireysel-performance-usbs",
+      "ok": true,
+      "imageCount": 7,
+      "bgImageCount": 2
+    },
+    {
+      "entry": {
+        "url": "/urun/bireysel-advantage-usbs/",
+        "group": "product"
+      },
+      "slug": "urun__bireysel-advantage-usbs",
+      "ok": true,
+      "imageCount": 7,
+      "bgImageCount": 2
+    },
+    {
+      "entry": {
+        "url": "/urun/bireysel-economy-usbs/",
+        "group": "product"
+      },
+      "slug": "urun__bireysel-economy-usbs",
+      "ok": true,
+      "imageCount": 7,
+      "bgImageCount": 2
+    },
+    {
+      "entry": {
+        "url": "/isyeri-hekimligi-e-recete-programi/",
+        "group": "blog"
+      },
+      "slug": "isyeri-hekimligi-e-recete-programi",
+      "ok": true,
+      "imageCount": 8,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/uzaktan-online-saglik-hizmeti-vermeye-baslayin-2023/",
+        "group": "blog"
+      },
+      "slug": "uzaktan-online-saglik-hizmeti-vermeye-baslayin-2023",
+      "ok": true,
+      "imageCount": 8,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/uzaktan-saglik-hizmeti-vermek-icin-dikkat-edilecekler/",
+        "group": "blog"
+      },
+      "slug": "uzaktan-saglik-hizmeti-vermek-icin-dikkat-edilecekler",
+      "ok": true,
+      "imageCount": 8,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/usbs-kayitli-firma/",
+        "group": "blog"
+      },
+      "slug": "usbs-kayitli-firma",
+      "ok": true,
+      "imageCount": 8,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/uzaktan-saglik-hizmetlerinin-sunumu/",
+        "group": "blog"
+      },
+      "slug": "uzaktan-saglik-hizmetlerinin-sunumu",
+      "ok": true,
+      "imageCount": 8,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/category/uzaktan-saglik/",
+        "group": "category"
+      },
+      "slug": "category__uzaktan-saglik",
+      "ok": true,
+      "imageCount": 7,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/mesafeli-satis-sozlesmesi/",
+        "group": "legal"
+      },
+      "slug": "mesafeli-satis-sozlesmesi",
+      "ok": true,
+      "imageCount": 7,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/iptal-ve-iade/",
+        "group": "legal"
+      },
+      "slug": "iptal-ve-iade",
+      "ok": true,
+      "imageCount": 7,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/cerez-politikasi/",
+        "group": "legal"
+      },
+      "slug": "cerez-politikasi",
+      "ok": true,
+      "imageCount": 7,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/uyelik-sozlesmesi/",
+        "group": "legal"
+      },
+      "slug": "uyelik-sozlesmesi",
+      "ok": true,
+      "imageCount": 7,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/gizlilik-politikasi/",
+        "group": "legal"
+      },
+      "slug": "gizlilik-politikasi",
+      "ok": true,
+      "imageCount": 7,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/kisisel-verilerin-korunmasi-kanunu/",
+        "group": "legal"
+      },
+      "slug": "kisisel-verilerin-korunmasi-kanunu",
+      "ok": true,
+      "imageCount": 7,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/magaza/",
+        "group": "woo-functional"
+      },
+      "slug": "magaza",
+      "ok": true,
+      "imageCount": 11,
+      "bgImageCount": 2
+    },
+    {
+      "entry": {
+        "url": "/sepet/",
+        "group": "woo-functional"
+      },
+      "slug": "sepet",
+      "ok": true,
+      "imageCount": 2,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/odeme/",
+        "group": "woo-functional"
+      },
+      "slug": "odeme",
+      "ok": true,
+      "imageCount": 2,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/hesabim/",
+        "group": "woo-functional"
+      },
+      "slug": "hesabim",
+      "ok": true,
+      "imageCount": 2,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/wishlist/",
+        "group": "woo-functional"
+      },
+      "slug": "wishlist",
+      "ok": true,
+      "imageCount": 2,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/compare/",
+        "group": "woo-functional"
+      },
+      "slug": "compare",
+      "ok": true,
+      "imageCount": 2,
+      "bgImageCount": 1
+    },
+    {
+      "entry": {
+        "url": "/bilgi/",
+        "group": "woo-functional"
+      },
+      "slug": "bilgi",
+      "ok": true,
+      "imageCount": 2,
+      "bgImageCount": 2
+    }
+  ]
+}

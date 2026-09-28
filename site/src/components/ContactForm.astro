@@ -1,0 +1,67 @@
+---
+interface Props {
+  title?: string;
+  subjectDefault?: string;
+}
+const { title = 'Bize Ulaşın', subjectDefault = '' } = Astro.props;
+---
+
+<div class="bg-white rounded-2xl shadow-lg border border-slate-100 p-6 sm:p-8">
+  <h3 class="text-xl font-bold text-slate-900 mb-5">{title}</h3>
+  <form id="osbh-contact-form" class="space-y-4" novalidate>
+    <div>
+      <label for="your-name" class="block text-sm font-medium text-slate-700 mb-1">İsim Soyisim *</label>
+      <input id="your-name" name="your-name" type="text" required class="w-full rounded-lg border border-slate-300 px-4 py-2.5 text-sm focus:border-teal-500 focus:ring-teal-500" />
+    </div>
+    <div>
+      <label for="your-email" class="block text-sm font-medium text-slate-700 mb-1">E-posta Adresi *</label>
+      <input id="your-email" name="your-email" type="email" required class="w-full rounded-lg border border-slate-300 px-4 py-2.5 text-sm focus:border-teal-500 focus:ring-teal-500" />
+    </div>
+    <div>
+      <label for="your-subject" class="block text-sm font-medium text-slate-700 mb-1">Konu</label>
+      <input id="your-subject" name="your-subject" type="text" value={subjectDefault} class="w-full rounded-lg border border-slate-300 px-4 py-2.5 text-sm focus:border-teal-500 focus:ring-teal-500" />
+    </div>
+    <div>
+      <label for="your-message" class="block text-sm font-medium text-slate-700 mb-1">Mesajınız *</label>
+      <textarea id="your-message" name="your-message" rows="4" required class="w-full rounded-lg border border-slate-300 px-4 py-2.5 text-sm focus:border-teal-500 focus:ring-teal-500"></textarea>
+    </div>
+    <input type="text" name="website" class="hidden" tabindex="-1" autocomplete="off" />
+
+    <button type="submit" class="w-full rounded-full bg-teal-600 hover:bg-teal-700 px-6 py-3 text-sm font-semibold text-white transition-colors disabled:opacity-60">
+      Gönder
+    </button>
+    <p id="osbh-form-status" class="text-sm mt-2 hidden"></p>
+  </form>
+</div>
+
+<script>
+  const form = document.getElementById('osbh-contact-form') as HTMLFormElement | null;
+  const status = document.getElementById('osbh-form-status');
+  form?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    if (!status) return;
+    const submitBtn = form.querySelector('button[type="submit"]') as HTMLButtonElement;
+    submitBtn.disabled = true;
+    status.classList.remove('hidden', 'text-red-600', 'text-green-600');
+    status.textContent = 'Gönderiliyor...';
+    try {
+      const res = await fetch('/contact.php', {
+        method: 'POST',
+        body: new FormData(form),
+      });
+      const data = await res.json();
+      if (data.ok) {
+        status.textContent = 'Mesajınız alındı, en kısa sürede size dönüş yapacağız.';
+        status.classList.add('text-green-600');
+        form.reset();
+      } else {
+        throw new Error(data.error || 'Gönderim başarısız');
+      }
+    } catch (err) {
+      status.textContent = 'Bir hata oluştu. Lütfen ' + 'info@osbh.com.tr' + ' adresine e-posta gönderin.';
+      status.classList.add('text-red-600');
+    } finally {
+      submitBtn.disabled = false;
+    }
+  });
+</script>

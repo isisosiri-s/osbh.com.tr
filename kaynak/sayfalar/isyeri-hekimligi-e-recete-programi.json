@@ -1,0 +1,343 @@
+{
+  "url": "https://osbh.com.tr/isyeri-hekimligi-e-recete-programi/",
+  "path": "/isyeri-hekimligi-e-recete-programi/",
+  "group": "blog",
+  "fetchedAt": "2026-09-28T09:28:13.951Z",
+  "title": "İşyeri Hekimliği E-Reçete - Online Sağlık Bilişim Hizmetleri A.Ş.",
+  "metaDescription": "İşyeri Hekimliği E-Reçete Programı İşyeri hekimlerinin, işyeri hekimliği belgesinin alınması, süresinde beş yılda bir vize işlemlerinin yapılması ve",
+  "canonical": "https://osbh.com.tr/isyeri-hekimligi-e-recete-programi/",
+  "og": {
+    "og:locale": "tr_TR",
+    "og:type": "article",
+    "og:title": "İşyeri Hekimliği E-Reçete - Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "og:description": "İşyeri Hekimliği E-Reçete Programı İşyeri hekimlerinin, işyeri hekimliği belgesinin alınması, süresinde beş yılda bir vize işlemlerinin yapılması ve",
+    "og:url": "https://osbh.com.tr/isyeri-hekimligi-e-recete-programi/",
+    "og:site_name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "og:updated_time": "2023-02-01T19:33:30+00:00",
+    "og:image": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18.jpg",
+    "og:image:secure_url": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18.jpg",
+    "og:image:width": "960",
+    "og:image:height": "540",
+    "og:image:alt": "İşyeri Hekimliği E-Reçete Programı",
+    "og:image:type": "image/jpeg"
+  },
+  "twitter": {
+    "twitter:card": "summary_large_image",
+    "twitter:title": "İşyeri Hekimliği E-Reçete - Online Sağlık Bilişim Hizmetleri A.Ş.",
+    "twitter:description": "İşyeri Hekimliği E-Reçete Programı İşyeri hekimlerinin, işyeri hekimliği belgesinin alınması, süresinde beş yılda bir vize işlemlerinin yapılması ve",
+    "twitter:image": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18.jpg",
+    "twitter:label1": "Written by",
+    "twitter:data1": "admin",
+    "twitter:label2": "Time to read",
+    "twitter:data2": "6 dakika"
+  },
+  "jsonLd": [
+    {
+      "@context": "https://schema.org",
+      "@graph": [
+        {
+          "@type": "Organization",
+          "@id": "https://osbh.com.tr/#organization",
+          "name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "url": "https://osbh.com.tr"
+        },
+        {
+          "@type": "WebSite",
+          "@id": "https://osbh.com.tr/#website",
+          "url": "https://osbh.com.tr",
+          "name": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "alternateName": "Uzaktan Sağlık Bilgi Sistemleri",
+          "publisher": {
+            "@id": "https://osbh.com.tr/#organization"
+          },
+          "inLanguage": "tr"
+        },
+        {
+          "@type": "ImageObject",
+          "@id": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18.jpg",
+          "url": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18.jpg",
+          "width": "960",
+          "height": "540",
+          "caption": "İşyeri Hekimliği E-Reçete Programı",
+          "inLanguage": "tr"
+        },
+        {
+          "@type": "BreadcrumbList",
+          "@id": "https://osbh.com.tr/isyeri-hekimligi-e-recete-programi/#breadcrumb",
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": "1",
+              "item": {
+                "@id": "https://osbh.com.tr",
+                "name": "Ana Sayfa"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "2",
+              "item": {
+                "@id": "https://osbh.com.tr/category/uzaktan-saglik/",
+                "name": "Uzaktan Sağlık"
+              }
+            },
+            {
+              "@type": "ListItem",
+              "position": "3",
+              "item": {
+                "@id": "https://osbh.com.tr/isyeri-hekimligi-e-recete-programi/",
+                "name": "İşyeri Hekimliği E-Reçete"
+              }
+            }
+          ]
+        },
+        {
+          "@type": "WebPage",
+          "@id": "https://osbh.com.tr/isyeri-hekimligi-e-recete-programi/#webpage",
+          "url": "https://osbh.com.tr/isyeri-hekimligi-e-recete-programi/",
+          "name": "İşyeri Hekimliği E-Reçete - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "datePublished": "2023-02-01T19:30:53+00:00",
+          "dateModified": "2023-02-01T19:33:30+00:00",
+          "isPartOf": {
+            "@id": "https://osbh.com.tr/#website"
+          },
+          "primaryImageOfPage": {
+            "@id": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18.jpg"
+          },
+          "inLanguage": "tr",
+          "breadcrumb": {
+            "@id": "https://osbh.com.tr/isyeri-hekimligi-e-recete-programi/#breadcrumb"
+          }
+        },
+        {
+          "@type": "Person",
+          "@id": "https://osbh.com.tr/author/admin/",
+          "name": "admin",
+          "url": "https://osbh.com.tr/author/admin/",
+          "image": {
+            "@type": "ImageObject",
+            "@id": "https://secure.gravatar.com/avatar/6d7ffb23547abcc9b45e5d5101958015?s=96&amp;d=mm&amp;r=g",
+            "url": "https://secure.gravatar.com/avatar/6d7ffb23547abcc9b45e5d5101958015?s=96&amp;d=mm&amp;r=g",
+            "caption": "admin",
+            "inLanguage": "tr"
+          },
+          "sameAs": [
+            "https://demo.osbh.com.tr"
+          ],
+          "worksFor": {
+            "@id": "https://osbh.com.tr/#organization"
+          }
+        },
+        {
+          "@type": "BlogPosting",
+          "headline": "İşyeri Hekimliği E-Reçete - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "keywords": "İşyeri Hekimliği E-Reçete",
+          "datePublished": "2023-02-01T19:30:53+00:00",
+          "dateModified": "2023-02-01T19:33:30+00:00",
+          "articleSection": "Uzaktan Sağlık",
+          "author": {
+            "@id": "https://osbh.com.tr/author/admin/",
+            "name": "admin"
+          },
+          "publisher": {
+            "@id": "https://osbh.com.tr/#organization"
+          },
+          "description": "İşyeri Hekimliği E-Reçete Programı İşyeri hekimlerinin, işyeri hekimliği belgesinin alınması, süresinde beş yılda bir vize işlemlerinin yapılması ve",
+          "name": "İşyeri Hekimliği E-Reçete - Online Sağlık Bilişim Hizmetleri A.Ş.",
+          "@id": "https://osbh.com.tr/isyeri-hekimligi-e-recete-programi/#richSnippet",
+          "isPartOf": {
+            "@id": "https://osbh.com.tr/isyeri-hekimligi-e-recete-programi/#webpage"
+          },
+          "image": {
+            "@id": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18.jpg"
+          },
+          "inLanguage": "tr",
+          "mainEntityOfPage": {
+            "@id": "https://osbh.com.tr/isyeri-hekimligi-e-recete-programi/#webpage"
+          }
+        }
+      ]
+    }
+  ],
+  "h1": [
+    "İşyeri Hekimliği E-Reçete"
+  ],
+  "h2": [
+    "İşyeri Hekimliği E-Reçete"
+  ],
+  "h3": [
+    "Blog",
+    "Bir yanıt yazın Yanıtı iptal et"
+  ],
+  "bodyText": "Sign in\nclose\nUsername or email\n*\nPassword\nLog in\nLost your password?\nRemember me\nNo account yet?\nCreate an Account\nSearch for:\nSearch\nAnasayfa\nUSBS Özellikleri\nUSBS Çözümleri\nBireysel USBS Paketleri\nKurumsal USBS Paketleri\nOSGB USBS Paketleri\nBlog\nKurumsal\nİletişim\nLogin / Register\nShopping cart\nNo products in the cart.\no\n0\n0.00\n₺\n01\nŞub\nUzaktan Sağlık\nİşyeri Hekimliği E-Reçete\nŞubat 1, 2023\nPosted by\nadmin\nLeave a comment\nİşyeri Hekimliği E-Reçete Programı İşyeri hekimlerinin, işyeri hekimliği belgesinin alınması, süresinde beş yılda bir vize işlemlerinin yapılması ve işyerlerine İSG-Katip üzerinden görevlendirme işleri Çalışma Bakanlığı, İş Sağlığı ve Güvenliği Müdürlüğü üzerinden yürütülmektedir. İşyeri hekimlerinin çalışma süreleri ve şekli yine Çalışma Bakanlığı mevzuatlarına belirlenmektedir.\nİşe giriş muayenelerinde sağlık raporlarının verilmesi ve takibi, çalışmaya devam eden işçilerin periyodik muayeneleri, işyerlerinde rutin poliklinik muayeneleri, meslek hastalıkları çalışmaları, yaptıkları aşı uygulamaları, işyeri hekimlerinin yazdığı reçeteler, iki güne kadar verilen rapor işlemleri Çalışma Bakanlığı 6331 sayılı İş Sağlığı ve Güvenliği Kanunu ve ilgili yönetmelikleriyle düzenlenmiştir.\nİşyeri Hekimliği E-Reçete Programı\nAncak İşyeri Hekimliği sertifikası alabilmek için önce tıp doktoru (hekim) olunması gerektiği unutulmamalıdır. Doktorların ve işyeri hekimlerinin mesleklerini ifa etmesi için Sağlık Bakanlığı Doktor Bilgi Bankasında kayıtlı olması gerekmektedir.\nİşyeri hekimleri e reçete ile ilgili tüm konular yine Çalışma Bakanlığı tarafından yürütülmektedir. İşyeri hekimleri e reçete uygulamasına geçiş işlemleri İSG-Katip web sitesi üzerinden yapılan duyuruda da yer aldığı gibi 01.01.2018 tarihi itibariyle işyeri hekimi e reçete uygulamasına geçmiş olacaktır.\nDuyurudan da anlaşılacağı üzere, e reçete uygulamasında reçete yazabilmesi için belli şartların yerinde olması gerekmektedir.\nİşyeri Hekimleri e reçete yazabilmeleri için İşyeri Hekimi Bilgi Doğrulama Şartları Uygun Olmalıdır;\nİşyeri Hekimi, Sağlık Bakanlığı Doktor Bilgi Bankası Veri Tabanında kayıtlı olmalıdır\nİSG-KATİP Sisteminde Geçerli İşyeri Hekimliği Sertifikası olmalıdır.\nİSG-KATİP Sisteminde Onaylı Bir İşyeri Hekimliği Sözleşmesi bulunmalıdır.\nE Reçete Yazılım Programı Üzerinden E-Reçete Onaylama Şartlarının Yerinde Olmalıdır;\nTesis Kodu (11XX9903, XX İl Plaka Kodu) tanımlanmış olması gerekmektedir.\nElektronik İmza (USB Dongle ve Pin Kodu) sahibi olması gerekmektedir.\nE-Reçete Yazma Programı sahibi olması gerekmektedir.\nİSG-Katip web sitesi üzerinden yapılan işyeri hekimlerinin e reçete uygulama duyurusundan da anlaşılacağı gibi tüm e reçete işlemleri Çalışma Bakanlığı üzerinden yürütüleceği görünmektedir.\nİşyeri Hekimlerinin e reçete yazma programları, Çalışma Bakanlığı veri tabanına entegrasyonu yapılan özel yazılımlardır. E reçete programı, işyeri hekimlerinin elle yazdıkları reçeteleri E-Reçete olarak SGK Medula sistemine gönderecektir. SGK Medula Sistemi zaten Çalışma Bakanlığının kendi sistemi olduğundan dolayı e reçete uygulaması işyeri hekimleri kullanımına açmak kolay olacaktır.\nOSBH İşyeri Hekimliği E-Reçete Yazılım Programları Özellikleri;\nE reçete program özelliklerine bakıldığında temelde hepsi e reçete yazma amaçlarını karşılamaktadır. Ancak e reçete yazma programın alt yapıları birbirinden farklılık gösterdiğinden dolayı kullanım şekliği değişiklik göstermektedir.\nE reçete yazma programlarının masaüstü kurulum gerektiren, masaüstü kurulum gerektirmeyen ve web tabanlı yazımlar olarak üç ana başlıkta toplayabiliriz.\nMasaüstü Kurulum Gerektiren E reçete Programı;\nBu yazılımlar bilgisayara bir exe ile kurulum gerektiren programlardır. İşyeri hekimleri e reçete programın yüklendiği bilgisayarı üzerinden e reçete programına giriş yaparak e reçete yazabilir. Bu tür e reçete yazılımları İşyeri sağlık ve güvenlik birimleri için kullanımına uygun, ortak sağlık ve güvenlik birimi ve bireysel çalışan işyeri hekimlerinin kullanımına pek uygun değildir.\nMasaüstü Kurulum Gerektirmeyen Harici Bellek Üzerinden Çalışan e reçete Programı\n; Bu yazılımlar, bilgisayara kurulum gerektirmeden taşınabilir USB bellek veya harici hard-disk üzerinden e reçete uygulamasının çalıştırılmasıyla kullanılabilen yazılımlardır. E reçete programının USB bellek veya harici hard-disk taşınabilir olması büyük kolaylık gibi görünse de beraberinde çok büyük risk taşımaktadır. E reçete uygulamasının yüklü olduğu bellek yada diskin kaybolma yada bozulma olasılığının yüksek olması hekimleri tekrar düşünmeye sevk etmektedir.\nWeb Tabanlı e reçete Programı\n; Bu yazılımlar e reçete uygulamasında, masaüstü veya dizüstü bilgisayar, akıllı telefonlar ve tablet gibi internetin olduğu her platformda kullanımın olması avantajıyla her türlü çalışmalarda tercih edilmektedir. OSGB e reçete uygulamasında, İSGB e reçete uygulamasında veya bireysel işyeri hekimliği e reçete uygulamasında en kolay ve hızlı olarak beklentilere cevap verecek e reçete program türüdür.\nOSBH OSGB yazılımlarına göz atabilirsiniz.\nÇalışma Bakanlığı\nhttps://isgkatip.csgb.gov.tr/\nweb adresinden 02.10.2017 tarihinde yapılan işyeri hekimliği e reçete duyurusu aşağıda yer almaktadır.\n“\nVatandaşlara devlet tarafından verilen hizmetlerin en kolay ve en etkin yoldan kaliteli, hızlı, kesintisiz ve güvenli bir şekilde elektronik ortamda sunulması amacıyla Bakanlığımızca yürütülen tüm uygulamalarda e-devlet yapısının kullanılması yönünde çalışılmaktadır.\n6331 sayılı Kanununun 6 ncı maddesinde belirtilen iş sağlığı ve güvenliği hizmetlerinin elektronik ortamda yönetilebilmesi hedeflenmektedir. Bu maksatla kurulacak iş yeri bilgi yönetim sisteminin ilk uygulaması olan “elektronik işyeri hekim uygulaması” başlatılmıştır.\nİşyerlerinde çalışan 4/a statüsündeki kişiler için düzenlenecek reçetelerin karşılanabilmesi için, işyeri hekiminin Sağlık Bakanlığı Doktor Bilgi Bankası uygulamasında kaydı olup, İSG-KATİP üzerinden de görevlendirilmelerinin bulunması gerekmektedir.\nİşyeri hekimlerinin e-reçete düzenleyebilmeleri için; Sosyal Güvenlik Kurumu Medula Uygulamaları altında yer alan e-reçete web servisinin entegre edildiği bir otomasyon teminin ve 31.12.2017 tarihinde zorunlu olması planlanan imzalı e-reçete işlemleri için elektronik imza teminin yapılması önem arz etmektedir.\nNOT: İşyeri hekimi tarafından yazılan reçetelerin ödenmesinde aşağıdaki hususlar dikkate alınmaktadır.\n– İşyeri hekiminin Sağlık Bakanlığı Doktor Bilgi Bankasına kayıtlı olması gerekmektedir. Kayıt işlemi için İl Sağlık Müdürlüklerine müracaat edilmelidir.\nKayıt kontrolü için:\nhttp://sbu2.saglik.gov.tr/drbilgi\n– İşyeri hekimliği sertifikasının vize süresinin dolması nedeniyle İSG-KATİP’te geçersiz duruma düşmemiş olması gerekmektedir. Vize işlemleri için İş Sağlığı ve Güvenliği Genel Müdürlüğüne müracaat edilmelidir. Sertifika durumu İSG-KATİP’e e-devlet şifresi ile giriş yapılarak ilgili hekimin “Sertifikalar” sayfasından kontrol edilebilmektedir.\n– İşyeri hekiminin reçete düzenlediği kişinin çalıştığı işyeri ile İSG-KATİP üzerinden sözleşmesinin bulunması gerekmektedir. Sözleşme durumu İSG-KATİP’e e-devlet şifresi ile giriş yapılarak ilgili hekimin “Sözleşmeler” sayfasından kontrol edilebilmektedir.\n– OSGB’de çalışan işyeri hekimlerinin dışa görevlendirmesinin (ilgili işyerine ataması) bulunması gerekmektedir.\nE-reçete kullanım kılavuzu için aşağıdaki dosya linkine tıklayınız. (Yazılım firmaları içindir)\nE-Reçete işlemlerinde kullanılan SGK Kurumsal Hekim parolasını almak için\ntıklayınız\n. (İşyeri hekimliği dışında görev yapıp daha önce parola temin etmiş olan hekimler aynı parola ile işlem gerçekleştireceklerdir.)”\nFacebook\nTwitter\nPinterest\nLinkedIn\nTelegram\nPrevious Post\nBir yanıt yazın\nE-posta adresiniz yayınlanmayacak.\nGerekli alanlar\nile işaretlenmişlerdir\nYorum\nAd\nE-posta\nİnternet sitesi\nDaha sonraki yorumlarımda kullanılması için adım, e-posta adresim ve site adresim bu tarayıcıya kaydedilsin.\nClose\nSon Makaleler\nUzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik 2022\nUSBS Kayıtlı Firma\nUzaktan Sağlık Hizmeti Vermek için Dikkat Edilmesi Gereken Noktalar 2023\nUzaktan Online Sağlık Hizmeti Vermeye Başlayın 2023\nOnline Sağlık Bilişim\nHizmetlerimiz\nAktif USBS Listesi\nCepte Sağlık\nMüşteri Paneli\nHesabım\nSepetim\nE-Reçete, E-Rapor\nSözleşmeler\nÜyelik Sözleşmesi\nGizlilik Politikası\nKişisel Verilerin Korunması Kanunu\nİptal ve İade\nMesafeli Satış Sözleşmesi\nBilgi-Kalite Güvenliği Yönetim Politikası\n© 2026\nOnline Sağlık Bilişim Hizmetleri A.Ş.\n. All rights reserved\nSidebar",
+  "images": [
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "alt": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+      "localPath": "gorseller/logosd-8b84d523ea.png"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/logosd.png",
+      "alt": "Online Sağlık Bilişim Hizmetleri A.Ş.",
+      "localPath": "gorseller/logosd-8b84d523ea.png"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18.jpg",
+      "alt": "İşyeri Hekimliği E-Reçete Programı",
+      "localPath": "gorseller/Adsiz-tasarim-18-6ec0f23c4a.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-15-70x70.jpg",
+      "alt": "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik",
+      "localPath": "gorseller/Adsiz-tasarim-15-70x70-346c4aae0a.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-16-70x70.jpg",
+      "alt": "USBS Kayıtlı Firma",
+      "localPath": "gorseller/Adsiz-tasarim-16-70x70-fe8a7d49a6.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/ceptesaglik-blog-uzaktan-online-saglik-hizmeti-verebilmek-icin-gereklilikler-nelerdir-75638dbd83ca7c1-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/ceptesaglik-blog-uzaktan-online-saglik-hizmeti-verebilmek-icin-gereklilikler-nelerdir-75638dbd83ca7c1-70x70.jpg",
+      "alt": "Uzaktan Sağlık Hizmeti Vermek için Dikkat Edilmesi Gereken Noktalar",
+      "localPath": "gorseller/ceptesaglik-blog-uzaktan-online-saglik-hizmeti-verebilmek-ic-a1b967d847.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-17-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-17-70x70.jpg",
+      "alt": "Uzaktan Online Sağlık Hizmeti Vermeye Başlayın",
+      "localPath": "gorseller/Adsiz-tasarim-17-70x70-1ea6a801b1.jpg"
+    },
+    {
+      "src": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18-70x70.jpg",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18-70x70.jpg",
+      "alt": "İşyeri Hekimliği E-Reçete Programı",
+      "localPath": "gorseller/Adsiz-tasarim-18-70x70-deca077167.jpg"
+    }
+  ],
+  "backgroundImages": [
+    {
+      "src": "https://osbh.com.tr/wp-content/themes/basel/images/default-skin.png",
+      "absoluteUrl": "https://osbh.com.tr/wp-content/themes/basel/images/default-skin.png",
+      "localPath": "gorseller/default-skin-1ea43e3d25.png"
+    }
+  ],
+  "favicon": {
+    "absoluteUrl": "https://osbh.com.tr/wp-content/uploads/2023/01/Basliksiz-3.png",
+    "localPath": "gorseller/Basliksiz-3-f94f8be53b.png"
+  },
+  "links": {
+    "internal": [
+      "/hesabim/sifremi-unuttum/",
+      "/hesabim/",
+      "/",
+      "/usbs-ozellikleri/",
+      "/uzaktan-saglik-hizmet-paketleri/",
+      "/bireysel-usbs-paketleri/",
+      "/kurumsal-usbs-paketleri/",
+      "/osgb-usbs-paketleri/",
+      "/blog/",
+      "/kurumsal/",
+      "/iletisim/",
+      "/sepet/",
+      "/category/uzaktan-saglik/",
+      "/author/admin/",
+      "/isyeri-hekimligi-e-recete-programi/",
+      "/uzaktan-online-saglik-hizmeti-vermeye-baslayin-2023/",
+      "/uzaktan-saglik-hizmetlerinin-sunumu/",
+      "/usbs-kayitli-firma/",
+      "/uzaktan-saglik-hizmeti-vermek-icin-dikkat-edilecekler/",
+      "/blog",
+      "/iletisim",
+      "/hizmetlerimiz",
+      "/hesabim",
+      "/sepet",
+      "/uzaktan-online-saglik-hizmeti-vermeye-baslayin/",
+      "/uyelik-sozlesmesi",
+      "/gizlilik-politikasi/",
+      "/kisisel-verilerin-korunmasi-kanunu",
+      "/iptal-ve-iade",
+      "/mesafeli-satis-sozlesmesi",
+      "/bilgi-kalite-guvenligi-yonetim-politikasi"
+    ],
+    "external": [
+      "https://isgkatip.csgb.gov.tr/",
+      "http://sbu2.saglik.gov.tr/drbilgi/",
+      "https://medeczane.sgk.gov.tr/doktor/login.jsp",
+      "https://www.facebook.com/sharer/sharer.php?u=https://osbh.com.tr/isyeri-hekimligi-e-recete-programi/",
+      "https://twitter.com/share?url=https://osbh.com.tr/isyeri-hekimligi-e-recete-programi/",
+      "https://pinterest.com/pin/create/button/?url=https://osbh.com.tr/isyeri-hekimligi-e-recete-programi/&media=https://osbh.com.tr/wp-content/uploads/2023/02/Adsiz-tasarim-18.jpg",
+      "https://www.linkedin.com/shareArticle?mini=true&url=https://osbh.com.tr/isyeri-hekimligi-e-recete-programi/",
+      "https://telegram.me/share/url?url=https://osbh.com.tr/isyeri-hekimligi-e-recete-programi/",
+      "https://kayittescil.saglik.gov.tr/TR-90715/aktif-usbs-listesi.html?Sayfa=2",
+      "https://ceptesaglik.com/"
+    ]
+  },
+  "forms": [
+    {
+      "action": "https://osbh.com.tr/hesabim/",
+      "method": "post",
+      "id": null,
+      "fields": [
+        "username",
+        "password",
+        "woocommerce-login-nonce",
+        "_wp_http_referer",
+        "rememberme"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/",
+      "method": "get",
+      "id": "searchform",
+      "fields": [
+        "s",
+        "post_type"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/",
+      "method": "get",
+      "id": "searchform",
+      "fields": [
+        "s",
+        "post_type"
+      ]
+    },
+    {
+      "action": "https://osbh.com.tr/wp-comments-post.php",
+      "method": "post",
+      "id": "commentform",
+      "fields": [
+        "comment",
+        "author",
+        "email",
+        "url",
+        "wp-comment-cookies-consent",
+        "submit",
+        "comment_post_ID",
+        "comment_parent"
+      ]
+    }
+  ],
+  "mapIframes": [],
+  "trackingHints": {
+    "gtagOrAnalytics": [
+      "https://www.googletagmanager.com/gtag/js?id=G-5WG2NSEQ06&cx=c&gtm=4e69n1",
+      "https://www.google-analytics.com/analytics.js",
+      "https://www.googletagmanager.com/gtag/js?id=G-5B1VZ7JWZD&cx=c&gtm=4e69n1",
+      "https://www.googletagmanager.com/gtag/js?id=UA-242296204-2"
+    ],
+    "gtmId": [],
+    "gaId": [
+      "G-5WG2NSEQ06"
+    ],
+    "fbPixel": false,
+    "searchConsoleVerification": null
+  }
+}

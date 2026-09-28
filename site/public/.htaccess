@@ -1,0 +1,36 @@
+# OSBH.com.tr - Statik site .htaccess
+# GüzelHosting cPanel (Apache) için
+
+# --- HTTPS zorunlu ---
+RewriteEngine On
+RewriteCond %{HTTPS} off
+RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+
+# --- Eski WooCommerce sayfaları: mağaza artık vitrin, sepet/hesap/karşılaştırma
+#     altyapısı kurulmadı (bkz. proje brief kararı). SEO değerini korumak için
+#     301 ile /magaza/ sayfasına yönlendiriliyor. ---
+Redirect 301 /sepet/ /magaza/
+Redirect 301 /odeme/ /magaza/
+Redirect 301 /hesabim/ /magaza/
+Redirect 301 /wishlist/ /magaza/
+Redirect 301 /compare/ /magaza/
+
+# --- Güvenlik başlıkları ---
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+</IfModule>
+
+# --- Statik varlıklar için uzun süreli önbellek ---
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType image/webp "access plus 1 year"
+  ExpiresByType image/png "access plus 1 year"
+  ExpiresByType image/jpeg "access plus 1 year"
+  ExpiresByType text/css "access plus 1 month"
+  ExpiresByType application/javascript "access plus 1 month"
+</IfModule>
+
+# --- 404 sayfası ---
+ErrorDocument 404 /404.html

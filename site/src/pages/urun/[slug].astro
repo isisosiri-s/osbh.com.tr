@@ -1,0 +1,96 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import FeatureList from '../../components/FeatureList.astro';
+import ContactForm from '../../components/ContactForm.astro';
+import CertBadges from '../../components/CertBadges.astro';
+import { SITE } from '../../lib/site';
+
+export async function getStaticPaths() {
+  const products = await getCollection('products');
+  return products.map((p) => ({ params: { slug: p.slug }, props: { entry: p } }));
+}
+
+const { entry } = Astro.props;
+const p = entry.data;
+
+const productJsonLd = {
+  '@context': 'https://schema.org',
+  '@type': 'Product',
+  name: p.title,
+  description: p.description,
+  image: p.image ? `${SITE.url}${p.image}` : undefined,
+  brand: { '@type': 'Brand', name: SITE.name },
+  offers: {
+    '@type': 'Offer',
+    priceCurrency: 'TRY',
+    price: p.price.replace(/\./g, '').replace(',', '.'),
+    availability: 'https://schema.org/InStock',
+    url: p.canonical,
+  },
+};
+---
+
+<BaseLayout
+  title={p.pageTitle}
+  description={p.description}
+  canonical={p.canonical}
+  ogImage={p.image}
+  ogType="product"
+  jsonLd={[productJsonLd]}
+>
+  <div class="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8 py-10">
+    <nav class="text-sm text-slate-500 mb-6">
+      <a href="/" class="hover:text-teal-700">Ana Sayfa</a>
+      <span class="mx-1.5">/</span>
+      <a href="/magaza/" class="hover:text-teal-700">Paketlerimiz</a>
+      <span class="mx-1.5">/</span>
+      <span class="text-slate-700">{p.title}</span>
+    </nav>
+
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-10 mb-14">
+      <div class="rounded-2xl overflow-hidden bg-slate-100 aspect-[4/3]">
+        {p.image && <img src={p.image} alt={p.title} width="700" height="525" class="h-full w-full object-cover" />}
+      </div>
+
+      <div>
+        <span class="inline-block text-xs font-semibold uppercase tracking-wide text-teal-600 mb-2">{p.categoryLabel}</span>
+        <h1 class="text-3xl sm:text-4xl font-extrabold text-slate-900 mb-3">{p.title}</h1>
+        {p.activation && <p class="text-slate-500 mb-4">{p.activation}</p>}
+
+        <div class="flex items-baseline gap-3 mb-2">
+          {p.discountPercent && (
+            <span class="rounded-full bg-rose-100 text-rose-700 text-xs font-bold px-2.5 py-1">-%{p.discountPercent}</span>
+          )}
+          {p.originalPrice && <span class="text-lg text-slate-400 line-through">{p.originalPrice} ₺</span>}
+        </div>
+        <div class="text-4xl font-extrabold text-slate-900 mb-1">{p.price} ₺ <span class="text-base font-medium text-slate-500">/ yıl</span></div>
+        <p class="text-sm text-slate-500 mb-6">{p.note}</p>
+
+        <a
+          href={`/iletisim/?konu=${encodeURIComponent(p.title + ' - Teklif Talebi')}`}
+          class="inline-flex items-center justify-center w-full sm:w-auto rounded-full bg-teal-600 hover:bg-teal-700 px-8 py-3.5 text-base font-semibold text-white shadow transition-colors"
+        >
+          Teklif Al / Bize Ulaşın
+        </a>
+        <p class="mt-3 text-xs text-slate-400">
+          Bu paket şu an için online satışa kapalıdır. Detaylı bilgi ve fiyat teklifi için bizimle iletişime geçin.
+        </p>
+      </div>
+    </div>
+
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-10">
+      <div class="lg:col-span-2">
+        <h2 class="text-2xl font-bold text-slate-900 mb-6">Paket Özellikleri</h2>
+        <FeatureList sections={p.sections} />
+      </div>
+      <div>
+        <ContactForm title="Bu Paket İçin Teklif Alın" subjectDefault={`${p.title} - Teklif Talebi`} />
+      </div>
+    </div>
+
+    <div class="mt-16 pt-10 border-t border-slate-100">
+      <CertBadges />
+    </div>
+  </div>
+</BaseLayout>
