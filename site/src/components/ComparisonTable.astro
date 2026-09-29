@@ -14,10 +14,23 @@ const { products } = Astro.props;
 
 const sectionTitles = products[0]?.data.sections.map((s) => s.title) ?? [];
 
-function findValue(p: ProductEntry, sectionTitle: string, itemName: string) {
+// Bazı özellik isimleri paketler arasında miktar bilgisiyle birlikte değişir
+// (örn. "5 Ad/Ay Video Yayınlama" / "15 Ad/Ay Video Yayınlama" / "Sınırsız Video Yayınlama").
+// Satırları doğru eşleştirmek için isim, miktar öneki atılarak normalize edilir.
+const QUANTITY_PREFIX = /^(\d+\s*Ad\/Ay|Sınırsız)\s+/i;
+
+function normalizeName(name: string) {
+  return name.replace(QUANTITY_PREFIX, '');
+}
+
+function getQuantityLabel(name: string) {
+  const match = name.match(QUANTITY_PREFIX);
+  return match ? match[1] : null;
+}
+
+function findItem(p: ProductEntry, sectionTitle: string, itemName: string) {
   const section = p.data.sections.find((s) => s.title === sectionTitle);
-  const item = section?.items.find((i) => i.name === itemName);
-  return item?.value ?? null;
+  return section?.items.find((i) => normalizeName(i.name) === normalizeName(itemName)) ?? null;
 }
 ---
 
@@ -44,29 +57,41 @@ function findValue(p: ProductEntry, sectionTitle: string, itemName: string) {
                 {sectionTitle}
               </td>
             </tr>
-            {firstSection.items.map((item) => (
-              <tr class="border-t border-slate-100">
-                <td class="p-3 text-slate-600">{item.name}</td>
-                {products.map((p) => {
-                  const val = findValue(p, sectionTitle, item.name);
-                  return (
-                    <td class="p-3 text-center">
-                      {val === 'Var' || val === true ? (
-                        <svg class="h-5 w-5 text-teal-600 mx-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
-                          <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
-                        </svg>
-                      ) : val === 'Yok' ? (
-                        <svg class="h-5 w-5 text-slate-300 mx-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
-                          <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
-                        </svg>
-                      ) : (
-                        <span class="font-medium text-slate-800">{val}</span>
-                      )}
-                    </td>
-                  );
-                })}
-              </tr>
-            ))}
+            {firstSection.items.map((item) => {
+              const isQuantityRow = getQuantityLabel(item.name) !== null;
+              return (
+                <tr class="border-t border-slate-100">
+                  <td class="p-3 text-slate-600">{normalizeName(item.name)}</td>
+                  {products.map((p) => {
+                    const matched = findItem(p, sectionTitle, item.name);
+                    const val = matched?.value ?? null;
+                    if (isQuantityRow) {
+                      const quantity = matched ? getQuantityLabel(matched.name) : null;
+                      return (
+                        <td class="p-3 text-center">
+                          <span class="font-medium text-slate-800">{quantity ?? '-'}</span>
+                        </td>
+                      );
+                    }
+                    return (
+                      <td class="p-3 text-center">
+                        {val === 'Var' || val === true ? (
+                          <svg class="h-5 w-5 text-teal-600 mx-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M5 13l4 4L19 7" />
+                          </svg>
+                        ) : val === 'Yok' ? (
+                          <svg class="h-5 w-5 text-slate-300 mx-auto" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2.5">
+                            <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+                          </svg>
+                        ) : (
+                          <span class="font-medium text-slate-800">{val}</span>
+                        )}
+                      </td>
+                    );
+                  })}
+                </tr>
+              );
+            })}
           </>
         );
       })}
