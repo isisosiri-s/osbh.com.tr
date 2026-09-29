@@ -12,16 +12,50 @@ const currentPath = Astro.url.pathname;
 
       <nav class="hidden lg:flex items-center gap-1 text-sm font-medium">
         {NAV_LINKS.map((link) => (
-          <a
-            href={link.href}
-            class={`px-3 py-2 rounded-md transition-colors ${
-              currentPath === link.href
-                ? 'text-teal-700 bg-teal-50'
-                : 'text-slate-600 hover:text-teal-700 hover:bg-slate-50'
-            }`}
-          >
-            {link.label}
-          </a>
+          link.children ? (
+            <div class="relative group">
+              <button
+                type="button"
+                class={`inline-flex items-center gap-1 px-3 py-2 rounded-md transition-colors ${
+                  link.children.some((c) => c.href === currentPath)
+                    ? 'text-teal-700 bg-teal-50'
+                    : 'text-slate-600 hover:text-teal-700 hover:bg-slate-50'
+                }`}
+              >
+                {link.label}
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                  <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+                </svg>
+              </button>
+              <div class="absolute left-0 top-full pt-1 hidden group-hover:block group-focus-within:block">
+                <div class="min-w-64 rounded-lg border border-slate-100 bg-white py-2 shadow-lg">
+                  {link.children.map((child) => (
+                    <a
+                      href={child.href}
+                      class={`block px-4 py-2 text-sm transition-colors ${
+                        currentPath === child.href
+                          ? 'text-teal-700 bg-teal-50'
+                          : 'text-slate-600 hover:text-teal-700 hover:bg-slate-50'
+                      }`}
+                    >
+                      {child.label}
+                    </a>
+                  ))}
+                </div>
+              </div>
+            </div>
+          ) : (
+            <a
+              href={link.href}
+              class={`px-3 py-2 rounded-md transition-colors ${
+                currentPath === link.href
+                  ? 'text-teal-700 bg-teal-50'
+                  : 'text-slate-600 hover:text-teal-700 hover:bg-slate-50'
+              }`}
+            >
+              {link.label}
+            </a>
+          )
         ))}
       </nav>
 
@@ -56,14 +90,41 @@ const currentPath = Astro.url.pathname;
   <nav id="mobile-menu" class="lg:hidden hidden border-t border-slate-100 bg-white">
     <div class="px-4 py-3 space-y-1">
       {NAV_LINKS.map((link) => (
-        <a
-          href={link.href}
-          class={`block px-3 py-2 rounded-md text-sm font-medium ${
-            currentPath === link.href ? 'text-teal-700 bg-teal-50' : 'text-slate-600 hover:bg-slate-50'
-          }`}
-        >
-          {link.label}
-        </a>
+        link.children ? (
+          <details class="group" open={link.children.some((c) => c.href === currentPath)}>
+            <summary class={`flex items-center justify-between px-3 py-2 rounded-md text-sm font-medium cursor-pointer list-none ${
+              link.children.some((c) => c.href === currentPath)
+                ? 'text-teal-700 bg-teal-50'
+                : 'text-slate-600 hover:bg-slate-50'
+            }`}>
+              <span>{link.label}</span>
+              <svg xmlns="http://www.w3.org/2000/svg" class="h-4 w-4 transition-transform group-open:rotate-180" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7" />
+              </svg>
+            </summary>
+            <div class="ml-3 mt-1 space-y-1 border-l border-slate-100 pl-3">
+              {link.children.map((child) => (
+                <a
+                  href={child.href}
+                  class={`block px-3 py-2 rounded-md text-sm font-medium ${
+                    currentPath === child.href ? 'text-teal-700 bg-teal-50' : 'text-slate-600 hover:bg-slate-50'
+                  }`}
+                >
+                  {child.label}
+                </a>
+              ))}
+            </div>
+          </details>
+        ) : (
+          <a
+            href={link.href}
+            class={`block px-3 py-2 rounded-md text-sm font-medium ${
+              currentPath === link.href ? 'text-teal-700 bg-teal-50' : 'text-slate-600 hover:bg-slate-50'
+            }`}
+          >
+            {link.label}
+          </a>
+        )
       ))}
       <a href="/iletisim/" class="block mt-2 rounded-full bg-teal-600 px-4 py-2.5 text-center text-sm font-semibold text-white">
         Teklif Al

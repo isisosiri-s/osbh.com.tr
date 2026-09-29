@@ -25,10 +25,14 @@ export const SITE = {
 export const NAV_LINKS = [
   { href: '/', label: 'Anasayfa' },
   { href: '/usbs-ozellikleri/', label: 'USBS Özellikleri' },
-  { href: '/uzaktan-saglik-hizmet-paketleri/', label: 'USBS Çözümleri' },
-  { href: '/bireysel-usbs-paketleri/', label: 'Bireysel USBS Paketleri' },
-  { href: '/kurumsal-usbs-paketleri/', label: 'Kurumsal USBS Paketleri' },
-  { href: '/osgb-usbs-paketleri/', label: 'OSGB USBS Paketleri' },
+  {
+    label: 'USBS Çözümleri',
+    children: [
+      { href: '/bireysel-usbs-paketleri/', label: 'Bireysel USBS Paketleri' },
+      { href: '/kurumsal-usbs-paketleri/', label: 'Kurumsal USBS Paketleri' },
+      { href: '/osgb-usbs-paketleri/', label: 'OSGB USBS Paketleri' },
+    ],
+  },
   { href: '/blog/', label: 'Blog' },
   { href: '/kurumsal/', label: 'Kurumsal' },
   { href: '/iletisim/', label: 'İletişim' },
